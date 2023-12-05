@@ -1,0 +1,1921 @@
+{"vid": "DUhlrNEsKys", "task": "23521", "legal_range": [2, 0, 5, 0, 4, 5, 4, 5, 2, 0, 4, 0, 4, 5]}
+{"vid": "RhuRUsQ6tzw", "task": "23521", "legal_range": [0, 2, 4, 0, 3, 4, 5]}
+{"vid": "vI_dX66DKE0", "task": "23521", "legal_range": [0, 2, 4, 3, 5]}
+{"vid": "iE3xFGY1aSQ", "task": "23521", "legal_range": [0, 0, 0, 2, 4, 1, 4, 2, 4, 5]}
+{"vid": "Pw7uBCZkJeU", "task": "23521", "legal_range": [2, 0, 4, 3, 4]}
+{"vid": "pKhaAKgkFso", "task": "23521", "legal_range": [2, 2, 4, 3, 4, 3, 3, 0, 4, 1, 4, 1, 1, 3, 1, 4, 1, 5]}
+{"vid": "tvjy1uazW3A", "task": "23521", "legal_range": [0, 1, 3, 3, 1, 5, 3, 4, 5, 4, 4, 4, 5, 5]}
+{"vid": "PXGNpj89Vxw", "task": "23521", "legal_range": [1, 1, 2, 1, 4, 4, 3, 4, 2, 4, 2, 5, 5]}
+{"vid": "SQFOh_NGkbY", "task": "23521", "legal_range": [2, 4, 3, 3, 4, 0, 4, 4, 3, 4, 4]}
+{"vid": "Up8aydZZhd4", "task": "23521", "legal_range": [2, 0, 4, 5, 0, 5, 4, 3, 4, 5, 1]}
+{"vid": "9XAyNjSeSKg", "task": "23521", "legal_range": [0, 2, 4, 4, 3, 4, 5, 5]}
+{"vid": "CLP19G1u46I", "task": "23521", "legal_range": [0, 0, 2, 4, 3, 4, 5]}
+{"vid": "O3-cTYsaMzs", "task": "23521", "legal_range": [2, 0, 4, 0, 4, 5]}
+{"vid": "aMvbio_IZ0s", "task": "23521", "legal_range": [2, 1, 4, 3, 3, 5]}
+{"vid": "jAM0yUeBuyc", "task": "23521", "legal_range": [1, 2, 4, 5, 3, 3, 4, 4, 5]}
+{"vid": "rXK81gU3a6g", "task": "23521", "legal_range": [0, 4, 2, 3, 1, 4, 5]}
+{"vid": "qs2eKOubSYY", "task": "23521", "legal_range": [0, 2, 3, 4, 5]}
+{"vid": "5nsy9YIxcB8", "task": "23521", "legal_range": [0, 2, 4, 4, 3, 5, 5]}
+{"vid": "LyoIPeypZu4", "task": "23521", "legal_range": [2, 0, 4, 3, 5]}
+{"vid": "lRZfKRG_srI", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "by4pdbsi6zQ", "task": "23521", "legal_range": [1, 2, 4, 3, 1, 4, 5, 1, 1, 4, 5]}
+{"vid": "LfEBVvsVENI", "task": "23521", "legal_range": [0, 2, 5, 3, 4, 5, 5]}
+{"vid": "npN5w7eTu-0", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "YSXOY-dzPHk", "task": "23521", "legal_range": [0, 2, 4, 0, 4, 3, 4, 5, 0, 4, 3, 4]}
+{"vid": "UbUDv76s0Lo", "task": "23521", "legal_range": [0, 2, 4, 1, 4, 3, 3, 3, 4, 4, 5]}
+{"vid": "e9TrvoJRcN4", "task": "23521", "legal_range": [0, 0, 2, 4, 3, 3, 4, 5]}
+{"vid": "2f3p8CsG5BE", "task": "23521", "legal_range": [2, 4, 3, 5, 2, 4, 3, 4, 5, 2, 4, 3, 5]}
+{"vid": "TRnp0_S2eUo", "task": "23521", "legal_range": [2, 0, 4, 3, 4, 3, 4, 4, 5]}
+{"vid": "kUwmsFTzbeQ", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "jVQ_hdFsRtM", "task": "23521", "legal_range": [2, 0, 4, 3, 4, 0, 4, 5]}
+{"vid": "stm-KCxEIvA", "task": "23521", "legal_range": [2, 4, 3, 4, 3, 5]}
+{"vid": "fxyKuY0kg70", "task": "23521", "legal_range": [0, 2, 4, 3, 5]}
+{"vid": "9rFMY1mt-Xg", "task": "23521", "legal_range": [2, 0, 4, 2, 4, 0, 4, 3, 5]}
+{"vid": "KrOWAkigIvg", "task": "23521", "legal_range": [0, 4, 3, 1, 4, 3, 5]}
+{"vid": "XVo1Z-vsaMc", "task": "23521", "legal_range": [5]}
+{"vid": "evBGUEAtf9w", "task": "23521", "legal_range": [0, 2, 4, 4, 4, 3, 1, 2, 2, 4, 4, 5]}
+{"vid": "u7kOvN1jXB4", "task": "23521", "legal_range": [0, 2, 4, 4, 3, 5, 0, 2, 4, 3, 5]}
+{"vid": "76ZpCvXQdOA", "task": "23521", "legal_range": [2, 0, 4, 3, 5, 2, 0, 3, 5, 2, 0, 3, 5]}
+{"vid": "txi8FPcHhVs", "task": "23521", "legal_range": [2, 0, 4, 0, 4, 5]}
+{"vid": "19-22QYf4Ng", "task": "23521", "legal_range": [1, 2, 4, 5, 2, 4, 3, 5]}
+{"vid": "7pOBRoVEdEQ", "task": "23521", "legal_range": [0, 0, 4, 5]}
+{"vid": "9SI2MAvsxOA", "task": "23521", "legal_range": [2, 0, 3, 4, 5]}
+{"vid": "PYGEplUdjVM", "task": "23521", "legal_range": [2, 1, 4, 5, 4, 4, 5, 5]}
+{"vid": "6GqD7gYOkYc", "task": "23521", "legal_range": [1, 2, 3, 4, 5]}
+{"vid": "ISh_kDmdEVM", "task": "23521", "legal_range": [0, 1, 4, 3, 5, 4]}
+{"vid": "h1KPIV1fbQY", "task": "23521", "legal_range": [2, 0, 4, 3, 5]}
+{"vid": "oQEept_bM6Q", "task": "23521", "legal_range": [1, 2, 4, 3, 4, 5]}
+{"vid": "B6j2ajdVBvw", "task": "23521", "legal_range": [3, 3, 2, 4, 3, 3, 3, 3, 4, 5]}
+{"vid": "gG8fuef4En4", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "470Z9IvW4PI", "task": "23521", "legal_range": [2, 3, 1, 4, 3, 3]}
+{"vid": "OrMWfhdd4mc", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "_dUOtpdgAHc", "task": "23521", "legal_range": [2, 1, 4, 4, 3, 5, 5]}
+{"vid": "u_F0mlpP0F4", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "RCQikkkm8Lo", "task": "23521", "legal_range": [0, 0, 2, 4, 3, 5]}
+{"vid": "u8Nd5wUkwP4", "task": "23521", "legal_range": [3, 2, 4, 3, 1, 4, 5, 5]}
+{"vid": "DnwTYNbicHI", "task": "23521", "legal_range": [0, 2, 4, 2, 3, 5, 2, 4, 3, 3, 4, 5, 2, 4, 3, 5]}
+{"vid": "m-Z3J7TD6ig", "task": "23521", "legal_range": [2, 4, 4, 1, 3, 4, 5]}
+{"vid": "IGE9qpICfSw", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "9AReY1hVC9k", "task": "23521", "legal_range": [2, 4, 3, 4, 5]}
+{"vid": "v8dnkbrMZNw", "task": "23521", "legal_range": [2, 4, 5, 3, 4]}
+{"vid": "aszr2GX1jt8", "task": "23521", "legal_range": [1, 2, 1, 4, 3, 5]}
+{"vid": "2i29gnMC3b8", "task": "23521", "legal_range": [0, 3, 2, 4, 5]}
+{"vid": "SkxUpRTS_eI", "task": "23521", "legal_range": [0, 2, 3, 4, 5]}
+{"vid": "xeKXSDl2u6I", "task": "23521", "legal_range": [0, 4, 3, 4, 5, 0, 3, 4, 5]}
+{"vid": "sN6iQyzguN4", "task": "23521", "legal_range": [0, 2, 4, 0, 3, 4]}
+{"vid": "LAF7I-qtp-U", "task": "23521", "legal_range": [4, 3, 4, 5]}
+{"vid": "6jvd9SwRhFA", "task": "23521", "legal_range": [2, 0, 4, 3, 0, 5]}
+{"vid": "1RgsJ73ui8E", "task": "23521", "legal_range": [3, 1, 3, 1, 1, 1, 1, 1, 4, 2, 4, 4, 4, 1, 4, 5]}
+{"vid": "piGtNm1Ix7c", "task": "23521", "legal_range": [3, 2, 4, 5, 0, 4, 3]}
+{"vid": "0OufNIyBkjw", "task": "23521", "legal_range": [1, 2, 4, 3, 5]}
+{"vid": "6E4yDH-xqQU", "task": "23521", "legal_range": [0, 0, 2, 4, 3, 5, 0, 0, 2, 4, 4, 4, 3, 5]}
+{"vid": "z_TsFWVqySA", "task": "23521", "legal_range": [0, 4, 2, 3, 1, 4, 5, 5]}
+{"vid": "qLnTkIUO0so", "task": "23521", "legal_range": [0, 2, 4, 3, 3, 3, 3, 1, 3, 4, 1, 5]}
+{"vid": "fcFC9mEhPZI", "task": "23521", "legal_range": [0, 1, 2, 4, 3, 5]}
+{"vid": "UT02LIzgVvo", "task": "23521", "legal_range": [0, 2, 4, 3, 4, 5]}
+{"vid": "16DMu8vjcDY", "task": "23521", "legal_range": [1, 1, 2, 1, 4, 4, 3, 1, 4, 4, 4, 4, 5, 5, 5]}
+{"vid": "5tYATWL3Un4", "task": "23521", "legal_range": [1, 2, 4, 3, 4, 5]}
+{"vid": "WWyI5u4Lljk", "task": "23521", "legal_range": [2, 0, 4, 0, 4, 3, 4, 1]}
+{"vid": "G_uFc_tYQ6Y", "task": "23521", "legal_range": [0, 2, 3, 5]}
+{"vid": "pIWaKNuYME4", "task": "23521", "legal_range": [0, 2, 4, 0, 3, 5]}
+{"vid": "rSxYM2XUZqQ", "task": "23521", "legal_range": [4, 3, 4, 5]}
+{"vid": "i56WRK5a3zw", "task": "23521", "legal_range": [0, 2, 4, 3, 4, 5, 4, 3, 4, 5]}
+{"vid": "gEkku-1nOcI", "task": "23521", "legal_range": [0, 2, 3, 3, 5]}
+{"vid": "YHeRqY_W0dE", "task": "23521", "legal_range": [1, 2, 3, 5]}
+{"vid": "Iw8IAMVFJEY", "task": "23521", "legal_range": [0, 2, 4, 4, 0, 4, 3, 4, 5]}
+{"vid": "XzEPzr-8SHU", "task": "23521", "legal_range": [0, 2, 4, 2, 4, 5, 2, 4, 5]}
+{"vid": "vSjMRLVKgPE", "task": "23521", "legal_range": [0, 2, 4, 4, 3, 4, 5]}
+{"vid": "KfeD7nkLbFw", "task": "23521", "legal_range": [0, 1, 2, 3, 4, 5]}
+{"vid": "9W0OAg_dfxo", "task": "23521", "legal_range": [2, 4, 3, 0, 4, 5]}
+{"vid": "YnyhXL5NEMQ", "task": "23521", "legal_range": [0, 2, 4, 3, 5]}
+{"vid": "2Wq5vTAUVUc", "task": "23521", "legal_range": [2, 0, 4, 3, 4, 5]}
+{"vid": "qmCkjrimXXs", "task": "23521", "legal_range": [0, 0, 4, 1, 3, 4, 5, 0, 0, 4, 1, 4, 3, 4, 5]}
+{"vid": "4V6ooYse_N8", "task": "23521", "legal_range": [2, 4, 3, 4, 5, 2, 4, 4, 3, 4, 5, 2, 4, 3, 4, 5, 1, 3, 3, 3, 3, 1, 4, 5, 3, 1, 4, 5, 3, 1, 4, 5]}
+{"vid": "9Fz_6L1YtuI", "task": "23521", "legal_range": [2, 0, 4, 3, 5, 3, 5, 3, 4, 5]}
+{"vid": "7DRkU_dBL1k", "task": "23521", "legal_range": [0, 1, 3, 4, 5, 2, 0, 4, 5, 2, 4, 4, 0, 3, 5]}
+{"vid": "RBbyU3WH6h0", "task": "23521", "legal_range": [2, 0, 3, 4, 4]}
+{"vid": "zMzvALRrYcE", "task": "23521", "legal_range": [0, 2, 2, 4, 0, 4, 3, 4, 4, 5, 5]}
+{"vid": "yvH0D4q3GqE", "task": "23521", "legal_range": [2, 0, 4, 3, 4, 2, 0, 3, 4, 2, 0, 4, 3, 4, 5]}
+{"vid": "qoTRM6aXrlg", "task": "23521", "legal_range": [0, 2, 0, 4, 3, 3, 4, 5, 2, 0, 4, 5]}
+{"vid": "7rhi3wP6pbw", "task": "23521", "legal_range": [2, 4, 3, 3, 1, 4, 4, 1, 1, 1, 4, 1, 5]}
+{"vid": "dsnOkIri5_I", "task": "23521", "legal_range": [2, 0, 4, 3, 4, 1, 5]}
+{"vid": "SA7uFWTTU34", "task": "23521", "legal_range": [0, 0, 2, 4, 3, 4, 5, 4]}
+{"vid": "AUKdjwVlHfo", "task": "23521", "legal_range": [0, 2, 4, 4, 4, 0, 3, 4, 5]}
+{"vid": "uP5mokoQJ8M", "task": "23521", "legal_range": [0, 3, 2, 4, 5]}
+{"vid": "w-B9SBc6FJo", "task": "23521", "legal_range": [0, 2, 3, 5]}
+{"vid": "hPnXmYXPuXg", "task": "23521", "legal_range": [2, 0, 4, 3, 5, 5]}
+{"vid": "bBDF0QpJmjU", "task": "23521", "legal_range": [0, 1, 2, 4, 3, 5]}
+{"vid": "6h_ln4kkkVg", "task": "23521", "legal_range": [3, 0, 2, 4, 5]}
+{"vid": "M407Rivxv7M", "task": "23521", "legal_range": [1, 2, 4, 4, 0, 4, 3, 5]}
+{"vid": "6rNyE71EncM", "task": "23521", "legal_range": [0, 2, 4, 0, 3, 4, 5, 0, 2, 4, 0, 4, 3, 4, 5]}
+{"vid": "PnyeQIMmXjw", "task": "23521", "legal_range": [0, 2, 4, 3, 4, 5, 0, 2, 4, 3, 4, 5]}
+{"vid": "SeKUEH2S_gI", "task": "23521", "legal_range": [0, 1, 4, 3, 0, 3, 5]}
+{"vid": "H1i2ctoQidE", "task": "23521", "legal_range": [0, 4, 0, 3, 5]}
+{"vid": "8rMl8CTbgfU", "task": "23521", "legal_range": [2, 0, 4, 5]}
+{"vid": "vaRIErW3dOo", "task": "23521", "legal_range": [2, 0, 4, 3, 5]}
+{"vid": "urwathTf4DE", "task": "23521", "legal_range": [0, 2, 3, 0, 3, 4, 5, 5]}
+{"vid": "xxXk5Q6_oeM", "task": "23521", "legal_range": [2, 0, 4, 3, 4]}
+{"vid": "woyw0AeqhPI", "task": "23521", "legal_range": [3, 4, 2, 4, 3, 4, 5]}
+{"vid": "eLW2hiVAetU", "task": "23521", "legal_range": [2, 0, 4, 4, 3, 5]}
+{"vid": "CjebHedcUMM", "task": "23521", "legal_range": [0, 4, 3, 3, 4, 5]}
+{"vid": "1tWIrhG9YGM", "task": "23521", "legal_range": [0, 2, 2, 4, 4, 3, 5]}
+{"vid": "KEPLDPFNwTE", "task": "23521", "legal_range": [0, 3, 0, 2, 4, 4, 5]}
+{"vid": "Kq8wjk87rXM", "task": "23521", "legal_range": [0, 2, 4, 3, 0, 4, 3, 4, 5, 5, 5, 5]}
+{"vid": "W8AOkIwMoVs", "task": "23521", "legal_range": [2, 0, 3, 4, 5]}
+{"vid": "CgrVyYwYEn4", "task": "23521", "legal_range": [0, 4, 2, 2, 4, 1, 1, 1, 3, 3, 5, 5]}
+{"vid": "ONwnt5EP8A4", "task": "23521", "legal_range": [0, 3, 2, 4, 4, 5]}
+{"vid": "01-ZFvmSaAg", "task": "23521", "legal_range": [2, 0, 4, 0, 5, 0, 4, 2, 0, 4, 0, 4, 4, 5, 2, 0, 4, 5]}
+{"vid": "fuKcOnhrPvc", "task": "23521", "legal_range": [2, 0, 4, 0, 4, 4, 3, 4, 5]}
+{"vid": "Rc6aWsWCf6w", "task": "23521", "legal_range": [2, 4, 4, 3, 4, 5, 2, 4, 3, 4, 5]}
+{"vid": "CuIFhfTU8IY", "task": "23521", "legal_range": [2, 0, 4, 3, 3, 3, 4, 1, 5]}
+{"vid": "4H4KtT-Dbbg", "task": "23521", "legal_range": [1, 2, 4, 3, 4, 5]}
+{"vid": "SPYKn_cMFLQ", "task": "23521", "legal_range": [0, 2, 4, 4, 2, 4, 0, 4, 3, 5, 0, 5]}
+{"vid": "f2w8cjoWiIM", "task": "23521", "legal_range": [2, 4, 3, 5, 5]}
+{"vid": "h1GHsqPx3kQ", "task": "23521", "legal_range": [2, 4, 3, 4, 5, 3, 4, 5, 3, 5, 3]}
+{"vid": "BrLX1X1JvSs", "task": "59684", "legal_range": [6, 6, 6, 7, 10]}
+{"vid": "bTIQxX6MrHs", "task": "59684", "legal_range": [10, 6, 10]}
+{"vid": "9yPenba1R2k", "task": "59684", "legal_range": [10]}
+{"vid": "FyT1KDR7sFs", "task": "59684", "legal_range": [6, 7, 8, 8, 6, 7, 8, 9, 10]}
+{"vid": "iv2yv0PQmnY", "task": "59684", "legal_range": [6, 7, 6, 7, 6, 7, 6, 6, 7, 7, 8, 9, 10]}
+{"vid": "RTtBODrS32Y", "task": "59684", "legal_range": [6, 6, 7, 7, 10]}
+{"vid": "ZeyLj0Ppukc", "task": "59684", "legal_range": [6, 7, 8, 6, 7, 8, 9, 10]}
+{"vid": "0OYl1ivbjCE", "task": "59684", "legal_range": [6, 7]}
+{"vid": "oknSJc1EyEw", "task": "59684", "legal_range": [6, 6, 7, 8, 8, 9, 10]}
+{"vid": "43HMxBw9x80", "task": "59684", "legal_range": [6, 10]}
+{"vid": "K51Vrev4Eng", "task": "59684", "legal_range": [7, 10]}
+{"vid": "k0yQZabRNqI", "task": "59684", "legal_range": [6, 7, 7, 10]}
+{"vid": "6kp45D7ss94", "task": "59684", "legal_range": [6, 7, 10]}
+{"vid": "Xb8flgUUGOw", "task": "59684", "legal_range": [6, 6, 6, 7, 6, 7, 8, 7, 9, 7, 10]}
+{"vid": "7m7hHVJmdis", "task": "59684", "legal_range": [10, 6, 7, 6, 7, 8, 9]}
+{"vid": "VCdLDsjQCQ0", "task": "59684", "legal_range": [8, 9, 9, 10, 10, 10]}
+{"vid": "7tvqITJ57MY", "task": "59684", "legal_range": [6, 8, 9, 7, 9, 10]}
+{"vid": "9RGZpd2BlXg", "task": "59684", "legal_range": [6, 6, 8, 7, 9, 10]}
+{"vid": "52SBQDrEjXU", "task": "59684", "legal_range": [8, 9, 10, 10]}
+{"vid": "Fu9lKswbjyo", "task": "59684", "legal_range": [7, 9, 9, 10]}
+{"vid": "Je9oAUlhPCQ", "task": "59684", "legal_range": [10]}
+{"vid": "lur1ICKTg2o", "task": "59684", "legal_range": [10]}
+{"vid": "uUfSafiG7zc", "task": "59684", "legal_range": [10, 7, 9]}
+{"vid": "QVjNPIE9FlM", "task": "59684", "legal_range": [6, 9, 9, 10]}
+{"vid": "yrIUuGD8djo", "task": "59684", "legal_range": [6, 8, 9, 10]}
+{"vid": "Kcq5MrzYwxs", "task": "59684", "legal_range": [6, 6, 7, 6, 7, 10]}
+{"vid": "B1Pk3D3Oe7g", "task": "59684", "legal_range": [6, 6, 7, 6, 7, 6, 7, 7, 7, 8, 9, 8, 9, 7, 10, 10]}
+{"vid": "ec19cGXrSOU", "task": "59684", "legal_range": [6, 7, 9, 6, 9, 7, 10]}
+{"vid": "APT2vh__2Kk", "task": "59684", "legal_range": [6, 10, 9, 6, 7, 10, 7, 10, 10]}
+{"vid": "hBWys88_kVQ", "task": "59684", "legal_range": [7, 6, 8, 9, 6, 6, 7, 8, 9, 7, 7, 10]}
+{"vid": "QWSdmntHElQ", "task": "59684", "legal_range": [8, 8, 7, 10]}
+{"vid": "ge3vJWVqYNw", "task": "59684", "legal_range": [9, 7, 6, 8, 9, 10]}
+{"vid": "6tBeAxE-SE0", "task": "59684", "legal_range": [6, 7, 8, 7, 9, 7]}
+{"vid": "P3oKEZk3Ugc", "task": "59684", "legal_range": [10]}
+{"vid": "P3kDFssLLT8", "task": "59684", "legal_range": [6, 7, 9, 10]}
+{"vid": "MrbeB4teebg", "task": "59684", "legal_range": [10, 7]}
+{"vid": "o4FypyPR1lY", "task": "59684", "legal_range": [6, 10, 6, 10]}
+{"vid": "waNmzjGHzlo", "task": "59684", "legal_range": [10, 10, 10, 10, 10]}
+{"vid": "xU-Qj73OYIM", "task": "59684", "legal_range": [6, 9, 7]}
+{"vid": "xvlxjTc9Qhw", "task": "59684", "legal_range": [6, 7, 8, 9, 10]}
+{"vid": "Q_g8VZ-m720", "task": "59684", "legal_range": [10]}
+{"vid": "rzl_gN1T2oc", "task": "59684", "legal_range": [6, 8, 9, 7, 10]}
+{"vid": "J9GfMu86O-U", "task": "59684", "legal_range": [7]}
+{"vid": "G_odEveW7Ho", "task": "59684", "legal_range": [6, 7, 8, 9, 7, 10]}
+{"vid": "GdX0YphT9hs", "task": "59684", "legal_range": [10, 10, 10, 6, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 8, 9]}
+{"vid": "z4fdxHPBel0", "task": "59684", "legal_range": [7, 7, 7, 7, 8, 7, 8, 10]}
+{"vid": "QJH1F24-1Vc", "task": "59684", "legal_range": [10]}
+{"vid": "6cUv81G2KxI", "task": "59684", "legal_range": [8, 7, 10]}
+{"vid": "oyND7Eep0A8", "task": "59684", "legal_range": [6, 7, 6, 6, 8, 6, 7, 9, 10]}
+{"vid": "UfaI8zvKZt8", "task": "59684", "legal_range": [6, 7, 9, 10]}
+{"vid": "4kBMB_yeqF0", "task": "59684", "legal_range": [10]}
+{"vid": "2Oreb_SwoMU", "task": "59684", "legal_range": [6, 7, 8, 8, 8, 9, 9, 10, 10]}
+{"vid": "-PFr7DkvMGM", "task": "59684", "legal_range": [6, 7, 8, 9, 7, 10]}
+{"vid": "Q0pvap-Gkzc", "task": "59684", "legal_range": [6, 7, 8, 9, 7]}
+{"vid": "cxnduhQDuMo", "task": "59684", "legal_range": [6, 10, 6, 7, 7, 6, 8, 10]}
+{"vid": "48dfHpCnMM8", "task": "59684", "legal_range": [6, 9, 10, 7, 8, 9]}
+{"vid": "GGKX3iIHK9c", "task": "59684", "legal_range": [6, 8, 9, 9, 10]}
+{"vid": "r_I4tWj_xgI", "task": "59684", "legal_range": [6, 6, 8, 9, 9]}
+{"vid": "28jB3HoQkdQ", "task": "59684", "legal_range": [6, 7, 8, 9]}
+{"vid": "NqWA7oXDqtI", "task": "59684", "legal_range": [8, 6, 8, 6, 6, 6, 7, 8, 9, 10]}
+{"vid": "CT9dwsOCw_4", "task": "59684", "legal_range": [6, 6, 8, 8, 6, 8, 7, 7, 7, 9, 10]}
+{"vid": "q49aNkPx5FM", "task": "59684", "legal_range": [9, 10]}
+{"vid": "-ihz6cLuPOY", "task": "59684", "legal_range": [7, 6, 6, 7, 6, 7, 7, 7, 8, 6, 7, 8, 9, 10, 10]}
+{"vid": "rQHXGYdYrMY", "task": "59684", "legal_range": [6, 6, 7, 8, 9, 10]}
+{"vid": "aW9TAdTt_5g", "task": "59684", "legal_range": [6, 6, 6, 6, 7, 6, 7, 6, 6, 7, 9, 6, 7, 6, 6, 7, 6, 7, 6, 7, 8, 9, 10]}
+{"vid": "hL05b_HaLuI", "task": "59684", "legal_range": [6, 6, 6, 9, 10]}
+{"vid": "cvwtnO8feQU", "task": "59684", "legal_range": [6, 7, 6, 7, 10]}
+{"vid": "HFgRvguVsv0", "task": "59684", "legal_range": [6, 6, 6, 10, 10]}
+{"vid": "6cBZlk1fdIo", "task": "59684", "legal_range": [7, 10, 10]}
+{"vid": "fBXXynUuXqQ", "task": "59684", "legal_range": [6, 7, 10, 10, 8]}
+{"vid": "J9QuaXnEl7w", "task": "59684", "legal_range": [6, 6, 7, 6, 7, 8, 9, 10]}
+{"vid": "AVjgVqWowKc", "task": "59684", "legal_range": [10]}
+{"vid": "KBJb8dWzDa8", "task": "59684", "legal_range": [6, 7, 6, 7, 8, 9, 9, 7, 10]}
+{"vid": "kDwwamUV5rI", "task": "59684", "legal_range": [7, 8, 9, 7, 10]}
+{"vid": "Uwhh6tTQTVs", "task": "59684", "legal_range": [6, 7, 10, 9, 10]}
+{"vid": "SrTcPLiReSA", "task": "59684", "legal_range": [6, 10, 10, 10]}
+{"vid": "AlRmj2mF3lQ", "task": "59684", "legal_range": [6, 6, 6, 6, 7, 6, 6, 7, 6, 9, 10]}
+{"vid": "oQtdRxO2W4E", "task": "59684", "legal_range": [6, 7, 8, 9, 10]}
+{"vid": "L7EO7xSU7Zk", "task": "59684", "legal_range": [6, 7, 9, 7, 10]}
+{"vid": "4okKHXUZepk", "task": "59684", "legal_range": [6, 6, 8, 10]}
+{"vid": "pqHFe-QlXog", "task": "59684", "legal_range": [6, 7, 6, 7, 6, 7]}
+{"vid": "A6rIQfb-BoA", "task": "59684", "legal_range": [6, 7, 6, 6, 6, 8, 6, 7, 6, 7, 7, 8, 7, 9, 7, 10, 6, 9]}
+{"vid": "o1xL281NpFQ", "task": "59684", "legal_range": [10]}
+{"vid": "rwbrXOtY4RE", "task": "59684", "legal_range": [6, 7, 8, 9, 10]}
+{"vid": "VZBXksaFxKk", "task": "59684", "legal_range": [6, 8, 7, 9, 10]}
+{"vid": "7RJBBL_KLTs", "task": "59684", "legal_range": [6, 7, 10]}
+{"vid": "byAL3nPUvFQ", "task": "59684", "legal_range": [6, 6, 8, 7, 7]}
+{"vid": "pGHulqd7GIs", "task": "59684", "legal_range": [6, 7, 6, 8, 6, 7, 8, 9, 10]}
+{"vid": "dLYnTj4tphQ", "task": "59684", "legal_range": [6, 6, 6, 6, 7, 9, 9, 7]}
+{"vid": "SZQHLuN9X5Q", "task": "59684", "legal_range": [10]}
+{"vid": "os_LjfGBNXg", "task": "59684", "legal_range": [8, 9, 9]}
+{"vid": "3FwULlpXayU", "task": "59684", "legal_range": [6, 6, 10]}
+{"vid": "4nlZV9gwA7A", "task": "59684", "legal_range": [7, 9, 7]}
+{"vid": "LuRa0Lyl9Uk", "task": "59684", "legal_range": [6, 8, 6, 7, 8, 9, 10]}
+{"vid": "DUrOKPD8-rs", "task": "59684", "legal_range": [6, 6, 7, 10, 10, 10, 6, 10, 10]}
+{"vid": "pxq3u1jmPxM", "task": "59684", "legal_range": [6, 7, 10]}
+{"vid": "NhZHjA-dkAM", "task": "59684", "legal_range": [7, 6, 8, 6, 7, 8, 9, 10]}
+{"vid": "rjDvtOhUyS0", "task": "59684", "legal_range": [6, 10]}
+{"vid": "vwr-KTu-XHo", "task": "59684", "legal_range": [10]}
+{"vid": "AdvkQuphSCM", "task": "59684", "legal_range": [8, 8, 9, 8, 9, 10]}
+{"vid": "39g-ovqndjo", "task": "59684", "legal_range": [6, 7, 10, 6, 10]}
+{"vid": "BR_l_P2nCR0", "task": "59684", "legal_range": [6, 8, 7, 8, 9, 6]}
+{"vid": "Mt6H03xFaI8", "task": "59684", "legal_range": [9]}
+{"vid": "qs0BYucdgBY", "task": "59684", "legal_range": [6, 6, 6, 6, 7, 7, 6, 7, 8, 9, 10]}
+{"vid": "j9zmN8ClYGA", "task": "59684", "legal_range": [6, 7, 9, 10, 10, 10, 10]}
+{"vid": "_9nUChtG0YM", "task": "59684", "legal_range": [6, 6, 7, 7, 8, 8, 10, 10, 9]}
+{"vid": "W681Ww9qHkg", "task": "71781", "legal_range": [12, 17, 11, 17, 17, 17, 17, 13, 14, 15, 16, 17]}
+{"vid": "Oj0ag67Lp7o", "task": "71781", "legal_range": [14, 11, 12, 17, 17, 16, 17, 14, 13, 15]}
+{"vid": "dYtm73Xegl0", "task": "71781", "legal_range": [13, 14, 16]}
+{"vid": "Au-sXQ-wbSM", "task": "71781", "legal_range": [17, 18, 13, 16, 15]}
+{"vid": "D_xrYoMu_N4", "task": "71781", "legal_range": [18, 13, 16, 17, 15, 15, 15, 15, 17, 12, 17, 14, 17]}
+{"vid": "nuiblNX0gAo", "task": "71781", "legal_range": [15, 17, 17, 18, 16, 13, 15]}
+{"vid": "EA-DV0pzkWU", "task": "71781", "legal_range": [14, 15, 13]}
+{"vid": "wOAaizee0D8", "task": "71781", "legal_range": [14, 11, 13, 16]}
+{"vid": "1Pt9T1nTW10", "task": "71781", "legal_range": [15, 15, 11, 16]}
+{"vid": "e3PhfScILDA", "task": "71781", "legal_range": [13, 15]}
+{"vid": "HJMeRG3bdW0", "task": "71781", "legal_range": [11, 17, 17, 17, 17, 12, 17, 13, 14, 15, 16]}
+{"vid": "IMothiTiNsE", "task": "71781", "legal_range": [17, 13, 13, 14, 15, 16, 11, 18]}
+{"vid": "pYvHbzGDvtI", "task": "71781", "legal_range": [15, 14, 13, 16, 17]}
+{"vid": "nuhomPpLIwA", "task": "71781", "legal_range": [11, 17, 12, 13, 14, 16]}
+{"vid": "OcnIj8r-T1k", "task": "71781", "legal_range": [13, 15, 14, 17, 17, 14]}
+{"vid": "SpF2AUMXQE8", "task": "71781", "legal_range": [15, 13, 18, 17]}
+{"vid": "d1aWr_VpIcw", "task": "71781", "legal_range": [17, 12, 17, 17, 17, 12, 17, 17, 13, 15, 14, 16, 18]}
+{"vid": "WlE_aXM9iz8", "task": "71781", "legal_range": [14, 17, 17, 15, 14]}
+{"vid": "iw_67MyCHzM", "task": "71781", "legal_range": [16, 13, 15, 11]}
+{"vid": "bhNx-M9wZ84", "task": "71781", "legal_range": [17, 17, 18]}
+{"vid": "pUweBiklAf8", "task": "71781", "legal_range": [13, 18]}
+{"vid": "TJNAJhkHE4k", "task": "71781", "legal_range": [18]}
+{"vid": "BkrE7MAAKf4", "task": "71781", "legal_range": [13, 11, 15, 17, 18, 16]}
+{"vid": "ejxG02Pb1vU", "task": "71781", "legal_range": [15, 11, 17, 17, 17, 13]}
+{"vid": "bYAnRUMz_Dk", "task": "71781", "legal_range": [14, 12, 17, 17, 18, 16, 14, 16, 11, 13, 15]}
+{"vid": "yGaTFjNU7js", "task": "71781", "legal_range": [13, 14, 13, 12, 15, 17]}
+{"vid": "TlU-ew2zuAg", "task": "71781", "legal_range": [12, 17, 13, 15, 11, 14, 18, 16]}
+{"vid": "uh95JHcZ64M", "task": "71781", "legal_range": [17, 13, 16, 11, 15, 17, 18]}
+{"vid": "hE4UPCcrzMs", "task": "71781", "legal_range": [14, 17, 11, 13, 16, 18, 17, 17, 14, 17, 17]}
+{"vid": "vRqjiGmnfK0", "task": "71781", "legal_range": [17, 12, 17, 13, 14, 16, 17, 18, 17, 13, 17]}
+{"vid": "EaZGN6AIRMI", "task": "71781", "legal_range": [14, 17, 12, 17, 17, 17, 17, 18, 14, 16, 13, 15]}
+{"vid": "OZse7s9IHJE", "task": "71781", "legal_range": [11, 14, 17, 15, 17, 13, 15, 16]}
+{"vid": "abI_H8Qi8HI", "task": "71781", "legal_range": [17, 18, 17, 18, 18, 17]}
+{"vid": "PaYNEFn5tpI", "task": "71781", "legal_range": [13, 15, 16, 18]}
+{"vid": "uNYHMuQae2U", "task": "71781", "legal_range": [14, 15, 13, 16]}
+{"vid": "a9nkhJB-xuw", "task": "71781", "legal_range": [11, 17, 12, 17, 17, 17, 17, 13, 14]}
+{"vid": "as1dVDmuqe8", "task": "71781", "legal_range": [16, 14, 13, 11, 15, 12]}
+{"vid": "k5alqWUASM8", "task": "71781", "legal_range": [18]}
+{"vid": "JOyys97Eqms", "task": "71781", "legal_range": [14, 17, 17, 12, 17, 13, 15, 11, 16]}
+{"vid": "cVxw-cGLqTY", "task": "71781", "legal_range": [18, 12, 17, 15, 11, 14, 15, 13, 16, 15, 11]}
+{"vid": "wkbPQH4EwaY", "task": "71781", "legal_range": [13, 15]}
+{"vid": "bnPh_1Ovk0M", "task": "71781", "legal_range": [13, 11, 17, 14, 16]}
+{"vid": "ZMUdhVj4rVk", "task": "71781", "legal_range": [13, 11]}
+{"vid": "Q6WLKfmE53k", "task": "71781", "legal_range": [14, 17, 12, 17, 13, 14, 16, 15]}
+{"vid": "PEp7N0CNp2k", "task": "71781", "legal_range": [14, 13, 14, 17, 14, 16]}
+{"vid": "q4CvMzLWXC0", "task": "71781", "legal_range": [11, 17, 13, 14, 18, 16]}
+{"vid": "W_SoNFO3D4g", "task": "71781", "legal_range": [12, 17, 11, 15, 16, 14, 17]}
+{"vid": "ZiKP3ut0d9A", "task": "71781", "legal_range": [18, 13, 16]}
+{"vid": "piy16c_4CSI", "task": "71781", "legal_range": [15, 14, 13]}
+{"vid": "o-n8rWcmtCQ", "task": "71781", "legal_range": [13, 15, 11, 12, 14, 18, 16]}
+{"vid": "UXIzEOqh2-U", "task": "71781", "legal_range": [13, 18, 16, 15, 14, 17, 16]}
+{"vid": "H4EWKvp85nA", "task": "71781", "legal_range": [12]}
+{"vid": "s8XxtA8EbDo", "task": "71781", "legal_range": [17, 15]}
+{"vid": "_y_ZRwsnFQc", "task": "71781", "legal_range": [14, 17, 17, 17, 14, 17, 14, 15]}
+{"vid": "RdjAL42M-gc", "task": "71781", "legal_range": [17, 13, 15, 14, 17, 16, 18, 17]}
+{"vid": "3oULof9ViNE", "task": "71781", "legal_range": [12, 17, 14, 14, 16, 15, 13]}
+{"vid": "1VDvvF6pE54", "task": "71781", "legal_range": [14, 12, 17, 14, 17, 16, 13]}
+{"vid": "0sanT_HUp3I", "task": "71781", "legal_range": [11, 17, 17, 17, 14, 17, 12, 17, 15, 17, 13, 15, 16]}
+{"vid": "OCnwHd4jYJs", "task": "71781", "legal_range": [13, 15, 17, 17, 17, 18]}
+{"vid": "Fge9yI1Am6c", "task": "71781", "legal_range": [13, 15, 16, 18]}
+{"vid": "UjLIYdit24Q", "task": "71781", "legal_range": [14, 12, 17, 14, 16]}
+{"vid": "QH5y30vFfZM", "task": "71781", "legal_range": [16, 14, 17, 18, 17, 17]}
+{"vid": "pzieCar6lwg", "task": "71781", "legal_range": [13, 11]}
+{"vid": "vZ6j3-hNY3U", "task": "71781", "legal_range": [14, 12, 16, 17, 17, 18]}
+{"vid": "QrMR8Rbpqjc", "task": "71781", "legal_range": [13, 15, 17, 18, 17]}
+{"vid": "JqeExazEgis", "task": "71781", "legal_range": [13, 18, 14, 16, 16]}
+{"vid": "21ERTy8WBKQ", "task": "71781", "legal_range": [17, 17, 18, 14, 16, 15, 11]}
+{"vid": "SlS9tf5RGFU", "task": "71781", "legal_range": [15, 16, 11, 13, 14, 17, 17]}
+{"vid": "zP3ZZvswHrc", "task": "71781", "legal_range": [17, 17, 17, 13, 11, 16, 17, 14, 17, 18, 17, 17]}
+{"vid": "Hg5fURRmWLY", "task": "71781", "legal_range": [17, 17, 14, 15, 13]}
+{"vid": "MNZWpB4bjUc", "task": "71781", "legal_range": [11, 16, 15]}
+{"vid": "J6ZYt9Jv84s", "task": "71781", "legal_range": [14, 17, 12, 15, 16, 13]}
+{"vid": "Wv3W2PR3ess", "task": "71781", "legal_range": [15, 13, 14, 16, 18, 17, 17]}
+{"vid": "GT7DeFGQ9qA", "task": "71781", "legal_range": [13, 15, 11, 16, 14, 18]}
+{"vid": "VJu_-GOYT5I", "task": "71781", "legal_range": [11, 14, 17, 12, 17, 13, 15, 18, 16]}
+{"vid": "wXw2lB4Xlsw", "task": "71781", "legal_range": [11, 18, 14]}
+{"vid": "L1MnxbzCGZM", "task": "71781", "legal_range": [18, 12, 17, 15, 11, 16, 18]}
+{"vid": "YScbuEQVJL8", "task": "71781", "legal_range": [14, 17, 17, 13, 15, 18, 16, 17, 14, 17]}
+{"vid": "8JpR4o6g0Y8", "task": "71781", "legal_range": [18, 11, 17, 17, 13, 15]}
+{"vid": "JDIuW3wXK7Y", "task": "71781", "legal_range": [12, 17, 18, 16, 14, 16, 13, 13, 11, 15]}
+{"vid": "fg-OKbTMZc4", "task": "71781", "legal_range": [16, 17]}
+{"vid": "2ZI5jQORbyc", "task": "71781", "legal_range": [18, 16, 13, 14, 15]}
+{"vid": "3676AOS7Rss", "task": "71781", "legal_range": [11, 14, 17, 12, 16]}
+{"vid": "BTSB3PK-cSo", "task": "71781", "legal_range": [14, 11, 15, 13, 16]}
+{"vid": "RZPOCAh5TE8", "task": "71781", "legal_range": [17, 15, 17, 17, 16, 14, 15, 16, 18]}
+{"vid": "gx1zrdD27eE", "task": "71781", "legal_range": [14, 16, 11, 15, 13, 18, 14, 17, 15]}
+{"vid": "6rs2xyk1cAc", "task": "71781", "legal_range": [18, 13, 15, 17, 16]}
+{"vid": "VS4zWF9hQpQ", "task": "71781", "legal_range": [18, 14, 15, 11, 17, 16]}
+{"vid": "f5nLeup4SFU", "task": "71781", "legal_range": [14, 11, 17, 14, 12, 17, 15, 11, 13, 16]}
+{"vid": "7A11hlHTrh0", "task": "71781", "legal_range": [17, 11, 17, 11]}
+{"vid": "vpdLuWg48VQ", "task": "71781", "legal_range": [14, 17, 13, 14, 16, 18]}
+{"vid": "tGaEuw3dblk", "task": "71781", "legal_range": [14, 17, 17, 13, 14, 18, 13, 16, 15]}
+{"vid": "Edo7tHA4QYI", "task": "71781", "legal_range": [11, 15, 14, 16, 18, 14, 13]}
+{"vid": "yTvQprQY_bs", "task": "71781", "legal_range": [14, 11, 16]}
+{"vid": "wmmea825Pi0", "task": "71781", "legal_range": [13, 14, 11, 15]}
+{"vid": "K0UNpxUiMEA", "task": "71781", "legal_range": [14, 16, 13]}
+{"vid": "wlU95BGE-jU", "task": "71781", "legal_range": [18, 15, 16, 18]}
+{"vid": "R6nqC7ypiVU", "task": "71781", "legal_range": [18, 13, 14, 16, 15, 11]}
+{"vid": "gmeeRXc7mcA", "task": "71781", "legal_range": [14, 17, 17, 14, 16, 17]}
+{"vid": "-eSZRfAZWeg", "task": "71781", "legal_range": [14, 17, 13, 15, 17, 17]}
+{"vid": "yRZS8kqJkV0", "task": "71781", "legal_range": [17, 17, 17, 15, 14, 16, 13]}
+{"vid": "OMNI4fFqQYE", "task": "71781", "legal_range": [16, 14, 15, 16]}
+{"vid": "09VyuOiaYkg", "task": "71781", "legal_range": [17, 14, 13, 15]}
+{"vid": "qxA4Nr8N4EY", "task": "71781", "legal_range": [15, 14, 14, 18, 16, 13, 11, 15, 14, 16]}
+{"vid": "ryXUq6i942I", "task": "71781", "legal_range": [11, 17, 17, 14, 17, 17, 14]}
+{"vid": "ao-tcidqCCw", "task": "71781", "legal_range": [17, 14, 16]}
+{"vid": "zc_tRH06MZw", "task": "71781", "legal_range": [15, 16, 11, 18]}
+{"vid": "HGjG6MBKusQ", "task": "71781", "legal_range": [17, 16, 17, 14, 18, 17]}
+{"vid": "6oZa95IPIz0", "task": "71781", "legal_range": [15, 14, 13]}
+{"vid": "JXFEYssbg-4", "task": "71781", "legal_range": [18, 12, 12, 16, 13, 18, 16]}
+{"vid": "1E0_p91stN0", "task": "71781", "legal_range": [11, 17, 14, 17, 17, 12, 17, 13, 16, 15, 14, 17, 17, 17, 18, 17]}
+{"vid": "igEUzQ_LGIU", "task": "71781", "legal_range": [13, 18]}
+{"vid": "y-lkoCdCSk0", "task": "71781", "legal_range": [11, 17, 17, 13, 16, 14, 18, 17]}
+{"vid": "RT9j9zCDqW4", "task": "71781", "legal_range": [17, 17, 12, 17, 17, 17, 18, 14, 13, 15]}
+{"vid": "ytcYKaACDkg", "task": "71781", "legal_range": [13, 11, 11, 14, 16]}
+{"vid": "jJTQo6CoBVs", "task": "71781", "legal_range": [17, 13, 15, 11, 17, 14, 13, 14, 16]}
+{"vid": "FXXuWPxiQTA", "task": "71781", "legal_range": [13, 14, 15, 11]}
+{"vid": "grN72MKBfK4", "task": "71781", "legal_range": [17, 14, 13, 15, 16]}
+{"vid": "kReUYklvjnc", "task": "71781", "legal_range": [17, 17, 11, 17, 15, 17, 17, 17, 16]}
+{"vid": "EFfaY2MaVw8", "task": "71781", "legal_range": [13, 16, 18]}
+{"vid": "7W7MjOIuh_k", "task": "71781", "legal_range": [11, 17, 17, 14, 13, 15, 16]}
+{"vid": "FgGCzEf7sY8", "task": "71781", "legal_range": [18, 16, 13, 14, 16, 15, 11]}
+{"vid": "4ZrW-b7cK78", "task": "71781", "legal_range": [13, 15, 11, 18, 16, 17]}
+{"vid": "AlTSRmpBoIc", "task": "71781", "legal_range": [14, 12, 11, 14, 16]}
+{"vid": "Sfw1VWOLLt8", "task": "71781", "legal_range": [17, 13, 16, 14, 15]}
+{"vid": "6DSsyfBJC4U", "task": "71781", "legal_range": [17, 11, 17, 14, 17, 14, 14]}
+{"vid": "rppzlzo4JD4", "task": "71781", "legal_range": [17, 17, 12, 17, 14, 16, 15, 11, 17]}
+{"vid": "rX3W5dUepOM", "task": "71781", "legal_range": [14, 15, 16, 14, 13, 15]}
+{"vid": "VGv8sV9tXJo", "task": "113766", "legal_range": [20, 21, 22, 24, 21, 26, 22, 26, 28, 29]}
+{"vid": "vmE_sGBvvcs", "task": "113766", "legal_range": [19, 19, 19, 22, 23, 21, 22, 23, 24, 25, 26, 21, 28, 29]}
+{"vid": "V_yDTSrsv5g", "task": "113766", "legal_range": [19, 20, 21, 23, 21, 22, 24, 26, 28, 29, 28, 29]}
+{"vid": "YMIQ2gbP7vA", "task": "113766", "legal_range": [20, 29]}
+{"vid": "92XW9NQ1PyM", "task": "113766", "legal_range": [19, 20, 21, 24, 22, 26]}
+{"vid": "wnHEzQGkVm0", "task": "113766", "legal_range": [19, 19, 22, 20, 21, 22, 24, 21, 22, 26, 21, 28, 29]}
+{"vid": "6i6-rWxNuww", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 26, 28, 29]}
+{"vid": "vxF1n96cpHU", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 26, 28, 29]}
+{"vid": "8mkr8xsYfSY", "task": "113766", "legal_range": [19, 20, 24, 25, 24, 26]}
+{"vid": "pLzg4-n90OQ", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 26, 28, 27, 29]}
+{"vid": "jO-p2pCEhq0", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 23, 19, 26, 28, 29, 28]}
+{"vid": "p9qgGach0QQ", "task": "113766", "legal_range": [19, 22, 23, 24, 23, 21, 22, 24, 21, 22, 21, 22, 21, 22, 21, 22, 26, 27, 29]}
+{"vid": "dl91S-X_VJs", "task": "113766", "legal_range": [19, 19, 20, 24, 23, 20, 21, 22, 26, 28, 28, 29]}
+{"vid": "fspp9K7hAg8", "task": "113766", "legal_range": [20, 21, 28]}
+{"vid": "RUJRdbieq9I", "task": "113766", "legal_range": [19, 20, 28]}
+{"vid": "4JFpUyuDj4I", "task": "113766", "legal_range": [19, 20, 25, 23, 24, 25, 25, 26, 28]}
+{"vid": "ikWgbGDLgA8", "task": "113766", "legal_range": [19, 20, 25, 26, 20, 20, 25, 26, 28]}
+{"vid": "Ljujl6XDI70", "task": "113766", "legal_range": [19, 22, 20, 21, 22, 26, 23, 24, 26, 28, 28, 28, 28]}
+{"vid": "clgDIf4otHQ", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "ftUZBoGUtN4", "task": "113766", "legal_range": [19, 20, 21, 24, 21, 24, 26, 28, 27]}
+{"vid": "C9RG5emeVKc", "task": "113766", "legal_range": [20, 24, 21, 22, 26, 28]}
+{"vid": "cugUlvHB430", "task": "113766", "legal_range": [20, 21, 24, 21, 22, 26, 28]}
+{"vid": "Te8OIEBo3WI", "task": "113766", "legal_range": [20, 24, 19, 20, 24, 26]}
+{"vid": "mCiDe7zEJV8", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 21, 22, 24, 21, 22, 26, 28]}
+{"vid": "8bf2B9oRRhs", "task": "113766", "legal_range": [19, 20, 21, 22, 21, 28, 29, 29]}
+{"vid": "C_66omrpLuE", "task": "113766", "legal_range": [19, 20, 24, 24, 26, 28]}
+{"vid": "mK67NNNqWSU", "task": "113766", "legal_range": [20, 25, 25, 25, 24, 26, 29]}
+{"vid": "kupotb1JV0I", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 28, 29, 24, 28]}
+{"vid": "IiyTeTIueDs", "task": "113766", "legal_range": [19, 20, 26, 20, 23, 24]}
+{"vid": "yYFw905OKIw", "task": "113766", "legal_range": [19, 20, 24, 25, 26, 28]}
+{"vid": "dLuO_OQozI4", "task": "113766", "legal_range": [19, 20, 24, 21, 24, 24, 25, 21, 25, 26, 28]}
+{"vid": "UCgUWHhg0Y4", "task": "113766", "legal_range": [19, 20, 26, 23, 24, 26, 28, 29]}
+{"vid": "78c2HuuwmVA", "task": "113766", "legal_range": [19, 19, 22, 20, 21, 28, 29, 29]}
+{"vid": "maUjmMScyz4", "task": "113766", "legal_range": [19, 20, 24, 27, 24, 27, 26, 24, 27, 28, 28]}
+{"vid": "5f8Kc34D5Q0", "task": "113766", "legal_range": [19, 20, 24, 24, 26, 28, 27]}
+{"vid": "vVpejCKYkJk", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "Cs1Clrwc76I", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 26, 28]}
+{"vid": "vzqN7r8uZ40", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "OVaqgqpeNeo", "task": "113766", "legal_range": [19, 24, 19, 20, 21, 22, 26, 20, 24, 28]}
+{"vid": "EtwNVKt8oyY", "task": "113766", "legal_range": [19, 20, 24, 26, 28, 29, 29]}
+{"vid": "-gv5WwaaWFY", "task": "113766", "legal_range": [20, 21, 22, 24, 24, 21]}
+{"vid": "a8gKl_Dycng", "task": "113766", "legal_range": [19, 20]}
+{"vid": "QiGTIFPOusM", "task": "113766", "legal_range": [19, 20, 24, 21, 22, 21, 22, 28, 28]}
+{"vid": "YuhbUDJ40m0", "task": "113766", "legal_range": [19, 20, 24, 25, 26, 26, 28]}
+{"vid": "wS-gC6CLuIM", "task": "113766", "legal_range": [19, 20, 21, 24, 21, 26, 28]}
+{"vid": "TB7pBTuZKa0", "task": "113766", "legal_range": [19, 20, 22, 24, 24, 24, 28, 29]}
+{"vid": "vw4NoJDV_AI", "task": "113766", "legal_range": [19, 20, 24, 26, 29, 29]}
+{"vid": "9Dq50df03Zc", "task": "113766", "legal_range": [19, 19, 20, 21, 22, 21, 22, 24, 21, 22, 26, 28, 29, 29]}
+{"vid": "yvafvzYpG5Y", "task": "113766", "legal_range": [19, 20, 21, 22, 21, 22, 24, 21, 26, 22, 28, 29]}
+{"vid": "ikbuSeAsfZI", "task": "113766", "legal_range": [19, 25, 20, 24, 26, 28, 29, 28]}
+{"vid": "AZ1Bp6eQkYk", "task": "113766", "legal_range": [19, 19, 20, 21, 21, 22, 24, 21, 21, 28, 29]}
+{"vid": "jNOuRJ3roMw", "task": "113766", "legal_range": [19, 20, 21, 22, 22, 24, 22, 21, 22, 26, 28, 29]}
+{"vid": "5vx8h2I0MuE", "task": "113766", "legal_range": [27, 19, 19, 20, 24, 24, 24, 26, 26, 28, 28, 29]}
+{"vid": "k-yyXeKhlYw", "task": "113766", "legal_range": [19, 22, 20, 26, 28, 27, 29]}
+{"vid": "HrwDUVWCfgE", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 24, 28]}
+{"vid": "rEOuV_NMcu8", "task": "113766", "legal_range": [19, 20, 24, 24, 28, 28]}
+{"vid": "IlI4JUbUOng", "task": "113766", "legal_range": [19, 20, 23, 24, 23, 28, 29]}
+{"vid": "MdHpekvJM-Y", "task": "113766", "legal_range": [19, 20, 21, 22, 21, 22, 24, 22, 24, 25, 22, 25, 28]}
+{"vid": "kqTHVBOXPGM", "task": "113766", "legal_range": [19, 20, 24, 28, 29]}
+{"vid": "cv1iJeMY4M4", "task": "113766", "legal_range": [20, 21, 22, 24, 26, 28, 28, 29]}
+{"vid": "dqtuZebQ_ks", "task": "113766", "legal_range": [20, 24, 26, 26]}
+{"vid": "fcEppcpXqUg", "task": "113766", "legal_range": [19, 20, 21, 22, 26, 28]}
+{"vid": "TDa0IMBp8_Y", "task": "113766", "legal_range": [19, 20, 23, 24, 26, 27, 28]}
+{"vid": "Dxs-hzy6gV0", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 26, 28]}
+{"vid": "WV_MNL8Hw2g", "task": "113766", "legal_range": [19, 19, 20, 24, 26, 28, 28]}
+{"vid": "S7FdNR-A25A", "task": "113766", "legal_range": [20, 24, 27, 26, 28, 29]}
+{"vid": "SY-ieRRl4ak", "task": "113766", "legal_range": [19, 20, 21, 22, 26, 20, 24, 25, 28]}
+{"vid": "2kBWKX8_674", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 26, 28]}
+{"vid": "ftSFKoABFv8", "task": "113766", "legal_range": [19, 22, 20, 24, 26, 28, 29]}
+{"vid": "OSMscZcldHI", "task": "113766", "legal_range": [19, 20, 24, 24, 24, 26, 28]}
+{"vid": "OrEqMeWIVcA", "task": "113766", "legal_range": [19, 20, 19, 24, 26, 28, 28, 29]}
+{"vid": "P_4qewkGgQw", "task": "113766", "legal_range": [19, 22, 20, 21, 22, 24, 22, 25, 27, 26, 29]}
+{"vid": "aY16eSniUmk", "task": "113766", "legal_range": [19, 20, 24, 22, 21, 24, 27]}
+{"vid": "smTHGQFTtSY", "task": "113766", "legal_range": [20, 24, 25, 21, 22, 26, 25, 21, 25, 25, 23, 24, 26, 28, 28, 28]}
+{"vid": "ea1vLVhX7_4", "task": "113766", "legal_range": [20, 24, 26, 28, 29]}
+{"vid": "P5kX-1MqlaM", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "KlGzRoIMZbU", "task": "113766", "legal_range": [19, 20, 23, 24, 28, 29]}
+{"vid": "pa68WP4m3lc", "task": "113766", "legal_range": [20, 24, 24, 26, 28, 29]}
+{"vid": "Mlscv4JxrfU", "task": "113766", "legal_range": [19, 20, 24, 24, 28, 24, 28, 24, 28, 26, 28]}
+{"vid": "5tkrwkjoOcI", "task": "113766", "legal_range": [19, 20, 24, 28, 29, 28, 29]}
+{"vid": "-EdFr9KCbKY", "task": "113766", "legal_range": [19, 20, 26, 28, 29, 28]}
+{"vid": "fAEZKPOcI5Y", "task": "113766", "legal_range": [20, 21, 22, 26, 21, 22, 26]}
+{"vid": "0r_oM1c9_DE", "task": "113766", "legal_range": [19, 22, 20, 22, 24, 21, 26, 28, 28, 29]}
+{"vid": "ThBicDr98OE", "task": "113766", "legal_range": [19, 20, 21, 24, 25, 22, 24, 25, 25, 28, 29]}
+{"vid": "xf4HE2NQXDU", "task": "113766", "legal_range": [20, 21, 22, 26, 28, 29, 28, 29]}
+{"vid": "lNSi3lDkp1E", "task": "113766", "legal_range": [20, 24, 26]}
+{"vid": "l9AKsuGeQ2k", "task": "113766", "legal_range": [19, 20, 24, 21, 25, 21, 26, 28, 28, 29, 28, 19, 20, 24, 25, 26, 28, 29]}
+{"vid": "rKuOmyPAChI", "task": "113766", "legal_range": [20, 21, 22, 24, 21, 22, 25, 21, 22, 26, 28, 29]}
+{"vid": "GXnLEUlXdeU", "task": "113766", "legal_range": [20, 19, 24, 24, 26, 28, 29, 28, 29, 29, 29]}
+{"vid": "zZd-ChkTC0k", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 21, 22, 26, 28]}
+{"vid": "DVHHOEkeRJs", "task": "113766", "legal_range": [20, 21, 22, 24, 26, 28, 28, 27, 29]}
+{"vid": "KGzs1yEMpcE", "task": "113766", "legal_range": [19, 20, 24, 26, 28, 28, 29]}
+{"vid": "YDppXKwH54M", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "b8FUAfYB7MU", "task": "113766", "legal_range": [19, 20, 24, 24, 24]}
+{"vid": "g0Qw_Yf_ym0", "task": "113766", "legal_range": [19, 20, 28, 28, 29]}
+{"vid": "VEjQ3lIZIb4", "task": "113766", "legal_range": [22, 20, 21, 22, 24, 21, 22, 21, 22, 26, 28]}
+{"vid": "KWKOgdnp5mQ", "task": "113766", "legal_range": [19, 24, 24]}
+{"vid": "bof2YBIKq1Q", "task": "113766", "legal_range": [19, 20, 21, 24, 26, 28, 29]}
+{"vid": "5VycYEOc8Zw", "task": "113766", "legal_range": [19, 20, 24, 26, 23, 26, 28, 29, 28]}
+{"vid": "Jf7WQuiAUjQ", "task": "113766", "legal_range": [20, 24, 21, 22, 24, 28, 29]}
+{"vid": "LKd2oIsM3uE", "task": "113766", "legal_range": [19, 20, 24, 24, 28, 19, 20, 24, 26, 20, 23, 28, 20, 24, 28, 27, 28]}
+{"vid": "hjoxHPFiJjM", "task": "113766", "legal_range": [19, 20, 24, 26]}
+{"vid": "oRwg5jronsc", "task": "113766", "legal_range": [19, 19, 24, 24, 21, 26, 28, 29]}
+{"vid": "I4u88MLBxD4", "task": "113766", "legal_range": [19, 20, 24, 26]}
+{"vid": "2DpvnVh8MBo", "task": "113766", "legal_range": [19, 22, 20, 21, 22, 24, 21, 22, 26, 28]}
+{"vid": "ir5U88d_3iI", "task": "113766", "legal_range": [28, 19, 20, 24, 24, 25, 25, 26, 28, 19, 20, 24, 25, 26, 28, 28]}
+{"vid": "2qJqLocoxo0", "task": "113766", "legal_range": [19, 21, 26, 28, 29, 29]}
+{"vid": "M0TMm_qKgPA", "task": "113766", "legal_range": [19, 20, 24, 27]}
+{"vid": "po0aE0MpdVE", "task": "113766", "legal_range": [19, 20, 24, 25, 26]}
+{"vid": "q4dIomZ89eo", "task": "113766", "legal_range": [19, 20, 24, 25, 26, 27]}
+{"vid": "02xyskuNJ1o", "task": "113766", "legal_range": [19, 20, 20, 20, 21]}
+{"vid": "o3komJ-zKdw", "task": "113766", "legal_range": [19, 19, 20, 28, 29]}
+{"vid": "WrHdbhtJNfA", "task": "113766", "legal_range": [19, 20, 24, 24, 26, 28, 29, 29]}
+{"vid": "Pl_dX-Ef_yc", "task": "113766", "legal_range": [19, 22, 25, 26, 22, 20, 24, 22, 24, 21, 26, 28, 29]}
+{"vid": "0cx8pzK8fUM", "task": "113766", "legal_range": [19, 20, 24, 28]}
+{"vid": "pAnX9rO-iq4", "task": "113766", "legal_range": [25, 19, 20, 21, 25, 26, 20, 25, 26, 28, 28]}
+{"vid": "NNVonVdT9Dw", "task": "113766", "legal_range": [19, 21, 25, 26, 20, 21, 24, 21, 28, 29]}
+{"vid": "lpDtWswA71E", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 26, 28, 29]}
+{"vid": "JFnZHAOUClw", "task": "113766", "legal_range": [19, 20, 20, 21, 22, 24, 21, 22, 26, 28, 26, 28]}
+{"vid": "1gnaIfIVxYA", "task": "113766", "legal_range": [20, 24, 26]}
+{"vid": "d3SA780wdqg", "task": "113766", "legal_range": [19, 19, 19, 20, 23, 24, 24, 26, 28, 28, 29, 28, 29]}
+{"vid": "mrphxgEmm2g", "task": "113766", "legal_range": [20, 23, 21, 23, 24, 23, 21, 21, 26, 27]}
+{"vid": "jilmsSlIYTs", "task": "113766", "legal_range": [19, 20, 25, 24, 25, 26, 28, 29]}
+{"vid": "vB16Dbjz8oo", "task": "113766", "legal_range": [19, 20, 24, 21, 22, 24, 21, 22, 24, 26, 27, 28]}
+{"vid": "xvWrNpkk32Q", "task": "113766", "legal_range": [19, 20, 26, 28]}
+{"vid": "YvpUotqK6rI", "task": "113766", "legal_range": [19, 20, 21, 23, 22, 20, 21, 22, 26, 29]}
+{"vid": "V6CIlBusd_Q", "task": "113766", "legal_range": [19, 20, 24, 25, 28, 29, 29]}
+{"vid": "aiYkICcjuTA", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 26, 28, 29]}
+{"vid": "6x3XH8P3Uro", "task": "113766", "legal_range": [19, 20, 21, 22, 26, 28, 29]}
+{"vid": "Q5y2voEWJ6U", "task": "113766", "legal_range": [19, 20, 24, 26, 28, 29]}
+{"vid": "7fbhJR7q5p0", "task": "113766", "legal_range": [20, 21, 22, 24, 21, 22, 24, 26, 28, 28, 29]}
+{"vid": "Af-cukklUIw", "task": "113766", "legal_range": [19, 20, 24, 26, 28]}
+{"vid": "i4F9rYiKxks", "task": "113766", "legal_range": [20, 24, 26]}
+{"vid": "NF0VUUGp6Kk", "task": "113766", "legal_range": [19, 20, 25, 21, 22, 25, 26, 22, 20, 24, 26, 25, 20, 24, 26, 25, 28, 29]}
+{"vid": "QzZGOmJp5i8", "task": "113766", "legal_range": [19, 20, 24, 28]}
+{"vid": "lZJipPI30CY", "task": "113766", "legal_range": [19, 19, 24, 24]}
+{"vid": "3VopI9I3z5k", "task": "113766", "legal_range": [21, 22, 26, 20, 24]}
+{"vid": "p04eYU3xFDY", "task": "113766", "legal_range": [19, 20, 24, 28, 24, 29, 26]}
+{"vid": "p-iZ7K26sv8", "task": "113766", "legal_range": [19, 20, 21, 22, 22, 24, 24, 24, 26, 28, 28, 28]}
+{"vid": "AULmGY1npqM", "task": "113766", "legal_range": [19, 19, 20, 24, 28]}
+{"vid": "CUMwlMpZulc", "task": "113766", "legal_range": [19, 20, 24, 26, 25, 28]}
+{"vid": "bQBNnsExUlg", "task": "113766", "legal_range": [19, 20, 24, 26, 28, 29]}
+{"vid": "Dk3DPGB8mwM", "task": "113766", "legal_range": [19, 20, 21, 22, 24, 21, 22, 24, 21, 22, 24, 21, 22, 24, 24, 25, 22, 26, 28]}
+{"vid": "rZVYSaieg7A", "task": "113766", "legal_range": [19, 20, 24, 27, 26, 28, 29]}
+{"vid": "OluiCkRlY1k", "task": "113766", "legal_range": [19, 20, 24, 26, 27, 28, 29]}
+{"vid": "szbpoO5l0Uo", "task": "113766", "legal_range": [19, 20, 21, 22, 26, 28]}
+{"vid": "tvu5-m7NlXw", "task": "113766", "legal_range": [19, 20, 26, 29]}
+{"vid": "KuTk1TvkDgk", "task": "113766", "legal_range": [19, 20, 19, 26, 28, 29]}
+{"vid": "9U68Z4zovP8", "task": "113766", "legal_range": [20, 24]}
+{"vid": "VpKoPrrkBy4", "task": "113766", "legal_range": [19, 20, 24, 25, 26, 28]}
+{"vid": "1_i4_sWsXIc", "task": "113766", "legal_range": [19, 20, 24, 25, 26]}
+{"vid": "5nGiE12ugx8", "task": "113766", "legal_range": [19, 19, 20, 24, 28]}
+{"vid": "yA2wR0XhAY4", "task": "113766", "legal_range": [19, 20, 24, 24, 27, 28]}
+{"vid": "j3s0R5oXm1Q", "task": "113766", "legal_range": [19, 20, 24, 24, 26, 28]}
+{"vid": "a_JjdV5Hq1g", "task": "113766", "legal_range": [19, 20, 25, 21, 26]}
+{"vid": "J45VqFXtBBE", "task": "113766", "legal_range": [19, 24, 25]}
+{"vid": "ur34YIAx314", "task": "113766", "legal_range": [19, 20, 20, 22, 24, 21, 22, 26, 28, 29]}
+{"vid": "p0fXV5lWjkQ", "task": "113766", "legal_range": [19, 20, 24, 19, 19, 20, 19, 20, 24, 26]}
+{"vid": "AS8K9Oa43EQ", "task": "113766", "legal_range": [19, 20, 24, 25, 26, 28, 29, 29]}
+{"vid": "g0TtVKYyxVQ", "task": "105222", "legal_range": [11, 33, 4, 31, 4, 4, 32, 4, 4, 30, 4, 33, 30]}
+{"vid": "kEnm__z5zUM", "task": "105222", "legal_range": [30]}
+{"vid": "f-ZIBbsFuoo", "task": "105222", "legal_range": [33, 4, 31, 4, 32, 4, 30, 4, 11, 33, 4, 11, 4]}
+{"vid": "ZgKBwgPJcYo", "task": "105222", "legal_range": [32, 30]}
+{"vid": "x-qQQXP53lI", "task": "105222", "legal_range": [11, 4, 4, 31, 4, 30, 4, 32, 4, 32, 4, 11, 4, 4]}
+{"vid": "zNATLBjtogw", "task": "105222", "legal_range": [33, 32, 4, 30, 4]}
+{"vid": "TUwIGtbAXGs", "task": "105222", "legal_range": [31, 4, 11, 32, 30, 33]}
+{"vid": "9vdsF-mHBxg", "task": "105222", "legal_range": [32, 4, 4, 30, 4]}
+{"vid": "go5pS3N-Y7I", "task": "105222", "legal_range": [32, 11, 33, 4, 30, 4, 32, 4, 4, 4, 31, 4, 11, 31, 11]}
+{"vid": "5sOPNTbFe6A", "task": "105222", "legal_range": [11, 31, 32, 30, 33]}
+{"vid": "6E_9b5A36I8", "task": "105222", "legal_range": [32, 4, 4, 31, 4, 30, 4, 33]}
+{"vid": "DLrZYkn8zBU", "task": "105222", "legal_range": [33, 31, 32, 30, 4, 11]}
+{"vid": "L76HCE16ivU", "task": "105222", "legal_range": [33, 31, 31, 32, 4, 30, 32, 4, 11, 4, 33, 4]}
+{"vid": "Os-AWwZI5mo", "task": "105222", "legal_range": [33, 31, 32, 4, 31, 4, 30, 33, 11]}
+{"vid": "Sksu9g9UwXY", "task": "105222", "legal_range": [30, 31, 4, 32]}
+{"vid": "peUJYypelWs", "task": "105222", "legal_range": [31, 4, 32, 30, 4, 4, 4, 4, 4]}
+{"vid": "4K4PnQ66LQ8", "task": "105222", "legal_range": [11, 31, 32, 4, 30, 4]}
+{"vid": "VLK-xhBqGRo", "task": "105222", "legal_range": [33, 31, 32, 4]}
+{"vid": "6Zz--A3SdnY", "task": "105222", "legal_range": [33, 32, 4, 11, 32, 4, 30, 4]}
+{"vid": "bo355kAfADM", "task": "105222", "legal_range": [11, 4, 30, 4, 32, 4, 11, 4, 33, 4]}
+{"vid": "i7-j1tfoQuY", "task": "105222", "legal_range": [33, 32, 4, 4, 4]}
+{"vid": "iyFpbuclkMU", "task": "105222", "legal_range": [33, 4, 30, 4, 32, 4]}
+{"vid": "rBOcGHKLHuE", "task": "105222", "legal_range": [32, 11, 30, 4, 30]}
+{"vid": "66OAgh_yXWQ", "task": "105222", "legal_range": [33, 31, 4, 32, 4, 30, 4]}
+{"vid": "g3HNsRMt6XQ", "task": "105222", "legal_range": [33, 32, 4, 30, 33, 4]}
+{"vid": "pC5ubX0sloI", "task": "105222", "legal_range": [33, 33, 32, 32, 4, 11, 4, 30, 4]}
+{"vid": "gWhQi_42mj8", "task": "105222", "legal_range": [30, 4, 32, 4, 4, 33, 4]}
+{"vid": "QnNtJmPRgL0", "task": "105222", "legal_range": [33, 11, 32]}
+{"vid": "zMZSXcNHcDE", "task": "105222", "legal_range": [4, 31, 4, 11, 4, 11, 4, 32, 4, 4, 30, 4, 4, 11, 4, 4, 33]}
+{"vid": "RfGkqBNa4vA", "task": "105222", "legal_range": [33, 4, 32, 11, 4, 30, 33, 4]}
+{"vid": "qT_BoLWdCSo", "task": "105222", "legal_range": [33, 31, 4, 33, 11, 32, 4, 30, 4]}
+{"vid": "oUz4fJs2olA", "task": "105222", "legal_range": [11, 4, 31, 30, 4]}
+{"vid": "sBJJ0Cj0GG4", "task": "105222", "legal_range": [11, 31, 4, 30, 4]}
+{"vid": "PsCQaeVu7e0", "task": "105222", "legal_range": [30, 33, 4, 11, 4, 32, 4]}
+{"vid": "ZIDyWKElSc8", "task": "105222", "legal_range": [31, 4, 4, 32, 4, 4, 11, 4, 30, 4]}
+{"vid": "ld9Ff4x80Co", "task": "105222", "legal_range": [31, 4, 11, 4, 30, 4, 4, 32, 4, 4, 4]}
+{"vid": "XhZnEq3mJy4", "task": "105222", "legal_range": [31, 32, 30, 11, 33]}
+{"vid": "oEzhvnNpgtQ", "task": "105222", "legal_range": [33, 31, 4, 32, 4, 30, 30, 11, 4, 4, 4, 33, 4]}
+{"vid": "aQfu4Bgc9Qw", "task": "105222", "legal_range": [33, 32, 4, 33, 30, 4]}
+{"vid": "rq_hnfuGQ7E", "task": "105222", "legal_range": [33, 11, 4, 32, 4, 30, 4, 11]}
+{"vid": "W90ejAQMHes", "task": "105222", "legal_range": [33, 32, 31, 4, 30, 4, 4]}
+{"vid": "LAXW_LSr9qA", "task": "105222", "legal_range": [31, 31, 4, 32, 32, 4, 4, 4, 4, 11, 4, 4, 4, 4, 4, 30, 4, 4]}
+{"vid": "gIxHa-wQ6Qs", "task": "105222", "legal_range": [32, 31, 33, 4, 30, 4]}
+{"vid": "f_IlurXo_mA", "task": "105222", "legal_range": [11, 30, 30, 11, 4, 4]}
+{"vid": "BM3Fb7D2ndY", "task": "105222", "legal_range": [33, 11, 32]}
+{"vid": "U74sM8O1wVg", "task": "105222", "legal_range": [33, 11, 4, 32, 4, 33, 4, 30, 4, 11, 33]}
+{"vid": "3vQP3BXHKso", "task": "105222", "legal_range": [33, 32, 4, 4, 4, 11, 4, 31, 32, 30, 4]}
+{"vid": "lc_xsUCxH-A", "task": "105222", "legal_range": [33, 31, 4, 32, 30, 33]}
+{"vid": "67OmUbEwY4I", "task": "105222", "legal_range": [4, 33, 31, 4, 32, 30, 4, 4, 33]}
+{"vid": "ZM5q6b71FtM", "task": "105222", "legal_range": [33, 31, 4, 30, 4, 4, 11, 31, 4, 4, 32, 4]}
+{"vid": "MG8Frk8xCnM", "task": "105222", "legal_range": [32, 30, 4, 4]}
+{"vid": "8KF7rHfjkek", "task": "105222", "legal_range": [11, 4, 31, 4, 30, 4, 11, 32, 4, 4]}
+{"vid": "d35Beza3x8k", "task": "105222", "legal_range": [31, 4, 33, 30, 32, 4, 33, 4]}
+{"vid": "z9dnUI6FUrY", "task": "105222", "legal_range": [33, 31, 32, 4, 32, 4, 30, 33, 4, 11]}
+{"vid": "oh8lPIqTdp8", "task": "105222", "legal_range": [33, 32, 4, 4, 30, 4, 33, 11]}
+{"vid": "MFOHsoivRbQ", "task": "105222", "legal_range": [31, 4, 30, 4, 4, 31, 4, 4, 11, 4]}
+{"vid": "1EmW42CmTFg", "task": "105222", "legal_range": [33, 31, 4, 32, 4, 4, 30, 4, 30, 4, 32, 4, 11, 4, 4]}
+{"vid": "hVoE5mQ7FFM", "task": "105222", "legal_range": [33, 11, 4, 31, 4, 30, 32, 4, 11]}
+{"vid": "ygv6jXn59t8", "task": "105222", "legal_range": [33, 32, 4, 33, 4, 30, 4]}
+{"vid": "ZgdaPuy35Ao", "task": "105222", "legal_range": [33, 31, 33, 4, 11, 30, 32, 31, 4]}
+{"vid": "O-rjESRQmH0", "task": "105222", "legal_range": [33, 31, 4, 32, 4, 30, 4, 11, 4, 4, 30, 4, 4, 11, 11, 31, 4, 32, 4]}
+{"vid": "abNeUSk3OnQ", "task": "105222", "legal_range": [4, 32, 4, 4, 30, 4]}
+{"vid": "8l3lcGZQ3ZE", "task": "105222", "legal_range": [33, 11, 32, 4, 4, 30, 4, 32, 4, 33, 4]}
+{"vid": "2uDeIqlNWaE", "task": "105222", "legal_range": [11, 4, 4, 31, 4, 4, 32, 4, 30, 4]}
+{"vid": "1Y9Kg9N7nXQ", "task": "105222", "legal_range": [33, 11, 4, 33, 11, 4, 31, 4, 32, 4, 33, 4, 4, 30, 4, 32, 4, 32, 11, 31, 4, 4, 33, 4]}
+{"vid": "6653smJG3U0", "task": "105222", "legal_range": [31, 33, 4, 11, 4, 33, 4, 4, 32, 33, 4, 30, 33, 4, 4, 4]}
+{"vid": "c3MUYFzDagI", "task": "105222", "legal_range": [11, 31, 4, 4, 4, 4, 32, 4, 30, 4, 32, 4, 4, 4, 4, 33, 4]}
+{"vid": "QcWF3tzn9KY", "task": "105222", "legal_range": [11, 4, 31, 4, 30, 4, 4, 4, 32, 4, 32, 4, 11]}
+{"vid": "sIA-JrFjXdM", "task": "105222", "legal_range": [11, 32, 11, 31, 4, 30, 4, 4, 4]}
+{"vid": "Ez9xvFbEgEk", "task": "105222", "legal_range": [11, 4, 31, 32, 30, 4, 4, 33, 4]}
+{"vid": "KunjUYMvpdQ", "task": "105222", "legal_range": [33, 4, 31, 32, 4, 4, 4, 30, 4, 4]}
+{"vid": "5yTIn2-gqNQ", "task": "105222", "legal_range": [31, 4, 32, 4, 30, 4, 4, 32, 4]}
+{"vid": "Rk7efOLVXts", "task": "105222", "legal_range": [11, 32, 4, 30, 4]}
+{"vid": "UBCukcuRB0s", "task": "105222", "legal_range": [11, 4, 32, 4, 31, 4, 4, 30, 32, 4, 11, 4]}
+{"vid": "9-GieozYn7Q", "task": "105222", "legal_range": [31, 11, 4, 4, 32, 4, 4, 30, 4, 33, 4]}
+{"vid": "3PxUrdtHhH0", "task": "105222", "legal_range": [11, 4, 32, 30, 4]}
+{"vid": "DBqsbfsAjxo", "task": "105222", "legal_range": [33, 11, 4, 32, 4, 30, 4, 30, 4, 4, 33, 4]}
+{"vid": "ALwTWj9xqKY", "task": "105222", "legal_range": [33, 32, 4, 32, 30, 4]}
+{"vid": "MGIlkaZNmR8", "task": "105222", "legal_range": [33, 32, 30, 4, 4, 4, 4]}
+{"vid": "CxyNKkd6Ey4", "task": "105222", "legal_range": [32, 4, 30, 4]}
+{"vid": "-YtYoSwdUf8", "task": "105222", "legal_range": [33, 11, 4, 32, 4, 4, 30, 4, 4, 33, 4]}
+{"vid": "mx9_RJEj5Os", "task": "105222", "legal_range": [33, 11, 4, 30, 4, 31, 4]}
+{"vid": "vUUaTO4oDh8", "task": "105222", "legal_range": [4, 32, 4, 4, 31, 4, 4, 4, 30, 4]}
+{"vid": "no9C3CA8XXw", "task": "105222", "legal_range": [11, 32, 4, 30, 4]}
+{"vid": "NS4yqgNjl9Y", "task": "94276", "legal_range": [34, 35, 36, 36, 36, 38, 38, 39]}
+{"vid": "TUa3unutMAg", "task": "94276", "legal_range": [34, 36, 36, 35, 36, 38, 39]}
+{"vid": "ZPf7n2-KLfQ", "task": "94276", "legal_range": [34, 34, 35, 36, 35, 38, 39]}
+{"vid": "1p07QqEbFfQ", "task": "94276", "legal_range": [36, 34, 36, 38, 36, 36, 38, 39]}
+{"vid": "JU06owY7128", "task": "94276", "legal_range": [34, 36, 35, 37, 38, 39]}
+{"vid": "Uil3-3F7wus", "task": "94276", "legal_range": [35, 34, 36, 38]}
+{"vid": "a29HhESh34A", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "3_t7vp6gqXk", "task": "94276", "legal_range": [34, 36, 35, 36, 38]}
+{"vid": "j0QGoNDNdt8", "task": "94276", "legal_range": [36, 35, 36, 39, 39]}
+{"vid": "ZYpYkt1PjoA", "task": "94276", "legal_range": [34, 35, 36, 34, 36, 35, 37, 38, 39, 34, 36, 36]}
+{"vid": "ZVkKZBaeWM4", "task": "94276", "legal_range": [34, 35, 36, 35, 37, 39]}
+{"vid": "leRMKO3BIXY", "task": "94276", "legal_range": [34, 36, 35, 36, 36, 36, 38, 39]}
+{"vid": "6HD2HJa97BI", "task": "94276", "legal_range": [34, 35, 34, 36, 36, 36, 36, 36, 35, 38]}
+{"vid": "xM1-Ow3ZuJU", "task": "94276", "legal_range": [36, 35, 38, 39]}
+{"vid": "sA8ZPwu_Kz8", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "pmsGVYzRvVY", "task": "94276", "legal_range": [34, 36, 36, 35, 36, 37, 38]}
+{"vid": "sYnI_WtpGgA", "task": "94276", "legal_range": [35, 34, 36, 38]}
+{"vid": "ES8nklfzvaM", "task": "94276", "legal_range": [39]}
+{"vid": "UKbsemfo38g", "task": "94276", "legal_range": [34, 36, 35, 35, 35, 36, 38]}
+{"vid": "BqOPvbI0GjE", "task": "94276", "legal_range": [34, 35, 36, 38, 39]}
+{"vid": "Dv75ddbhjK0", "task": "94276", "legal_range": [36, 35]}
+{"vid": "Tx-g9Sv3NC0", "task": "94276", "legal_range": [35, 36, 34, 36, 34, 36, 35, 38]}
+{"vid": "-HHnfRzlZ7g", "task": "94276", "legal_range": [34, 36, 36, 35, 37, 38]}
+{"vid": "DseWZaSoXX8", "task": "94276", "legal_range": [34, 35, 36, 35, 36, 38, 39]}
+{"vid": "B59XlosKXwM", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "eJmHyNgJOiU", "task": "94276", "legal_range": [34, 34, 36, 35, 37, 38]}
+{"vid": "F081F0NFGJY", "task": "94276", "legal_range": [34, 36, 35, 36, 36, 35, 36, 38]}
+{"vid": "HeSgPS6GCeA", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "VytR6ETkkNk", "task": "94276", "legal_range": [34, 34, 36, 36, 35, 36, 35, 36, 35, 36, 37, 37, 38, 39]}
+{"vid": "V3VGxebDcuY", "task": "94276", "legal_range": [34, 36, 35, 36, 38]}
+{"vid": "1AMWhjPbNqg", "task": "94276", "legal_range": [36, 35, 37, 38, 39]}
+{"vid": "ajfTXQ0sBhU", "task": "94276", "legal_range": [36, 36, 35, 38, 37, 38, 38]}
+{"vid": "crjn_6bBOFs", "task": "94276", "legal_range": [34, 36, 35, 36, 37, 38, 39]}
+{"vid": "-OyGW4I_eHk", "task": "94276", "legal_range": [34, 36, 38, 35, 36, 37, 38, 35, 36]}
+{"vid": "d2cd-el5apc", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "QP87GJZ9VOo", "task": "94276", "legal_range": [34, 35, 36, 37, 38, 39]}
+{"vid": "ZxIpgBSmkZo", "task": "94276", "legal_range": [34, 36, 36, 35, 35, 35, 37, 39]}
+{"vid": "LXnDxwk5caA", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "kMZOQYCetE4", "task": "94276", "legal_range": [34, 35, 36, 37, 38]}
+{"vid": "6w9wRA47YN8", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "-KFqob3vAoA", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "JDVujgjtkPI", "task": "94276", "legal_range": [34, 36, 36, 35, 38, 39]}
+{"vid": "T-f4EC_jndQ", "task": "94276", "legal_range": [34, 36, 36, 35, 36, 37, 38, 37, 38]}
+{"vid": "iU7gJXmAFP4", "task": "94276", "legal_range": [35, 36, 35, 36, 37, 38, 39]}
+{"vid": "tV9VOJqxuDQ", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 36, 37, 38]}
+{"vid": "CtYHzbG4WW4", "task": "94276", "legal_range": [34, 36, 35, 35, 38, 39]}
+{"vid": "8JDdW3xR2VY", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "lVC8mA3-yUI", "task": "94276", "legal_range": [34, 36, 36, 35, 37, 38, 39]}
+{"vid": "Weh5SuOnZWg", "task": "94276", "legal_range": [34, 36, 36, 35, 38]}
+{"vid": "7MwpmXFHFCo", "task": "94276", "legal_range": [34, 36, 35, 37, 38, 39]}
+{"vid": "MsQJfZd-KnY", "task": "94276", "legal_range": [34, 35, 36, 35, 36, 38, 39]}
+{"vid": "7xBZtOhyFZs", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "3ok5LHMP-R4", "task": "94276", "legal_range": [34, 36, 35, 37, 38, 39]}
+{"vid": "vliv40mhILY", "task": "94276", "legal_range": [34, 36, 36, 38, 39]}
+{"vid": "_GPYysO1GYU", "task": "94276", "legal_range": [35, 35, 34, 36, 36, 35, 36, 36, 37]}
+{"vid": "88rDO4GiSPM", "task": "94276", "legal_range": [34, 36, 35, 38]}
+{"vid": "Io6cnEUCccI", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "f5U9GaInuxQ", "task": "94276", "legal_range": [34, 36, 35, 36, 37, 38]}
+{"vid": "EnFDKVgW30o", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 36, 38]}
+{"vid": "YR-7Msu9_zo", "task": "94276", "legal_range": [34, 34, 36, 36, 35, 36, 37, 38, 39]}
+{"vid": "gqXW2A1CILk", "task": "94276", "legal_range": [35, 34, 36, 35, 37, 38]}
+{"vid": "pacHJ5W8ir4", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "zkhR35YzUwk", "task": "94276", "legal_range": [36, 35, 37, 38]}
+{"vid": "rstrOXxvy4s", "task": "94276", "legal_range": [34, 36, 35, 36, 36, 35, 37, 38, 39]}
+{"vid": "G-Ti67MShKI", "task": "94276", "legal_range": [34, 36, 35, 37, 38, 39]}
+{"vid": "FKO-K9aqTN0", "task": "94276", "legal_range": [36, 35, 37, 38, 39]}
+{"vid": "5OG6cLUolpU", "task": "94276", "legal_range": [35, 34, 36, 35, 36, 37, 38]}
+{"vid": "p1nQLpIioI0", "task": "94276", "legal_range": [34, 36, 35, 37, 38, 37, 39]}
+{"vid": "lCaq-3766Yw", "task": "94276", "legal_range": [34, 35, 36, 36, 36, 36, 36, 36, 36]}
+{"vid": "kExpx2BzIOQ", "task": "94276", "legal_range": [35, 35, 37, 38]}
+{"vid": "l0RRec_bhR0", "task": "94276", "legal_range": [34, 36, 36, 35, 37, 38]}
+{"vid": "ma5V79URf0Y", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "A-CRFMk2b-8", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "Zb-7lzJ147Q", "task": "94276", "legal_range": [34, 34, 36, 36, 35, 36, 37, 38]}
+{"vid": "_73eBzy9mPA", "task": "94276", "legal_range": [36, 36, 39]}
+{"vid": "jBgc6P_tpfY", "task": "94276", "legal_range": [36, 36, 35, 37, 38, 39]}
+{"vid": "F5po_RIboCE", "task": "94276", "legal_range": [34, 36, 37, 38]}
+{"vid": "vdut6SlMJ9Q", "task": "94276", "legal_range": [34, 36, 35]}
+{"vid": "r26tuEmWdyY", "task": "94276", "legal_range": [36, 35, 36, 35, 36, 36, 39]}
+{"vid": "zlf0kraA8o8", "task": "94276", "legal_range": [36, 35, 36, 35, 36, 36, 37, 38]}
+{"vid": "EgEPbTZIqdE", "task": "94276", "legal_range": [34, 36, 35, 36, 36, 39]}
+{"vid": "hQGil8MPacU", "task": "94276", "legal_range": [34, 35, 34, 36, 38, 35, 36, 38]}
+{"vid": "tw_ACtuSTH8", "task": "94276", "legal_range": [34, 34, 36, 36, 35, 35, 35, 38, 39]}
+{"vid": "5RpWUHRJoFY", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "iEnci3G3C5M", "task": "94276", "legal_range": [34, 36, 35, 38]}
+{"vid": "Ud0gTxJFS4Q", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "l5YNrb7Ng3Y", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 35, 36, 38, 39]}
+{"vid": "Rxk_ot88l0M", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 36, 35, 38, 39]}
+{"vid": "WXUjiIfzYuA", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 36, 35, 36, 35, 35, 38]}
+{"vid": "oK_vODU58DM", "task": "94276", "legal_range": [36, 35, 36, 35, 36, 38]}
+{"vid": "Ok8SlPkXGGA", "task": "94276", "legal_range": [35, 37, 38, 39]}
+{"vid": "9S0hrQbJblo", "task": "94276", "legal_range": [36, 35, 36, 38]}
+{"vid": "S11T9Zk5VKQ", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "ls4PTaw8ik8", "task": "94276", "legal_range": [34, 36, 36, 35, 37, 38, 39]}
+{"vid": "lFCEPd1Lbfo", "task": "94276", "legal_range": [34, 36, 35, 37, 38]}
+{"vid": "3RY1-fHJym8", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "Cnm3vorDXIQ", "task": "94276", "legal_range": [34, 36, 36, 36, 35, 36, 37, 37, 38, 39]}
+{"vid": "k0lkViyuWAc", "task": "94276", "legal_range": [34, 36, 35, 38, 39]}
+{"vid": "RmlwStQBXYU", "task": "94276", "legal_range": [35, 34, 35, 36, 35, 35, 36, 35]}
+{"vid": "YgIggk3uGlY", "task": "94276", "legal_range": [35, 34, 36, 36, 36, 36, 35]}
+{"vid": "hBaIQ99-JJs", "task": "94276", "legal_range": [36, 36, 38, 38]}
+{"vid": "F0iv1YFaoxQ", "task": "94276", "legal_range": [34, 36, 36, 35, 36, 37, 38]}
+{"vid": "y8NLggIawjg", "task": "94276", "legal_range": [34, 35, 36, 37, 38, 39]}
+{"vid": "aLP6ePnWZUw", "task": "94276", "legal_range": [34, 36, 35, 36, 35, 36, 35, 36, 37, 38]}
+{"vid": "WEzxSzm84X0", "task": "94276", "legal_range": [34, 35, 36, 36, 36, 38]}
+{"vid": "hBabBAFbTPo", "task": "94276", "legal_range": [34, 36, 38, 39]}
+{"vid": "7p75OXKrBbU", "task": "94276", "legal_range": [34, 35, 36, 35, 38, 39]}
+{"vid": "Fsr-P4e4yok", "task": "94276", "legal_range": [34, 35, 36, 36, 36, 36, 36, 37, 37, 38, 39]}
+{"vid": "9pfW80ny6K4", "task": "53193", "legal_range": [43, 42, 44]}
+{"vid": "MWjPZO3IqQQ", "task": "53193", "legal_range": [0, 44, 0, 44]}
+{"vid": "XErEIpGZx6I", "task": "53193", "legal_range": [0, 44]}
+{"vid": "JbHsUD9niKY", "task": "53193", "legal_range": [40, 41, 43, 44]}
+{"vid": "Ul0n8q95WBo", "task": "53193", "legal_range": [0, 40, 42, 44, 44]}
+{"vid": "xCUsCVNXDtI", "task": "53193", "legal_range": [40, 44, 42, 40, 44, 42]}
+{"vid": "3hziUR9RAYc", "task": "53193", "legal_range": [43, 42, 44, 41, 42, 42]}
+{"vid": "o_0DiKlwdy0", "task": "53193", "legal_range": [40, 41, 43, 42, 44, 40, 41, 43, 42, 44, 40, 41, 43, 42, 44, 40, 41, 43, 43, 42, 44]}
+{"vid": "mzT8bwmz8dA", "task": "53193", "legal_range": [44, 43, 40, 0, 44, 0, 44, 43, 40, 0, 44]}
+{"vid": "Z_J6Q4oAvLM", "task": "53193", "legal_range": [40, 0, 0, 42, 44]}
+{"vid": "dRLk32-BT-M", "task": "53193", "legal_range": [40, 41, 42, 43]}
+{"vid": "RbTKdGTIIQ8", "task": "53193", "legal_range": [44, 44, 42, 44]}
+{"vid": "1JXqHmjmdh0", "task": "53193", "legal_range": [40, 41, 42, 43, 44]}
+{"vid": "2Ao5b6uqI40", "task": "53193", "legal_range": [40, 41, 42, 43, 44, 40, 41, 43, 42, 44]}
+{"vid": "Q6IZ-K4ifVg", "task": "53193", "legal_range": [40, 41, 43, 42, 44]}
+{"vid": "6_SOO_WH51s", "task": "53193", "legal_range": [42]}
+{"vid": "c45qI2j4o60", "task": "53193", "legal_range": [44, 42]}
+{"vid": "PfcjNQs0bNY", "task": "53193", "legal_range": [44, 40, 41, 43, 42, 44, 42]}
+{"vid": "OcTSojg960s", "task": "53193", "legal_range": [44, 40, 0, 44, 44, 44, 44]}
+{"vid": "Izsa3XvFAVs", "task": "53193", "legal_range": [0, 42, 43, 44]}
+{"vid": "2qhBLFc5CqM", "task": "53193", "legal_range": [44, 43, 44]}
+{"vid": "zA1WNWGCOx0", "task": "53193", "legal_range": [43, 42, 44]}
+{"vid": "FuJbz0fSIqc", "task": "53193", "legal_range": [43, 40, 41, 42, 44, 42]}
+{"vid": "IdLmgvE3XyQ", "task": "53193", "legal_range": [44, 44]}
+{"vid": "_6aOANU-jM4", "task": "53193", "legal_range": [44]}
+{"vid": "BTaBGDRkXRQ", "task": "53193", "legal_range": [42, 44]}
+{"vid": "UZ-_I-HLM1E", "task": "53193", "legal_range": [42, 44, 42]}
+{"vid": "ejdn67zHuEY", "task": "53193", "legal_range": [44, 42]}
+{"vid": "Hh-BMmBHEpc", "task": "53193", "legal_range": [40, 0, 44, 43, 44, 44, 42]}
+{"vid": "gQTO96jcBbY", "task": "53193", "legal_range": [42, 44]}
+{"vid": "l2slAkzww0s", "task": "53193", "legal_range": [40, 40, 41, 42]}
+{"vid": "z1OdUq6Yb30", "task": "53193", "legal_range": [41, 44, 41, 42, 44]}
+{"vid": "dXR6MOAx4XE", "task": "53193", "legal_range": [40, 41, 42, 44]}
+{"vid": "Y8H3BONv-2k", "task": "53193", "legal_range": [44, 42]}
+{"vid": "lp8EIZlcbEM", "task": "53193", "legal_range": [40, 41, 0, 42]}
+{"vid": "iwIloOYQa2k", "task": "53193", "legal_range": [0, 44, 0, 44, 0, 44, 0, 44, 0, 44, 0, 44, 0, 44, 44, 44, 0, 44, 0, 44]}
+{"vid": "vrVQ_R84EGQ", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44]}
+{"vid": "WES0z3y9UT4", "task": "53193", "legal_range": [40, 42, 43, 44]}
+{"vid": "1nk_zP_08Hk", "task": "53193", "legal_range": [40, 41, 0, 43, 44, 40, 41, 42, 43, 44, 44]}
+{"vid": "tRCguVe5VsM", "task": "53193", "legal_range": [40, 0, 43, 42, 43, 42, 44]}
+{"vid": "V4LftxagMlM", "task": "53193", "legal_range": [40, 0, 44]}
+{"vid": "kVXkoZv4_0M", "task": "53193", "legal_range": [0, 40, 41, 43, 42, 44]}
+{"vid": "2oHY7OQGbIQ", "task": "53193", "legal_range": [44, 40]}
+{"vid": "MJI1W5_lGeA", "task": "53193", "legal_range": [40, 0, 44, 44]}
+{"vid": "IBxqNWOJPMU", "task": "53193", "legal_range": [43, 42, 42, 44]}
+{"vid": "Bug-Fc0sk8E", "task": "53193", "legal_range": [44, 43, 42, 42]}
+{"vid": "VNVCA6Y-0WU", "task": "53193", "legal_range": [43, 40, 41, 42, 42, 44]}
+{"vid": "e_SooeEzGE4", "task": "53193", "legal_range": [40, 41, 42, 43, 44]}
+{"vid": "LFDi9sE_nHk", "task": "53193", "legal_range": [40, 43, 44, 40]}
+{"vid": "kDyut-EpkLQ", "task": "53193", "legal_range": [40, 40, 43, 41, 42, 40, 41, 42, 41, 42, 43, 44, 44, 44, 44, 44, 44]}
+{"vid": "9LQ7UMAknwA", "task": "53193", "legal_range": [44, 44]}
+{"vid": "SmkU0l-yKMw", "task": "53193", "legal_range": [42, 44, 42, 44, 42]}
+{"vid": "laXw36BPXYU", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44]}
+{"vid": "se-PGU5FUX4", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44]}
+{"vid": "RzfR65TdUDk", "task": "53193", "legal_range": [40, 0, 40, 44, 42, 44]}
+{"vid": "bd5WeZeGhT8", "task": "53193", "legal_range": [40, 42, 43, 44, 44]}
+{"vid": "ddCsyIyY1r8", "task": "53193", "legal_range": [44, 43, 44, 44, 43, 44]}
+{"vid": "En058Z5Jtm4", "task": "53193", "legal_range": [44, 42, 43, 44]}
+{"vid": "h8IhyPs7p3k", "task": "53193", "legal_range": [44, 43, 44, 44, 44, 44]}
+{"vid": "IZqNQ3F46LE", "task": "53193", "legal_range": [44, 40, 41, 0, 42, 44, 40, 41, 0, 42, 44, 40, 41, 42, 0, 44]}
+{"vid": "ZIPyN-Hsb7g", "task": "53193", "legal_range": [42, 43, 44, 43]}
+{"vid": "w-SuNqE2LsE", "task": "53193", "legal_range": [43, 44, 40, 42]}
+{"vid": "GlpUJok0fWk", "task": "53193", "legal_range": [44, 40]}
+{"vid": "9fqwyghqnkk", "task": "53193", "legal_range": [42]}
+{"vid": "k8TSZ-cC3qc", "task": "53193", "legal_range": [40, 41, 42, 43, 44]}
+{"vid": "XHK6qFLHXDc", "task": "53193", "legal_range": [43, 43, 42, 44]}
+{"vid": "--G-5UoUQ5A", "task": "53193", "legal_range": [40, 44, 42, 44]}
+{"vid": "fNwgibki_XA", "task": "53193", "legal_range": [40, 41, 44, 42, 43, 44]}
+{"vid": "Yad3wHoKc0k", "task": "53193", "legal_range": [40, 0, 0, 43, 42, 44, 44, 44]}
+{"vid": "LGckexgzPHc", "task": "53193", "legal_range": [40, 41, 42, 44, 43, 42, 44]}
+{"vid": "kmVJOFDVwD0", "task": "53193", "legal_range": [44, 42, 44]}
+{"vid": "fiNmmu-d8rI", "task": "53193", "legal_range": [43, 42]}
+{"vid": "69E9teZwhKA", "task": "53193", "legal_range": [0, 40, 44, 43, 42, 44, 44]}
+{"vid": "NZ9VgEhVkrY", "task": "53193", "legal_range": [42, 44]}
+{"vid": "X8HxFpHIoVA", "task": "53193", "legal_range": [40, 41, 43, 44]}
+{"vid": "qsHacrTIXh4", "task": "53193", "legal_range": [43, 44, 44, 43, 44, 43, 44, 44]}
+{"vid": "2ws1uLGBtmo", "task": "53193", "legal_range": [0, 40, 41, 40, 41, 40, 41, 44, 42, 42]}
+{"vid": "UxwscVIZ8Qg", "task": "53193", "legal_range": [40, 41, 42, 43, 44]}
+{"vid": "7NYqUelKJvE", "task": "53193", "legal_range": [42, 43, 44]}
+{"vid": "6AiePWPqDbg", "task": "53193", "legal_range": [44, 43, 44, 44]}
+{"vid": "En1QsvzQhZ0", "task": "53193", "legal_range": [44, 43, 44]}
+{"vid": "ZUZbfcEvp7o", "task": "53193", "legal_range": [0, 40, 41, 43, 42, 43, 44]}
+{"vid": "aVAdgp2C9Zw", "task": "53193", "legal_range": [44, 43, 44]}
+{"vid": "4vyfToi5sa8", "task": "53193", "legal_range": [40, 41, 0, 43, 42, 44]}
+{"vid": "S2gWY6zBcR0", "task": "53193", "legal_range": [40, 44, 42]}
+{"vid": "rcVc4d6CqvM", "task": "53193", "legal_range": [43, 42, 44]}
+{"vid": "aEHBmi1927g", "task": "53193", "legal_range": [0, 40, 41, 42, 43, 44]}
+{"vid": "alFFbpBmc5Q", "task": "53193", "legal_range": [42, 44]}
+{"vid": "ScZF8BoVI3c", "task": "53193", "legal_range": [43, 42, 42]}
+{"vid": "FJQJ_MRZIQk", "task": "53193", "legal_range": [0, 42]}
+{"vid": "HYKNx9Fd7I8", "task": "53193", "legal_range": [40, 41, 0, 42, 43, 44]}
+{"vid": "SLKkBX0m7TU", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44]}
+{"vid": "GnmdNgsLyZE", "task": "53193", "legal_range": [44, 42]}
+{"vid": "rUo6VC9HxJ8", "task": "53193", "legal_range": [40, 42, 43, 44, 42, 44]}
+{"vid": "Khur6_IgZBk", "task": "53193", "legal_range": [44, 44, 44, 43, 42]}
+{"vid": "vzd3P62p3uE", "task": "53193", "legal_range": [40, 41, 42, 42, 42, 44, 44]}
+{"vid": "K070IT1aGRM", "task": "53193", "legal_range": [0, 40, 41, 42, 44, 43, 44, 43, 44, 42]}
+{"vid": "Mf3J57R7ec8", "task": "53193", "legal_range": [42, 43, 44]}
+{"vid": "9atSUkIJX6I", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44, 44]}
+{"vid": "XVJH3eYFpPc", "task": "53193", "legal_range": [0, 40, 42, 44, 44, 44, 42, 44, 42, 44]}
+{"vid": "sBG8O430uOg", "task": "53193", "legal_range": [44, 40, 41, 42, 43, 44, 44, 40, 41, 42, 43, 44, 44]}
+{"vid": "VsLsoCe8mhU", "task": "53193", "legal_range": [40, 41, 44, 42, 44]}
+{"vid": "aaBhRnvT2Aw", "task": "53193", "legal_range": [44, 42]}
+{"vid": "xT0JwfP_VTs", "task": "53193", "legal_range": [40, 41, 42, 44, 44]}
+{"vid": "dBM3bGpnMWk", "task": "53193", "legal_range": [44, 42, 44]}
+{"vid": "lFBp_aqV8k8", "task": "53193", "legal_range": [41, 42, 41, 44]}
+{"vid": "BSE9PiSw53Y", "task": "53193", "legal_range": [42, 44]}
+{"vid": "dccvwUQxhL4", "task": "53193", "legal_range": [0, 43, 0, 44, 42]}
+{"vid": "aJ0H05FsogI", "task": "53193", "legal_range": [40, 44, 0, 0, 44, 44]}
+{"vid": "81DjyQbefQg", "task": "105253", "legal_range": [35, 48, 49, 47, 45, 50]}
+{"vid": "EEJJtGswxLE", "task": "105253", "legal_range": [48, 35, 49, 51, 52]}
+{"vid": "6UVWwQGaCHw", "task": "105253", "legal_range": [46, 50, 45, 51, 52]}
+{"vid": "eEBZ0nY0FFI", "task": "105253", "legal_range": [45, 47, 47, 35, 48, 49, 50, 53, 51, 52, 53]}
+{"vid": "Rz83bdCRoF0", "task": "105253", "legal_range": [48, 0, 47, 49, 51, 49, 51, 49, 51, 49, 51, 49, 49]}
+{"vid": "-4x1xivTrN4", "task": "105253", "legal_range": [48, 35, 0, 49, 45, 51, 52, 53]}
+{"vid": "CsXsUl-kW2Y", "task": "105253", "legal_range": [45, 47, 0, 50, 35, 0, 48, 49, 51, 52]}
+{"vid": "7vfNlLZYOhA", "task": "105253", "legal_range": [50, 48, 35, 49, 51, 52, 53]}
+{"vid": "p0zXvzHhX5w", "task": "105253", "legal_range": [47, 51, 49, 52]}
+{"vid": "NE3CVgS27ZA", "task": "105253", "legal_range": [45, 47, 51, 52, 53]}
+{"vid": "wkTRhN3z98Y", "task": "105253", "legal_range": [51]}
+{"vid": "ISPAy0OTrq0", "task": "105253", "legal_range": [45, 48, 47, 52]}
+{"vid": "xe1Ho7Vr-s8", "task": "105253", "legal_range": [48, 35, 47, 49, 46, 51, 49, 45, 45, 51, 45, 49, 52]}
+{"vid": "r4bFhhEhLpI", "task": "105253", "legal_range": [49, 49, 50, 51, 52]}
+{"vid": "bzcK4qtmxU0", "task": "105253", "legal_range": [35, 48, 51, 52]}
+{"vid": "BsseKvArQRw", "task": "105253", "legal_range": [45, 35, 49, 50, 51, 52]}
+{"vid": "4OdLMw7qnK4", "task": "105253", "legal_range": [48, 35, 49, 51, 52, 53]}
+{"vid": "pGMiNqgJUSs", "task": "105253", "legal_range": [48, 47, 49, 51, 52]}
+{"vid": "3uKxLNi8Z6k", "task": "105253", "legal_range": [45, 48, 49, 35, 47, 50, 51, 52, 51, 53]}
+{"vid": "h68TQJz8PqY", "task": "105253", "legal_range": [45, 48, 35, 51, 52, 53]}
+{"vid": "5jrCRutGr0E", "task": "105253", "legal_range": [45, 45, 46, 47, 0, 35, 49, 48, 0, 50, 51]}
+{"vid": "-H5t2knykS0", "task": "105253", "legal_range": [45, 0, 48, 49, 0, 51, 53]}
+{"vid": "RTpWbcTvEPM", "task": "105253", "legal_range": [45, 46, 51, 49, 48, 0, 47, 35]}
+{"vid": "NBzy_hwT1yM", "task": "105253", "legal_range": [0, 48, 47, 35, 45, 51, 52]}
+{"vid": "aVX38lBTGMI", "task": "105253", "legal_range": [47, 48, 35, 49, 50, 51, 52, 51]}
+{"vid": "9Yf8qdUWyCU", "task": "105253", "legal_range": [45, 51, 52]}
+{"vid": "LNxI2qByg_8", "task": "105253", "legal_range": [45, 46, 47, 0, 48, 49, 35, 50, 51, 52, 53]}
+{"vid": "SFmRzaYBM6w", "task": "105253", "legal_range": [35, 49, 48, 49, 51, 52]}
+{"vid": "WtBh0I9Lmmk", "task": "105253", "legal_range": [0, 48, 47, 35, 45, 49, 51, 50, 52]}
+{"vid": "ncnf8On6FGY", "task": "105253", "legal_range": [45, 0, 48, 35, 49, 50, 51, 52]}
+{"vid": "Wa4jLV7xUlQ", "task": "105253", "legal_range": [51, 48, 52, 53]}
+{"vid": "PJRt-pmdenI", "task": "105253", "legal_range": [45, 46, 47, 0, 48, 49, 35, 50, 51, 52, 53]}
+{"vid": "UXh-Y7jzyTM", "task": "105253", "legal_range": [45, 51, 48, 35, 0, 49, 47, 49, 52]}
+{"vid": "HEhHHNPbUJ8", "task": "105253", "legal_range": [47, 51, 52]}
+{"vid": "5UhVvvbadus", "task": "105253", "legal_range": [48, 47, 49, 45, 49, 51, 49, 50, 52]}
+{"vid": "NaOHoFG6gR4", "task": "105253", "legal_range": [45, 0, 49, 51, 52, 53]}
+{"vid": "EZ9nvRcgNyM", "task": "105253", "legal_range": [51, 52, 53]}
+{"vid": "5tOQpvfZ88E", "task": "105253", "legal_range": [51, 48, 51, 0, 49, 47, 52, 52]}
+{"vid": "QjfvyO4l6_0", "task": "105253", "legal_range": [45, 47, 48, 49, 49, 51, 52, 53]}
+{"vid": "1cj9jNc9nKo", "task": "105253", "legal_range": [49, 49, 51, 49, 53]}
+{"vid": "JcDh9JtzeL8", "task": "105253", "legal_range": [51, 52]}
+{"vid": "PaOvO8HYeeM", "task": "105253", "legal_range": [48, 48, 49, 51, 51, 53]}
+{"vid": "nz36T3uhP3s", "task": "105253", "legal_range": [49, 35, 48, 45, 51, 52]}
+{"vid": "jzup7FHS0A0", "task": "105253", "legal_range": [45, 46, 48, 35, 49, 51]}
+{"vid": "60plfq4pOZY", "task": "105253", "legal_range": [50, 52]}
+{"vid": "yRBj4z7a-2I", "task": "105253", "legal_range": [45, 51]}
+{"vid": "mS2Q_nRe7AI", "task": "105253", "legal_range": [45, 45, 51]}
+{"vid": "aftZcHGvuhc", "task": "105253", "legal_range": [45, 51, 52, 53]}
+{"vid": "bvgJzpxc5gA", "task": "105253", "legal_range": [45, 51]}
+{"vid": "EUt-0DS2GGU", "task": "105253", "legal_range": [45, 46, 47, 48, 35, 49, 51, 52, 53]}
+{"vid": "nmY5uzD4zjM", "task": "105253", "legal_range": [45, 51, 46, 51, 46, 46, 51, 49, 48, 47, 35, 49, 49, 49, 52]}
+{"vid": "JHex_kpeAWo", "task": "105253", "legal_range": [45, 48, 49, 47, 49, 35, 49, 51, 0, 52]}
+{"vid": "X2FuVybCHDc", "task": "105253", "legal_range": [35, 48, 45, 46, 47, 0, 48, 35, 49, 50, 51, 52, 53]}
+{"vid": "GWS1prE5_Eg", "task": "105253", "legal_range": [49, 51, 47, 52]}
+{"vid": "6mXnRdnzro0", "task": "105253", "legal_range": [45, 46, 47, 35, 49, 48, 0, 50, 48, 51, 52]}
+{"vid": "PO2i8_S1cWY", "task": "105253", "legal_range": [49, 52, 0, 49, 47, 50]}
+{"vid": "P6BoB2TOyQA", "task": "105253", "legal_range": [47, 47, 48, 35, 0, 49, 50, 51, 52, 53]}
+{"vid": "RHdSGVleJgw", "task": "105253", "legal_range": [49, 45, 50, 45, 50, 45, 50, 52]}
+{"vid": "WTx0f4z0aAE", "task": "105253", "legal_range": [45, 47, 48, 35, 49, 50, 51, 51, 52, 53]}
+{"vid": "7iz2Wx4RuJo", "task": "105253", "legal_range": [45, 47, 0, 51, 52, 53, 51]}
+{"vid": "0AA5U42r_0g", "task": "105253", "legal_range": [45, 51, 49, 50, 53]}
+{"vid": "1IW0HVD6A7Y", "task": "105253", "legal_range": [45, 47, 35, 49, 50, 51, 52]}
+{"vid": "Ig0MkVPhqPY", "task": "105253", "legal_range": [51, 35, 49, 51, 49, 35, 51, 35, 52]}
+{"vid": "l2lBecXchQw", "task": "105253", "legal_range": [49, 51, 52]}
+{"vid": "qi5P9h64Nfg", "task": "105253", "legal_range": [0, 48, 49, 45, 51, 52]}
+{"vid": "tJCUQ4IbUjk", "task": "105253", "legal_range": [45, 49, 51, 49, 52, 53]}
+{"vid": "YpFzv-s4b3I", "task": "105253", "legal_range": [35, 51]}
+{"vid": "jJrsiPfdX7Q", "task": "105253", "legal_range": [0, 35, 47, 50, 48, 47, 49, 51, 52]}
+{"vid": "Mf-93VN9Ih0", "task": "105253", "legal_range": [49, 47, 48, 46, 45, 50, 51, 52]}
+{"vid": "Uj0WzaLGg3Y", "task": "105253", "legal_range": [0, 48, 47, 49, 51, 52, 53]}
+{"vid": "yFniLOHakvk", "task": "105253", "legal_range": [48, 35, 49, 52, 53]}
+{"vid": "S7wF6S5ywo4", "task": "105253", "legal_range": [45, 46, 0, 49, 48, 50, 51, 52]}
+{"vid": "i_aO0GfC9_Q", "task": "105253", "legal_range": [45, 51, 45, 0, 0, 52]}
+{"vid": "LUFW2Aw22rI", "task": "105253", "legal_range": [45, 46, 51, 51]}
+{"vid": "MEYXUyEXd88", "task": "105253", "legal_range": [48, 35, 49, 52]}
+{"vid": "OWwFlJrYhDs", "task": "105253", "legal_range": [45, 47, 49, 49, 51, 48, 52]}
+{"vid": "TkWLBNTaPWo", "task": "105253", "legal_range": [0, 0, 49, 47, 51, 49, 51, 52]}
+{"vid": "2hiIwN4kaGk", "task": "105253", "legal_range": [50, 52]}
+{"vid": "3QAzQ-O9MEk", "task": "44047", "legal_range": [54, 54, 35, 56, 56, 56, 4, 0, 4, 56, 57, 58, 4]}
+{"vid": "OCpPOX1gJ-E", "task": "44047", "legal_range": [54, 0, 35, 4, 58]}
+{"vid": "2H6X7tQWpv0", "task": "44047", "legal_range": [35, 0, 54, 55, 56, 4, 56, 58]}
+{"vid": "0Ll7VKyFReE", "task": "44047", "legal_range": [54, 55, 35, 0, 4, 57, 4, 58, 54]}
+{"vid": "jCIEQoUmnw4", "task": "44047", "legal_range": [0, 54, 55, 56, 0, 57, 4, 4, 58]}
+{"vid": "b21PQg4KOYg", "task": "44047", "legal_range": [35, 35, 54, 54, 55, 56, 4, 0, 58]}
+{"vid": "eQM8mTzsKBg", "task": "44047", "legal_range": [55, 56, 35, 4, 0, 58, 58]}
+{"vid": "hxmu13bEQM8", "task": "44047", "legal_range": [35, 0, 57, 57, 56, 4, 35, 4, 58]}
+{"vid": "P1vCRlt4a8E", "task": "44047", "legal_range": [57, 54, 55, 35, 0, 4, 58]}
+{"vid": "xb9aYTlZiUo", "task": "44047", "legal_range": [54, 55, 56, 55, 56, 56, 56, 4]}
+{"vid": "bf3ac4bkIIo", "task": "44047", "legal_range": [54, 55, 56, 0, 35, 4, 56, 4, 58]}
+{"vid": "OIJrOQALhTQ", "task": "44047", "legal_range": [55, 0, 35, 4, 56, 4, 58, 58]}
+{"vid": "ur5JfhgJdYc", "task": "44047", "legal_range": [54, 55, 58, 56, 56, 0, 4, 58]}
+{"vid": "KPVMUSifnRc", "task": "44047", "legal_range": [55, 56, 0, 58, 4]}
+{"vid": "hVu3FIp9Jlc", "task": "44047", "legal_range": [0, 35, 54, 55, 56, 55, 56, 0, 35, 35, 4, 0, 4, 58]}
+{"vid": "COx5Bf0PsQs", "task": "44047", "legal_range": [55, 56, 35, 4, 0, 35, 58]}
+{"vid": "Blh_wHlmVL0", "task": "44047", "legal_range": [0, 35, 4, 54, 55, 56, 58]}
+{"vid": "Cc0Yw8pnzlI", "task": "44047", "legal_range": [0, 35, 54, 55, 55, 56, 57, 4, 58]}
+{"vid": "MbCAiWBhAjo", "task": "44047", "legal_range": [0, 35, 4, 54, 55, 56, 0, 4, 57, 58]}
+{"vid": "BLn1tO1lbrQ", "task": "44047", "legal_range": [54, 55, 55, 54, 55, 0, 55, 55, 55, 0, 0, 35, 55, 4]}
+{"vid": "JGRpVcxltKE", "task": "44047", "legal_range": [54, 55, 54, 55, 56, 35, 0, 56, 0, 4, 54, 4, 58]}
+{"vid": "NBayz5EjNRc", "task": "44047", "legal_range": [35, 0, 54, 55, 56, 56, 56, 0, 58]}
+{"vid": "dQYN5jv5Dn4", "task": "44047", "legal_range": [55, 35, 57, 4]}
+{"vid": "N_MeeUuLiZ0", "task": "44047", "legal_range": [54, 55, 56, 57, 0, 58, 54, 55, 56, 35, 0, 58]}
+{"vid": "E0JHc0myXok", "task": "44047", "legal_range": [54, 35, 0, 4, 56, 58]}
+{"vid": "Xb1zUdFFurk", "task": "44047", "legal_range": [55, 57, 35, 56, 4, 58]}
+{"vid": "qmPH3R6WDs0", "task": "44047", "legal_range": [54, 55, 56, 0, 35, 4, 35, 4]}
+{"vid": "e4i0RXTlq0E", "task": "44047", "legal_range": [54, 55, 0, 35, 56, 58]}
+{"vid": "SS45rKUo4ZY", "task": "44047", "legal_range": [55, 56, 0, 57, 58, 58]}
+{"vid": "Ou5RXSukI74", "task": "44047", "legal_range": [54, 54, 54, 55, 54, 55, 55, 54, 55, 55, 54, 55, 35, 35, 4, 54, 4]}
+{"vid": "Uxm5Y7fz-V0", "task": "44047", "legal_range": [54, 55, 54, 56, 55, 56, 0, 4, 0, 4]}
+{"vid": "88QX6nH21fw", "task": "44047", "legal_range": [0, 54, 55, 56, 35, 4]}
+{"vid": "ZBVaJaLg0G8", "task": "44047", "legal_range": [54, 55, 56, 0, 35, 35, 57, 58]}
+{"vid": "LPRVGxULS6k", "task": "44047", "legal_range": [54, 55, 56, 35, 35, 4, 4, 0, 4, 57]}
+{"vid": "TzgGhggOidA", "task": "44047", "legal_range": [54, 55, 56, 35, 57, 4, 57]}
+{"vid": "2eXQctAF6gI", "task": "44047", "legal_range": [58, 35, 0, 54, 55, 56, 54, 55, 56, 0, 57, 0, 54, 4, 58]}
+{"vid": "ah3kH5mIWMg", "task": "44047", "legal_range": [55, 55, 0, 56, 58, 58, 35, 4, 57]}
+{"vid": "2CTWueZkvUg", "task": "44047", "legal_range": [54, 55, 35, 4, 58, 0, 55, 35, 4, 58, 0]}
+{"vid": "baDTQt59JGY", "task": "44047", "legal_range": [54, 55, 35, 56, 0, 4, 4, 57, 4, 57, 58]}
+{"vid": "8cgtZhXTNLc", "task": "44047", "legal_range": [54, 55, 56, 35, 4, 56, 35, 58]}
+{"vid": "oMHLr2VKliU", "task": "44047", "legal_range": [54, 55, 54, 55, 56, 55, 56, 0, 4, 58, 54]}
+{"vid": "eOKlsW5hojE", "task": "44047", "legal_range": [35, 0, 58, 54, 56, 57, 58]}
+{"vid": "8lVCCZLCgEY", "task": "44047", "legal_range": [54, 55, 0, 56, 4, 35, 58]}
+{"vid": "bHASQRJkQVM", "task": "44047", "legal_range": [54, 55, 35, 56]}
+{"vid": "0zKC9m4hPKY", "task": "44047", "legal_range": [0, 4, 56, 35, 57, 0, 4, 58]}
+{"vid": "HjlT31MoGWQ", "task": "44047", "legal_range": [55, 56, 35, 0, 4, 58]}
+{"vid": "5V4V_tkTJQw", "task": "44047", "legal_range": [0, 56, 35, 57, 4, 58]}
+{"vid": "tD85sG5QKOk", "task": "44047", "legal_range": [56, 0, 4, 4, 58]}
+{"vid": "o-Am6aMM6QU", "task": "44047", "legal_range": [55, 35, 0, 0, 0, 56, 4]}
+{"vid": "OpJ1eb5DrRI", "task": "44047", "legal_range": [54, 55, 56, 35, 0, 4, 58, 58]}
+{"vid": "jLK4sTcJsX0", "task": "44047", "legal_range": [54, 35, 0, 4, 56, 56, 0, 4, 58]}
+{"vid": "ZZ-_F127HQw", "task": "44047", "legal_range": [35, 0, 54, 55, 56, 56, 4, 0, 4]}
+{"vid": "SIw714h5kx0", "task": "44047", "legal_range": [54, 55, 35, 0, 4, 0, 57, 58]}
+{"vid": "l-1vCWlc3sk", "task": "44047", "legal_range": [0, 54, 0, 4, 56, 56, 57, 4, 56, 4, 35, 4, 58, 58]}
+{"vid": "Kknu9A_OdyU", "task": "44047", "legal_range": [35, 4, 4, 57, 56, 0, 4, 58]}
+{"vid": "J5zJqnLoWCU", "task": "44047", "legal_range": [35, 55, 0, 58]}
+{"vid": "_pYP7Zytatk", "task": "44047", "legal_range": [54, 55, 35, 0, 0, 58]}
+{"vid": "cfpLNyZHzwA", "task": "44047", "legal_range": [55, 58, 58, 58]}
+{"vid": "0bW00uLEVD0", "task": "44047", "legal_range": [54, 55, 56, 55, 56, 54, 35, 0, 4]}
+{"vid": "1AHjKKrYBgc", "task": "44047", "legal_range": [0, 54, 55, 58]}
+{"vid": "w9sBfFTNDhM", "task": "44047", "legal_range": [0, 35, 4, 0, 54, 55, 56, 55, 56, 4, 57, 58]}
+{"vid": "Jb-_xAoZXe4", "task": "44047", "legal_range": [54, 35, 55, 4, 58]}
+{"vid": "ESqDmXOxBto", "task": "44047", "legal_range": [54, 55, 35, 4, 0, 35, 4, 56, 0, 4, 58, 58, 56, 0, 58, 56]}
+{"vid": "4q57sKrn4ek", "task": "44047", "legal_range": [0, 35, 54, 55, 56, 0, 4]}
+{"vid": "E7b3pxiLWJg", "task": "44047", "legal_range": [54, 35, 4, 55, 57, 4, 58]}
+{"vid": "lakgaU32Now", "task": "44047", "legal_range": [54, 55, 56, 56, 35, 0, 4, 58, 4]}
+{"vid": "mK9DMmMQm6E", "task": "44047", "legal_range": [55, 35, 4, 0, 56, 4]}
+{"vid": "_Mxs1Bk5V0Q", "task": "44047", "legal_range": [35, 55, 57, 4, 4]}
+{"vid": "Hisg3dFKHIY", "task": "44047", "legal_range": [54, 35, 0, 54, 55, 56, 56, 57, 58, 4]}
+{"vid": "NbBX-fLNEf8", "task": "44047", "legal_range": [35, 54, 55, 56, 4, 58]}
+{"vid": "Lwji9Y0rXcU", "task": "44047", "legal_range": [54, 55, 55, 54, 55, 55, 56, 35, 4, 0, 4, 58]}
+{"vid": "hJJas1Zat1s", "task": "44047", "legal_range": [4, 57, 4, 58]}
+{"vid": "PlcyBfZi76Q", "task": "44047", "legal_range": [35, 0, 0, 56, 58]}
+{"vid": "L-pdF9xyEl0", "task": "44047", "legal_range": [56, 35, 0, 4, 4, 56, 0, 0, 4, 58]}
+{"vid": "UN0zFmcrjaQ", "task": "44047", "legal_range": [54, 55, 0, 35, 4, 0, 4, 0, 4, 58, 58]}
+{"vid": "5LHIoaSvKCU", "task": "44047", "legal_range": [0, 55, 35, 4]}
+{"vid": "-l2fLEegsQ8", "task": "44047", "legal_range": [55, 0, 56, 0, 56]}
+{"vid": "FI_1uIEYyu0", "task": "44047", "legal_range": [35, 0, 4, 54, 4, 55, 56, 56, 4, 4, 56, 58, 57, 58, 58]}
+{"vid": "qouF3MoWlho", "task": "44047", "legal_range": [0, 55, 56, 4]}
+{"vid": "JV4ss42WZG8", "task": "44047", "legal_range": [54, 55, 54, 55, 35, 4]}
+{"vid": "-wRMeXehzSk", "task": "44047", "legal_range": [55, 35, 4, 35, 4, 35, 4, 4, 57]}
+{"vid": "Q20OiGUM0ao", "task": "44047", "legal_range": [0, 54, 55, 56, 58]}
+{"vid": "mZ2Gqtpff9M", "task": "44047", "legal_range": [55, 35, 0, 4, 0, 56, 58]}
+{"vid": "tv3PT3AjbKQ", "task": "44047", "legal_range": [35, 4, 4, 4, 56, 4, 58]}
+{"vid": "Y8uK6LVQ0cQ", "task": "44047", "legal_range": [0, 35, 54, 55, 56, 56, 4, 0, 4, 4, 56, 58]}
+{"vid": "t0qqfQ-EoeU", "task": "44047", "legal_range": [54, 55, 35, 0, 4, 56, 57, 58]}
+{"vid": "chbv2Sk5VCI", "task": "44047", "legal_range": [54, 0, 4, 56, 35, 4]}
+{"vid": "9YJpXkPC0JE", "task": "44047", "legal_range": [55, 58, 0, 58, 57, 4, 35, 4, 55, 0, 35, 58, 57]}
+{"vid": "Qw88ySeoKgQ", "task": "44047", "legal_range": [57, 56, 0, 35, 4, 58]}
+{"vid": "aBSkEgaVh1g", "task": "76400", "legal_range": [36, 44, 62, 36, 60, 59, 61, 59, 61, 63, 65]}
+{"vid": "Dk23_r9HKFY", "task": "76400", "legal_range": [34, 44, 36, 60, 61, 63, 64, 65]}
+{"vid": "3G2-2Xx4-7Y", "task": "76400", "legal_range": [44, 36, 59, 60, 61, 64, 65]}
+{"vid": "tTbnzvim5BI", "task": "76400", "legal_range": [44, 36, 34, 36, 59, 60, 61, 59, 63, 64, 65]}
+{"vid": "ae5j33xIpL4", "task": "76400", "legal_range": [34, 44, 36, 62, 59, 61, 63, 64, 65]}
+{"vid": "uQDuOVYUhzk", "task": "76400", "legal_range": [34, 44, 36, 36, 59, 61, 59, 61, 59, 61, 59, 61, 64, 65]}
+{"vid": "8zaFNg-T_nY", "task": "76400", "legal_range": [44, 34, 36, 59, 60, 61, 63, 65]}
+{"vid": "GjKf1rhWZ-0", "task": "76400", "legal_range": [44, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "24tQQiYdpCI", "task": "76400", "legal_range": [34, 44, 36, 60, 59, 61, 63]}
+{"vid": "pSp0RHl6mbY", "task": "76400", "legal_range": [34, 36, 44, 59, 61, 63, 65]}
+{"vid": "Z8mK-j-z-uc", "task": "76400", "legal_range": [62, 44, 34, 36, 60, 59, 61, 64]}
+{"vid": "d9lk81AL5BQ", "task": "76400", "legal_range": [44, 62, 36, 59, 63, 64, 60, 61, 63, 64]}
+{"vid": "6dZe09eoQO0", "task": "76400", "legal_range": [34, 59, 60, 61, 59, 63, 64]}
+{"vid": "yNSXQsP-VQY", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 61, 64]}
+{"vid": "xHft0Ij-BVo", "task": "76400", "legal_range": [36, 59, 60, 61, 59, 63, 61, 64]}
+{"vid": "XX6huDMy4nI", "task": "76400", "legal_range": [34, 62, 44, 36, 60, 59, 61, 63, 36, 65]}
+{"vid": "0LqWYgdsX5A", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61, 65]}
+{"vid": "0PvXpILDHms", "task": "76400", "legal_range": [61, 60, 59, 61, 59, 61, 59, 61, 63]}
+{"vid": "DRyTaSflfqo", "task": "76400", "legal_range": [34, 44, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "PH1y2wiiy5M", "task": "76400", "legal_range": [36, 59, 61, 63, 64, 59, 61, 64, 59, 61, 63]}
+{"vid": "3sdltjGiThQ", "task": "76400", "legal_range": [34, 36, 62, 36, 59, 60, 61, 59, 64]}
+{"vid": "q7ODD4Xbg4E", "task": "76400", "legal_range": [36, 44, 62, 59, 60, 61, 63, 64, 65]}
+{"vid": "D7Gqh-q06Ow", "task": "76400", "legal_range": [59, 61, 59, 61, 63, 64, 63, 61, 64, 63, 64]}
+{"vid": "iGi3Wsx9MZU", "task": "76400", "legal_range": [34, 36, 44, 36, 59, 61, 59, 61, 63, 64, 63, 64, 65]}
+{"vid": "YYTIsQQoanM", "task": "76400", "legal_range": [36, 59, 36, 60, 61, 63, 64, 65]}
+{"vid": "40HfTaxr6Sk", "task": "76400", "legal_range": [44, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "YG6mcK-wgcA", "task": "76400", "legal_range": [36, 59, 60, 61, 63, 64]}
+{"vid": "Ej-0-6vyrmI", "task": "76400", "legal_range": [34, 62, 36, 59, 60, 61, 63, 64]}
+{"vid": "BRYD49WgiN0", "task": "76400", "legal_range": [62, 36, 59, 65]}
+{"vid": "1PRPqbBH_-0", "task": "76400", "legal_range": [60, 44, 36, 62, 60, 59, 61, 63, 64]}
+{"vid": "s46AdRyLrEc", "task": "76400", "legal_range": [34, 59, 60, 61, 64, 65]}
+{"vid": "f3kfWA8BdqE", "task": "76400", "legal_range": [34, 61, 63, 64]}
+{"vid": "nDYjsU68gBc", "task": "76400", "legal_range": [34, 44, 36, 59, 60, 61, 63, 59, 64, 65]}
+{"vid": "N1seZWzX0dw", "task": "76400", "legal_range": [34, 36, 59, 60, 61, 63, 65]}
+{"vid": "Y_sumhhfa30", "task": "76400", "legal_range": [34, 36, 36, 44, 36, 36, 59, 61, 61, 63, 64]}
+{"vid": "OQSFHk6-8P8", "task": "76400", "legal_range": [60, 59, 60, 61, 59, 59, 61, 59, 63, 63, 64, 65]}
+{"vid": "LyMDQRazzy8", "task": "76400", "legal_range": [36, 59, 61, 63]}
+{"vid": "Xx8tOYYay4Q", "task": "76400", "legal_range": [34, 44, 36, 36, 61, 63, 63, 63, 63, 64, 65]}
+{"vid": "ESWfZynUU-s", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 60, 59, 61, 63, 63, 64, 60, 59, 61, 63, 63, 64]}
+{"vid": "7Nr7JFXUaUg", "task": "76400", "legal_range": [36, 59, 63, 65]}
+{"vid": "VIg3708ge1Y", "task": "76400", "legal_range": [60, 34, 44, 36, 59, 61, 59, 63, 64, 65]}
+{"vid": "4nMrFBv5O4o", "task": "76400", "legal_range": [34, 44, 36, 59, 61, 63, 64, 65]}
+{"vid": "lQSOTNgynrQ", "task": "76400", "legal_range": [34, 36, 44, 36, 62, 60, 59, 61, 63, 64, 65]}
+{"vid": "Gm9gHGaGkgA", "task": "76400", "legal_range": [34, 36, 60, 59, 61, 63, 64, 60, 59, 61, 63, 64, 59, 61, 63, 64]}
+{"vid": "Mnw2aR9ty1g", "task": "76400", "legal_range": [62, 36, 34, 44, 62, 36, 36, 59, 61, 63, 59, 61, 63, 64, 65]}
+{"vid": "JNvZuSYxZMA", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 60, 59, 61, 63, 64, 63, 64]}
+{"vid": "mJ8ejCHwMZ0", "task": "76400", "legal_range": [34, 36, 59, 60, 61, 63, 64, 63]}
+{"vid": "4bKvIONv-wU", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 36, 59, 60, 63, 64, 65]}
+{"vid": "HSBAOIOshyg", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 59, 61, 59, 61, 63, 64, 65]}
+{"vid": "5FmvEyQsENI", "task": "76400", "legal_range": [60, 36, 44, 36, 62, 36, 59, 61, 63, 64, 65]}
+{"vid": "AtxPGq9RrfA", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61, 63, 64, 61, 64, 65]}
+{"vid": "yxaM50k1fbA", "task": "76400", "legal_range": [34, 36, 59, 61, 64, 65]}
+{"vid": "o9H9Vs-0BOc", "task": "76400", "legal_range": [34, 36, 44, 36, 62, 36, 36, 60, 59, 61, 59, 61, 63, 65, 65]}
+{"vid": "nJTSLiyXuxQ", "task": "76400", "legal_range": [34, 36, 44, 62, 59, 60, 61, 63, 65]}
+{"vid": "6g_k3QW9Icc", "task": "76400", "legal_range": [34, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "cMrFInxX2bI", "task": "76400", "legal_range": [60, 59, 65]}
+{"vid": "dXwthvRi2LU", "task": "76400", "legal_range": [62, 60, 59, 61, 63, 64]}
+{"vid": "lk_mGey0e_Q", "task": "76400", "legal_range": [44, 34, 36, 59, 61, 63, 65]}
+{"vid": "3zv8EjVGTPs", "task": "76400", "legal_range": [34, 44, 36, 59, 61, 63, 64, 65]}
+{"vid": "fU46OZft_BQ", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 61, 63, 63, 64, 65]}
+{"vid": "2Uo2qaRsrec", "task": "76400", "legal_range": [36, 62, 34, 59, 60, 61, 63, 64, 65]}
+{"vid": "I9xwkrAFhv4", "task": "76400", "legal_range": [34, 36, 62, 36, 59, 59, 59, 63, 65]}
+{"vid": "q8mW35dSxQI", "task": "76400", "legal_range": [44, 44, 36, 60, 61, 63, 63, 64]}
+{"vid": "5Q_UYljqssk", "task": "76400", "legal_range": [36, 44, 36, 59, 60, 61, 63, 63]}
+{"vid": "pYoPp1tjU0U", "task": "76400", "legal_range": [36, 34, 44, 59]}
+{"vid": "23Lp6XbTc8M", "task": "76400", "legal_range": [36, 60, 59, 61, 63, 65]}
+{"vid": "bP6rpB33ULk", "task": "76400", "legal_range": [62, 44, 34, 62, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "XlEYZLuJGC0", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 61]}
+{"vid": "O-ly47ZH9ak", "task": "76400", "legal_range": [44, 59, 59, 61, 65]}
+{"vid": "2YWGEiNuiL4", "task": "76400", "legal_range": [34, 44, 62, 60, 36, 59, 61, 63, 63, 63, 63, 64, 65, 65, 65]}
+{"vid": "CojpmzLt6mA", "task": "76400", "legal_range": [34, 44, 44, 36, 60, 59, 61, 59, 61, 63, 63, 64, 65]}
+{"vid": "ICxsxjJEeFs", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 59, 61, 63, 64, 65]}
+{"vid": "T6_HESv9sY8", "task": "76400", "legal_range": [44, 36, 60, 59, 61, 59, 61, 63, 64]}
+{"vid": "b_4hcTZn6t8", "task": "76400", "legal_range": [34, 36, 36, 36, 62, 36, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "9Ry2wEjw730", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 36, 59, 61, 63, 64, 65]}
+{"vid": "g4lzcwUa-RA", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "cmPFrxS71J0", "task": "76400", "legal_range": [59, 61, 63, 64, 65]}
+{"vid": "L2ntnUzANDw", "task": "76400", "legal_range": [34, 44, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "OmgS8E_5N3U", "task": "76400", "legal_range": [60, 36, 59, 61, 59, 61, 59, 61, 59, 61, 63, 64, 65]}
+{"vid": "_cIL7iu5bMY", "task": "76400", "legal_range": [44, 34, 36, 59, 61, 63, 64, 65]}
+{"vid": "3meOZdIH6Sw", "task": "76400", "legal_range": [36, 44, 36, 36, 36, 62, 60, 59, 61, 63, 64, 65]}
+{"vid": "4-TH15hcS7w", "task": "76400", "legal_range": [34, 62, 44, 36, 59, 61, 64]}
+{"vid": "whZeSHm_nvs", "task": "76400", "legal_range": [59, 61, 61, 63, 64, 65]}
+{"vid": "EsnEAIzBAhg", "task": "76400", "legal_range": [34, 62, 44, 59, 60, 61, 63, 64, 65]}
+{"vid": "RJ6Ce1H9LEI", "task": "76400", "legal_range": [34, 62, 36, 60, 59, 61, 59, 63]}
+{"vid": "TXlL1SMe5LU", "task": "76400", "legal_range": [36, 44, 62, 36, 59, 65]}
+{"vid": "Ha9Y1BCWSLc", "task": "76400", "legal_range": [60, 59, 61, 61, 63, 63, 64, 65]}
+{"vid": "kU_rzoAtB24", "task": "76400", "legal_range": [44, 34, 36, 62, 36, 59, 60, 61, 61, 65]}
+{"vid": "AqIejXUTT7M", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 59, 61, 59, 61, 59, 61, 63, 63, 65]}
+{"vid": "0yEw7GJ8tyo", "task": "76400", "legal_range": [44, 34, 60, 59, 61, 59, 61, 63, 64]}
+{"vid": "r9EgFgvzb5c", "task": "76400", "legal_range": [34, 62, 36, 59, 64, 65]}
+{"vid": "_3_0xs3A2xQ", "task": "76400", "legal_range": [34, 36, 36, 60, 36, 59, 61, 63, 63, 64, 65]}
+{"vid": "o6taBNbVc2g", "task": "76400", "legal_range": [44, 62, 34, 36, 59, 65]}
+{"vid": "8soK9uxXod4", "task": "76400", "legal_range": [34, 44, 36, 60, 59, 61, 63]}
+{"vid": "K5gUrQtgmDA", "task": "76400", "legal_range": [34, 62, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "RpJG3SUa5i8", "task": "76400", "legal_range": [62, 36, 34, 44, 62, 36, 59, 60, 61, 63, 65]}
+{"vid": "ZGHuqie1f4I", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 61, 63, 64]}
+{"vid": "trEWCgSF9ow", "task": "76400", "legal_range": [59, 61, 63, 60, 64, 65]}
+{"vid": "ErpU_Xn0Ee4", "task": "76400", "legal_range": [34, 44, 36, 36, 59, 60, 61, 63, 65]}
+{"vid": "811bSS1b_Pk", "task": "76400", "legal_range": [60, 36, 36, 44, 62, 36, 59, 61, 63, 65]}
+{"vid": "58_5h4Kym4Y", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 61, 63, 61, 63, 65]}
+{"vid": "KOpcKqIj59A", "task": "76400", "legal_range": [34, 44, 36, 62, 60, 59, 61, 64]}
+{"vid": "PzCwsScIYLs", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61]}
+{"vid": "-GLfc-GT7kg", "task": "76400", "legal_range": [44, 34, 62, 36, 60, 59, 61, 59, 61, 59, 61, 59]}
+{"vid": "VinExGXzOjY", "task": "76400", "legal_range": [34, 62, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "AlJERYDTfG0", "task": "76400", "legal_range": [34, 44, 36, 60, 59, 61, 63, 59, 63, 64, 60, 61, 63, 64]}
+{"vid": "Lp92itOaUz0", "task": "76400", "legal_range": [44, 36, 62, 34, 59, 61, 59, 63, 64, 61, 64]}
+{"vid": "OI3phXWBf7A", "task": "76400", "legal_range": [44, 34, 62, 36, 60, 59, 61, 59, 61, 64, 65]}
+{"vid": "Rujk3hzHyCs", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "b4LJ1_kFYSA", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 59, 61, 59, 63, 64, 65]}
+{"vid": "eaUxA0_ljq4", "task": "76400", "legal_range": [44, 62, 36, 59, 59, 61, 63, 64, 65, 64, 65, 63, 64, 65, 65]}
+{"vid": "zfck95sWfPw", "task": "76400", "legal_range": [34, 36, 59, 60, 63, 64, 60, 61, 60, 64, 65]}
+{"vid": "JYX0CE3fZNo", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 61, 63, 64, 65]}
+{"vid": "Ro3CHJ2B3EE", "task": "76400", "legal_range": [44, 36, 60, 59, 61, 64, 65]}
+{"vid": "KstkG0gfEfo", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 63, 65]}
+{"vid": "oZER8W-lwZo", "task": "76400", "legal_range": [34, 44, 36, 59, 60, 61, 63, 64, 65]}
+{"vid": "K1KFFzOlBks", "task": "76400", "legal_range": [62, 36, 36, 59, 61, 63, 64, 65, 34, 62, 36, 59, 61, 63, 64, 65]}
+{"vid": "ovNhkcMma4g", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "1rRgCcZxjUI", "task": "76400", "legal_range": [34, 62, 36, 36, 44, 36, 60, 59, 61, 63, 63, 64, 60, 61, 63, 65]}
+{"vid": "ptHhcVokl_0", "task": "76400", "legal_range": [44, 34, 36, 60, 59, 61, 63, 65]}
+{"vid": "_BbavJeXYkA", "task": "76400", "legal_range": [44, 34, 62, 36, 36, 60, 59, 61, 63, 65]}
+{"vid": "b-XUbNPs5Hk", "task": "76400", "legal_range": [34, 44, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "GUFgJ1LuMRo", "task": "76400", "legal_range": [34, 36, 44, 59, 61, 61, 63, 65]}
+{"vid": "SlimJHkGt-o", "task": "76400", "legal_range": [44, 34, 36, 59, 60, 61, 63, 64]}
+{"vid": "2FMV8WyCcsc", "task": "76400", "legal_range": [44, 62, 36, 60, 61, 64]}
+{"vid": "20QTuq98k3A", "task": "76400", "legal_range": [44, 62, 36, 34, 36, 59, 61, 63, 65]}
+{"vid": "dK7HfGtT2uA", "task": "76400", "legal_range": [34, 62, 44, 36, 59, 60, 61, 59, 63, 65]}
+{"vid": "3zRTzGZRi1A", "task": "76400", "legal_range": [60, 34, 44, 36, 62, 59, 61, 59, 63, 64, 65]}
+{"vid": "aAbOL58BTdc", "task": "76400", "legal_range": [34, 36, 44, 62, 36, 60, 59, 61, 63, 64, 65]}
+{"vid": "xrlfD1PSg-g", "task": "76400", "legal_range": [34, 44, 36, 60, 59, 61, 63, 64, 65]}
+{"vid": "AadaKd7H7kM", "task": "76400", "legal_range": [44, 34, 44, 36, 59, 61, 59, 64]}
+{"vid": "L8E0hD85g3A", "task": "76400", "legal_range": [62, 44, 36, 60, 59, 61, 59, 61, 63, 63, 65]}
+{"vid": "HjJBxSYcoEM", "task": "76400", "legal_range": [34, 36, 44, 62, 59, 60, 61, 63, 64, 65]}
+{"vid": "muD7SZvEhic", "task": "76400", "legal_range": [34, 44, 36, 62, 36, 59, 61, 59, 63, 64, 65]}
+{"vid": "40GyqYn6wBs", "task": "76400", "legal_range": [34, 36, 44, 36, 36, 36, 36, 36, 36, 60, 59, 61, 59, 61, 63, 63]}
+{"vid": "cnlhMtK-JUA", "task": "76400", "legal_range": [44, 34, 62, 36, 59, 60, 61, 64, 59, 61, 63, 61, 65]}
+{"vid": "EyQOb9ib2ik", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61, 63, 61, 63, 64, 65]}
+{"vid": "TQnTj08BPy8", "task": "76400", "legal_range": [59, 61, 65]}
+{"vid": "qyub0pXs9KU", "task": "76400", "legal_range": [36, 59, 60, 61, 59, 63, 64]}
+{"vid": "sE70J79wqCU", "task": "76400", "legal_range": [34, 44, 36, 59, 61, 63, 64, 65]}
+{"vid": "BA2kem-xkwc", "task": "76400", "legal_range": [62, 34, 36, 44, 59, 60, 61, 63, 64, 65, 65, 65]}
+{"vid": "RSl0x5lh1m8", "task": "76400", "legal_range": [34, 44, 36, 60, 59, 61, 63, 64, 59, 61, 63, 64, 65]}
+{"vid": "pe-Xm8-IQ-k", "task": "76400", "legal_range": [34, 36, 44, 36, 62, 36, 36, 60, 59, 61, 61, 63, 64, 65]}
+{"vid": "l_JI5QiFq30", "task": "76400", "legal_range": [34, 36, 44, 59, 60, 61, 63, 64, 65]}
+{"vid": "i1_8yY-HFCc", "task": "76400", "legal_range": [44, 34, 36, 60, 59, 61, 59, 36, 63, 64, 65]}
+{"vid": "43Jj9iS-cGo", "task": "76400", "legal_range": [34, 44, 36, 36, 60, 59, 61, 61, 63, 64, 64]}
+{"vid": "0QCLg2__jpU", "task": "76400", "legal_range": [34, 36, 44, 59, 60, 61, 63]}
+{"vid": "MkVvano6Zt4", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 61, 63, 64, 65]}
+{"vid": "wLOiCszJr5I", "task": "76400", "legal_range": [44, 36, 61, 63, 60, 61, 63, 65]}
+{"vid": "-DXKVPR4S4s", "task": "76400", "legal_range": [34, 44, 36, 36, 61, 61, 63, 63, 63, 63, 64]}
+{"vid": "pZgn9e-rL6E", "task": "76400", "legal_range": [36, 59, 60]}
+{"vid": "r3gx08c5wck", "task": "76400", "legal_range": [34, 36, 44, 59, 60, 61, 63, 65]}
+{"vid": "OEchkgHTKhg", "task": "76400", "legal_range": [44, 36, 44, 44, 36, 59, 61, 63, 62, 44, 62, 36, 59, 65]}
+{"vid": "B3dhROyDIO0", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61, 63, 65]}
+{"vid": "BYuq3hPH5pE", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 60, 63, 61, 63, 64, 64]}
+{"vid": "iWGx0VWPtPA", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 61, 63, 64, 65]}
+{"vid": "yE7XfR17Qq0", "task": "76400", "legal_range": [34, 36, 59, 60, 61, 65]}
+{"vid": "4_rW6SKFLl8", "task": "76400", "legal_range": [34, 44, 36, 59, 61, 61, 63]}
+{"vid": "RLu1GXIZqrI", "task": "76400", "legal_range": [34, 44, 62, 36, 36, 60, 59, 61, 63]}
+{"vid": "oTp6lOXbQG8", "task": "76400", "legal_range": [34, 36, 60, 59, 61, 63, 64, 65]}
+{"vid": "VrwXaTXWKdM", "task": "76400", "legal_range": [59, 60, 59, 61, 63, 64, 65]}
+{"vid": "Vakfwz0tocI", "task": "76400", "legal_range": [44, 62, 34, 36, 59, 60, 61, 63, 65]}
+{"vid": "-QZh5_4MHPw", "task": "76400", "legal_range": [34, 62, 36, 65]}
+{"vid": "e8TgwtxrWJo", "task": "76400", "legal_range": [44, 36, 59, 63, 60, 61, 63, 65, 64]}
+{"vid": "ceY1D3Eu-Ek", "task": "76400", "legal_range": [34, 44, 36, 59, 60, 61, 63, 64, 65, 65]}
+{"vid": "S3Hljtmd6so", "task": "76400", "legal_range": [60, 59, 61, 65, 63, 65, 64]}
+{"vid": "Ty20wD8FMwE", "task": "76400", "legal_range": [36, 44, 44, 36, 60, 36, 34, 44, 36, 59, 60, 61, 63]}
+{"vid": "3gDfiF5GXl8", "task": "76400", "legal_range": [34, 36, 59, 60, 61, 64]}
+{"vid": "l0XnYQlm36E", "task": "76400", "legal_range": [34, 44, 36, 59, 61, 64, 65]}
+{"vid": "6Z8Qeoz6MMQ", "task": "76400", "legal_range": [34, 44, 62, 36, 59, 60, 61, 63, 64, 60, 61, 63, 65]}
+{"vid": "bqvPWYSm_Fo", "task": "76400", "legal_range": [34, 36, 44, 60, 59, 61, 63, 64, 61, 64, 65]}
+{"vid": "4H3yRZwZZeA", "task": "76400", "legal_range": [34, 36, 44, 62, 59, 61, 63, 64, 65]}
+{"vid": "RKAEa59CZo4", "task": "76400", "legal_range": [44]}
+{"vid": "y8NDwiJG5Qk", "task": "76400", "legal_range": [34, 34, 44, 62, 36, 60, 59, 61, 63, 64]}
+{"vid": "2qa48Z2Rbx4", "task": "16815", "legal_range": [67, 67, 67, 68, 68, 67]}
+{"vid": "JHGkSS_paIw", "task": "16815", "legal_range": [67, 68]}
+{"vid": "g9dW2dPyUZE", "task": "16815", "legal_range": [66, 67, 68]}
+{"vid": "0lBOR63Q1H8", "task": "16815", "legal_range": [67]}
+{"vid": "a6WOSfahIgA", "task": "16815", "legal_range": [67, 67, 67, 67, 67]}
+{"vid": "pWj7VqylZTs", "task": "16815", "legal_range": [67, 67]}
+{"vid": "YDzefZVF0N0", "task": "16815", "legal_range": [67]}
+{"vid": "ygy_qMZVcHQ", "task": "16815", "legal_range": [66, 67, 67, 68]}
+{"vid": "QMwg1q7cBkQ", "task": "16815", "legal_range": [67, 67, 68]}
+{"vid": "LFuvCyTgegY", "task": "16815", "legal_range": [67]}
+{"vid": "FpGyRcDcDOI", "task": "16815", "legal_range": [67]}
+{"vid": "_RblQmWthKY", "task": "16815", "legal_range": [67, 67, 68]}
+{"vid": "1JhYkWZPzZE", "task": "16815", "legal_range": [67, 68]}
+{"vid": "CkKGbFaE0NA", "task": "16815", "legal_range": [67, 68]}
+{"vid": "bgsZmjkPCM0", "task": "16815", "legal_range": [67, 68]}
+{"vid": "UhKyBijyoCI", "task": "16815", "legal_range": [68, 68]}
+{"vid": "qq6Uov_efaQ", "task": "16815", "legal_range": [67, 67, 67, 67, 67, 67, 68]}
+{"vid": "wTVrCbaQM5Y", "task": "16815", "legal_range": [67]}
+{"vid": "APbyI2MLIqA", "task": "16815", "legal_range": [67]}
+{"vid": "YR_MToGXxf0", "task": "16815", "legal_range": [67]}
+{"vid": "xvBkx6QV1I8", "task": "16815", "legal_range": [67, 67]}
+{"vid": "eCZEq7pAHUE", "task": "16815", "legal_range": [67, 68, 67, 67, 67, 68, 67]}
+{"vid": "mmMPM--NhU8", "task": "16815", "legal_range": [67, 67, 67, 68]}
+{"vid": "Kp3d05rT4lk", "task": "16815", "legal_range": [66, 67, 67, 68, 67, 68, 67, 68]}
+{"vid": "P9snu3rLWhY", "task": "16815", "legal_range": [67, 67, 68, 67, 67]}
+{"vid": "YRCHn2mxPhs", "task": "16815", "legal_range": [67, 67]}
+{"vid": "8BE0xJKczT0", "task": "16815", "legal_range": [67, 68, 67, 68]}
+{"vid": "vhmn4fZBlag", "task": "16815", "legal_range": [67, 67, 67, 68, 67, 68, 67, 68, 67, 68]}
+{"vid": "U6hQO6dlWlU", "task": "16815", "legal_range": [67, 67]}
+{"vid": "0qA6Hi2p9ys", "task": "16815", "legal_range": [67, 67, 68, 68]}
+{"vid": "ZkMxYjBm4eI", "task": "16815", "legal_range": [67, 68]}
+{"vid": "Hl6zEC376_k", "task": "16815", "legal_range": [67]}
+{"vid": "VaHyNUHcrfM", "task": "16815", "legal_range": [67, 68, 67, 67]}
+{"vid": "Y-d4aaqI12c", "task": "16815", "legal_range": [67, 67, 67, 67, 67, 68]}
+{"vid": "eHt4aR2N4ew", "task": "16815", "legal_range": [67, 68, 67]}
+{"vid": "UPQI7Yula58", "task": "16815", "legal_range": [67]}
+{"vid": "iLTo5mihQq8", "task": "16815", "legal_range": [67]}
+{"vid": "4_YcusyXTQo", "task": "16815", "legal_range": [67]}
+{"vid": "MrfbR4REV-s", "task": "16815", "legal_range": [67, 68, 67, 68, 67, 67, 67, 67, 68, 68]}
+{"vid": "XHboinhCG3c", "task": "16815", "legal_range": [67, 67, 68, 68]}
+{"vid": "k9LkgY6iEEU", "task": "16815", "legal_range": [67, 68]}
+{"vid": "KrePZlsKZdI", "task": "16815", "legal_range": [67]}
+{"vid": "MvA4eYmj_vE", "task": "16815", "legal_range": [67, 67, 68]}
+{"vid": "YJpx2cy6kAg", "task": "16815", "legal_range": [66, 67, 67, 68]}
+{"vid": "01KuC4IU7JA", "task": "16815", "legal_range": [67, 67]}
+{"vid": "yqXIrSVQ3ts", "task": "16815", "legal_range": [67, 67, 67, 68]}
+{"vid": "IbexW-c9UwY", "task": "16815", "legal_range": [67, 67, 68]}
+{"vid": "-SPMxbd7Wtc", "task": "16815", "legal_range": [66, 67, 68]}
+{"vid": "KkNhwcxkY9Y", "task": "16815", "legal_range": [67, 67]}
+{"vid": "bhdFrfNcHP0", "task": "16815", "legal_range": [66, 67, 68]}
+{"vid": "iCiFu6ooYaM", "task": "16815", "legal_range": [67, 67, 67]}
+{"vid": "8HrXIXbLVTE", "task": "16815", "legal_range": [67, 67, 67, 68]}
+{"vid": "t6TRIRaAZwY", "task": "16815", "legal_range": [66, 67, 68, 67]}
+{"vid": "Yy1tTVoFGE8", "task": "16815", "legal_range": [67, 67, 67]}
+{"vid": "sEdtPk3iHcU", "task": "16815", "legal_range": [66, 67, 67]}
+{"vid": "ldCg4aWd4mI", "task": "16815", "legal_range": [67, 68]}
+{"vid": "r962C5lNRvg", "task": "16815", "legal_range": [67]}
+{"vid": "W_FdvBjwsmQ", "task": "16815", "legal_range": [66, 67, 67]}
+{"vid": "JdRMlXABojA", "task": "16815", "legal_range": [67, 68, 67, 68]}
+{"vid": "4Js8FycNYQE", "task": "16815", "legal_range": [66, 67, 68, 68, 67, 68, 67, 68]}
+{"vid": "znjQDANbaMY", "task": "16815", "legal_range": [67, 67, 68, 68]}
+{"vid": "rLsSxmWUkuw", "task": "95603", "legal_range": [72, 4, 69, 0]}
+{"vid": "lt_Ga4CGa8Y", "task": "95603", "legal_range": [4, 72, 4, 11, 0, 4]}
+{"vid": "6PL6FjyXeOA", "task": "95603", "legal_range": [70, 11, 4, 11, 4, 71, 4, 4, 69, 4, 4, 0, 4, 4, 4, 72, 4, 4, 0, 4]}
+{"vid": "0wHCKBuHCUQ", "task": "95603", "legal_range": [70, 71, 11, 4, 0, 4, 4, 4, 72, 0, 4]}
+{"vid": "_GCzHkGMpuk", "task": "95603", "legal_range": [4, 4, 4, 4, 11, 4, 4, 70, 4, 71, 4, 4, 4, 72, 72]}
+{"vid": "yB7roj6x8J8", "task": "95603", "legal_range": [69, 72, 11, 71, 4, 4, 69, 4, 0, 4, 0, 4, 72, 4, 4]}
+{"vid": "E5nJ9B_BBP4", "task": "95603", "legal_range": [72, 11, 4, 71, 4, 4]}
+{"vid": "16Mry892p9s", "task": "95603", "legal_range": [71, 11, 4, 69, 72, 11, 4, 69]}
+{"vid": "DrKcZEjt5bg", "task": "95603", "legal_range": [70, 71, 4, 4, 11, 4, 4, 4, 69, 4, 69, 0, 4, 0, 4, 72, 4]}
+{"vid": "LySFpLAiYRg", "task": "95603", "legal_range": [69, 72, 11, 4, 71, 4, 69, 0, 4, 0, 4, 72, 4, 71, 4]}
+{"vid": "9HU-lECeOLs", "task": "95603", "legal_range": [0, 11, 4, 71, 4, 4, 69, 4, 0, 4, 4, 72, 4, 4, 4]}
+{"vid": "qKcmqxrNELM", "task": "95603", "legal_range": [11, 4, 11, 4, 4, 71, 4, 4, 69, 4, 4, 0, 4, 72, 4, 4, 0, 4, 4, 71]}
+{"vid": "DMioH-p5CXA", "task": "95603", "legal_range": [4, 11, 4, 69, 4, 4, 4, 70, 4, 71, 4, 4, 4]}
+{"vid": "s_qVOUMCs2w", "task": "95603", "legal_range": [4, 71, 4, 11, 4, 4, 4, 4, 4, 4, 72, 4, 11]}
+{"vid": "4MHpRNhikFA", "task": "95603", "legal_range": [70, 4, 4, 11, 4, 4, 71, 4, 4, 4, 69, 4, 4, 4, 4, 72, 0, 4]}
+{"vid": "q5Ob6Be4nFo", "task": "95603", "legal_range": [72, 4, 72, 0, 0, 72, 70, 11, 71, 4, 4, 72, 4]}
+{"vid": "t4UpgdRc1jg", "task": "95603", "legal_range": [69, 4, 0, 4, 71, 4, 4, 4, 71, 4, 4, 4]}
+{"vid": "knZ6Zef9fr4", "task": "95603", "legal_range": [4, 4, 11, 11, 4, 4, 4, 69, 4, 4, 4, 4, 72, 4, 4, 4]}
+{"vid": "HswE-lLE-LM", "task": "95603", "legal_range": [70, 11, 71, 4, 4, 69, 4, 0, 4, 4, 0, 72, 4, 4, 71]}
+{"vid": "e4JZYLoezEY", "task": "95603", "legal_range": [69, 4, 70, 11, 4, 4, 71, 4, 4, 4, 69, 4, 4, 72, 4, 4]}
+{"vid": "FOQioTcLTO8", "task": "95603", "legal_range": [70, 4, 71, 11, 69, 4, 4, 4, 71, 4, 72]}
+{"vid": "DU6cM9jLXVc", "task": "95603", "legal_range": [70, 71, 11, 4, 69, 0, 72]}
+{"vid": "pIvT7K25XJk", "task": "95603", "legal_range": [11, 4, 4, 71, 4, 4, 69, 4, 4, 4, 4, 0, 72, 4, 4, 4]}
+{"vid": "QuXQudHGTzo", "task": "95603", "legal_range": [4, 0, 69, 4, 72, 4]}
+{"vid": "xZRCTdBSzVw", "task": "95603", "legal_range": [69, 71, 0, 4, 4, 72, 4, 71, 11, 4, 4]}
+{"vid": "vxUqUH7GsbI", "task": "95603", "legal_range": [70, 71, 4, 69, 0, 72]}
+{"vid": "Sox5rlhccY0", "task": "95603", "legal_range": [11, 4, 4, 4, 0, 4, 0, 4, 72, 4, 71]}
+{"vid": "uFWGIGljT30", "task": "95603", "legal_range": [71, 11, 4, 4, 4, 4, 4, 72, 4, 4, 4, 4, 11, 4, 4, 71, 4, 69, 4, 4]}
+{"vid": "p1_Jx9QeSlk", "task": "95603", "legal_range": [69, 0, 4, 4, 11, 4, 71, 4, 4, 4, 0, 72, 71, 4]}
+{"vid": "WbIV53W7MQ8", "task": "95603", "legal_range": [4, 4, 0, 4, 0, 71, 4]}
+{"vid": "AvQNvEXK4Ek", "task": "95603", "legal_range": [72, 4, 11, 4, 0, 4, 72]}
+{"vid": "FqBzXZ2uzcA", "task": "95603", "legal_range": [70, 71, 4, 69, 4, 0, 4, 72]}
+{"vid": "HCJ6z9H9Oj4", "task": "95603", "legal_range": [11, 4, 71, 4, 69, 4, 0, 72]}
+{"vid": "AxwxLNE_qLA", "task": "95603", "legal_range": [70, 0, 4, 72, 70, 4]}
+{"vid": "YRlpn6KKSP8", "task": "95603", "legal_range": [72, 4, 69, 0, 4, 4, 72, 4, 0, 4]}
+{"vid": "PZMpmQ49K_Y", "task": "95603", "legal_range": [72, 71, 11, 4, 0]}
+{"vid": "PlFOqZx6URE", "task": "95603", "legal_range": [69, 0, 11, 4, 4, 0, 4, 72, 4, 4]}
+{"vid": "q_qGyvLaqGM", "task": "95603", "legal_range": [11, 4, 4, 72]}
+{"vid": "0FKNPVJSkWw", "task": "95603", "legal_range": [11, 0, 11, 4, 4, 4, 4, 4, 69, 4, 0, 4, 72, 4, 4]}
+{"vid": "IVCBnBjonSk", "task": "95603", "legal_range": [69, 71, 4, 72, 4, 71, 4]}
+{"vid": "93Qve5SVwp0", "task": "95603", "legal_range": [72, 4, 11, 4, 4, 69, 4, 4, 4, 4, 4, 4, 72]}
+{"vid": "LkR9H-5avw0", "task": "95603", "legal_range": [0, 11, 4, 4, 0, 72]}
+{"vid": "8ALZ40hiIbo", "task": "95603", "legal_range": [69, 4, 11, 4, 4, 4, 11, 4, 71]}
+{"vid": "bTnJOeTFlic", "task": "95603", "legal_range": [70, 11, 4, 71, 69, 4, 0, 4, 0, 4, 72, 4, 71, 4, 4]}
+{"vid": "ONU8kBHHitU", "task": "95603", "legal_range": [11, 4, 4, 71, 4, 69, 4, 4, 4, 72]}
+{"vid": "HMN7Ct5xMz8", "task": "95603", "legal_range": [0, 11, 69, 4, 4, 72]}
+{"vid": "BEOuxZgXKl4", "task": "95603", "legal_range": [70, 11, 4, 4, 69, 4, 71, 4, 4, 0, 4, 72, 71]}
+{"vid": "S4XhY3EFUAU", "task": "95603", "legal_range": [0, 11, 4, 4, 4, 72, 4, 0, 4]}
+{"vid": "ECboASKpf8k", "task": "95603", "legal_range": [11, 4, 4, 69, 0, 4, 70, 71]}
+{"vid": "mB5bcx55LQQ", "task": "95603", "legal_range": [4, 4, 72, 4, 4, 4, 4, 11, 0, 70, 4, 71, 69, 0, 4, 4, 4, 72, 4]}
+{"vid": "Hr-v-rEdcRQ", "task": "95603", "legal_range": [70, 71, 4, 11, 69, 4, 0, 72, 71]}
+{"vid": "7uXtlI6vH9g", "task": "95603", "legal_range": [11, 71, 0, 4, 0, 71]}
+{"vid": "YTRXoPMeito", "task": "95603", "legal_range": [4, 0, 11, 4, 4, 4, 69, 4, 0, 4, 72, 4, 4]}
+{"vid": "ChkrNBu4m1c", "task": "95603", "legal_range": [70, 0, 69, 72, 11, 4, 69, 4, 4, 4, 0, 4, 72]}
+{"vid": "F1YtSKoju2c", "task": "95603", "legal_range": [11, 4, 4, 71, 4, 4, 69, 4, 0, 0, 71]}
+{"vid": "2Fwm_1N6TQQ", "task": "95603", "legal_range": [4, 70, 4, 4, 11, 71, 4, 4, 72, 0, 4, 4, 4]}
+{"vid": "gsA8xv9LG-c", "task": "95603", "legal_range": [72, 4]}
+{"vid": "LQhXxYKeQwk", "task": "95603", "legal_range": [4, 11, 4, 4, 4, 0, 4, 0, 71, 72, 0, 4, 4, 4, 4, 4]}
+{"vid": "r7QxdQxEcKg", "task": "95603", "legal_range": [69, 11, 4, 71, 72]}
+{"vid": "ybxS9Ybi94I", "task": "95603", "legal_range": [0, 4, 70, 71, 4, 4, 72, 4, 4, 4, 4, 71, 4]}
+{"vid": "CgjHGld_dxY", "task": "95603", "legal_range": [71, 72]}
+{"vid": "98M-EN2N5pw", "task": "95603", "legal_range": [11, 4, 4, 69, 72, 4, 4, 4, 70, 4, 11, 4, 71, 4]}
+{"vid": "7pSrIphUBIM", "task": "95603", "legal_range": [11, 4, 71, 4, 0, 4, 4, 4, 4, 4, 0]}
+{"vid": "iGwAKnHsAf0", "task": "95603", "legal_range": [11, 69, 0, 72, 70, 11, 71, 4, 72, 4]}
+{"vid": "OLsw8x6w4jA", "task": "95603", "legal_range": [69, 11, 4, 4, 4, 0, 4, 72, 4, 4]}
+{"vid": "dBi-3en0P78", "task": "95603", "legal_range": [70, 71, 11, 4, 69, 0, 4, 0, 72, 0, 71]}
+{"vid": "QFCDMLL1FKc", "task": "95603", "legal_range": [69, 4, 0, 72, 4, 71]}
+{"vid": "rq0DaQ0ZWCk", "task": "95603", "legal_range": [70, 11, 4, 4, 69, 4, 71, 4, 0, 72, 4, 4, 71]}
+{"vid": "bcNJbJbyGGE", "task": "95603", "legal_range": [71, 11, 4, 69, 72, 71, 11, 4, 69]}
+{"vid": "WwkkmUON4Ls", "task": "95603", "legal_range": [0, 71, 4, 11, 69, 0, 4, 71, 4]}
+{"vid": "ff5gJmBctCg", "task": "95603", "legal_range": [70, 11, 71, 4, 4, 4, 4, 72, 11, 71, 4, 4]}
+{"vid": "F-Iz4zpeeOQ", "task": "95603", "legal_range": [71, 11, 69, 0, 72]}
+{"vid": "HWQVVZVxym8", "task": "95603", "legal_range": [4, 69, 4, 72, 4, 4, 4]}
+{"vid": "03s9HBvNXZ4", "task": "95603", "legal_range": [72, 11, 4, 69, 0, 72]}
+{"vid": "NrLU_sCrVXg", "task": "95603", "legal_range": [69, 4, 0, 0, 4, 72, 4, 4, 11, 71, 4, 4]}
+{"vid": "D459K-w0oHc", "task": "95603", "legal_range": [11, 71, 69, 4, 4, 4, 72, 4, 4, 4, 11, 4, 4, 71, 4]}
+{"vid": "xE8sc2932Js", "task": "95603", "legal_range": [69, 4, 4, 0, 72, 70, 71, 4]}
+{"vid": "bbum2hlKx5Q", "task": "95603", "legal_range": [69, 0, 72, 71, 11, 4, 4, 69, 4, 71, 4, 0, 4, 4, 72, 4, 4]}
+{"vid": "Z3ylY7Xv3XE", "task": "95603", "legal_range": [71, 70, 11, 4, 71, 69, 4, 4, 72]}
+{"vid": "ev5Iah2l390", "task": "95603", "legal_range": [11, 4, 70, 4, 11, 4, 69, 4, 72, 4, 71, 4, 71, 4]}
+{"vid": "EjqPJp8dc2Y", "task": "95603", "legal_range": [70, 71, 11, 4, 4, 0, 4, 4, 4, 0, 72]}
+{"vid": "qAN68kyOkEk", "task": "95603", "legal_range": [70, 4, 71, 4, 11, 4, 69, 4, 4, 72, 4, 4]}
+{"vid": "erL28JXUS6w", "task": "95603", "legal_range": [0, 71, 4, 4, 72, 4, 71]}
+{"vid": "9CMaZEq1byU", "task": "95603", "legal_range": [69, 0, 0, 4, 4, 72, 4, 70, 4]}
+{"vid": "-HUKFLjtX_A", "task": "95603", "legal_range": [69, 11, 71, 0, 4, 72, 4]}
+{"vid": "A0eDoZ8cwhg", "task": "95603", "legal_range": [4, 11, 4, 71, 4, 4, 69, 4, 4, 4, 4, 72, 4, 4, 4, 4, 71, 4, 4]}
+{"vid": "rqI4Tkt26r8", "task": "95603", "legal_range": [70, 71, 4, 11, 69, 0, 72, 71]}
+{"vid": "VfnMRNMoJJM", "task": "95603", "legal_range": [0, 69, 0, 72, 0, 4, 4, 11, 4, 71]}
+{"vid": "cFjXMiwd5U4", "task": "95603", "legal_range": [70, 11, 4, 71, 4, 4, 0, 69, 4, 11, 4, 72]}
+{"vid": "mcoPivQ7Na8", "task": "95603", "legal_range": [70, 11, 69, 0, 71, 4, 71]}
+{"vid": "0LNhi_Y0Iuo", "task": "95603", "legal_range": [70, 4, 11, 71, 4, 69, 4, 0, 4, 72]}
+{"vid": "g38uSvsW_EQ", "task": "95603", "legal_range": [11, 4, 72, 0]}
+{"vid": "0y-j7fCFRls", "task": "95603", "legal_range": [70, 11, 4, 4, 4, 4, 4, 4, 69, 4, 72, 4]}
+{"vid": "ZNb1NiWm4iM", "task": "95603", "legal_range": [72, 4, 4, 11, 4, 69, 4, 4, 4, 4, 4, 0, 4, 0, 4, 72, 4]}
+{"vid": "aZL5rFYTZMU", "task": "95603", "legal_range": [11, 4, 4, 4, 0, 70, 71, 11, 4, 4, 4, 69, 4, 4, 0, 4, 4, 72, 4]}
+{"vid": "T81ka7fNeyU", "task": "95603", "legal_range": [72, 70, 11, 11, 69, 4, 0, 4, 72]}
+{"vid": "e0D99ELyTa0", "task": "95603", "legal_range": [69, 11, 4, 4, 71]}
+{"vid": "dmRvTRaTGYA", "task": "95603", "legal_range": [11, 69, 4, 11, 71, 4, 4, 69, 4, 72, 71]}
+{"vid": "ih50eesaJLM", "task": "95603", "legal_range": [69, 4, 4, 72]}
+{"vid": "4EEb5Z3vICI", "task": "95603", "legal_range": [70, 4, 11, 71, 69, 0, 72, 4]}
+{"vid": "TCFi2tE-js0", "task": "95603", "legal_range": [70, 69, 4, 71, 11, 4, 72, 0]}
+{"vid": "28AcKH6u6ZI", "task": "95603", "legal_range": [69, 4, 72, 4, 4, 69, 4, 4, 72, 4]}
+{"vid": "MI88C7le2vk", "task": "95603", "legal_range": [71, 11, 4, 4, 0, 4, 0, 72, 71]}
+{"vid": "WEuH6oezE_I", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "prO87SgwoHU", "task": "109972", "legal_range": [74, 75, 76, 76]}
+{"vid": "x7sPUg-JwlY", "task": "109972", "legal_range": [75, 76]}
+{"vid": "x41iOeYzz6c", "task": "109972", "legal_range": [75, 76, 75, 76]}
+{"vid": "Ira6h_rJCv8", "task": "109972", "legal_range": [74, 73, 44, 44, 76]}
+{"vid": "qYyEzilILlA", "task": "109972", "legal_range": [75, 76]}
+{"vid": "ou1Mofl9Be8", "task": "109972", "legal_range": [44, 76, 74, 73, 75, 76, 76]}
+{"vid": "AbZRE6YiX68", "task": "109972", "legal_range": [73, 74, 75, 76, 44, 76]}
+{"vid": "agfe3Vu25rk", "task": "109972", "legal_range": [73, 74, 75, 76, 75, 76, 75, 76]}
+{"vid": "fbQG7peexIs", "task": "109972", "legal_range": [75, 76]}
+{"vid": "ydlyEJlKMLo", "task": "109972", "legal_range": [76]}
+{"vid": "MgK18i6GEmo", "task": "109972", "legal_range": [75, 76, 44]}
+{"vid": "WLPkUphyUaA", "task": "109972", "legal_range": [74, 75, 44, 76, 76]}
+{"vid": "RZakWCKEciM", "task": "109972", "legal_range": [76, 75]}
+{"vid": "TwA0sLYQGjE", "task": "109972", "legal_range": [73, 74, 76]}
+{"vid": "g2SWjTCeUxw", "task": "109972", "legal_range": [44, 75, 76]}
+{"vid": "w4-QneRhfak", "task": "109972", "legal_range": [74, 75, 76, 76, 76]}
+{"vid": "i2eYF37zgBU", "task": "109972", "legal_range": [76, 76, 75, 76]}
+{"vid": "24cTWScIYlc", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "Eqwui1qEW3c", "task": "109972", "legal_range": [74, 75, 44, 76, 76]}
+{"vid": "Et-74nGoTts", "task": "109972", "legal_range": [75, 76]}
+{"vid": "2-AHc2DxdMw", "task": "109972", "legal_range": [73, 74, 73, 75, 76]}
+{"vid": "_Jfqjs9mA6Q", "task": "109972", "legal_range": [75, 76]}
+{"vid": "5U20BmDUWo0", "task": "109972", "legal_range": [75, 44, 74, 75, 44]}
+{"vid": "u546n1es45k", "task": "109972", "legal_range": [44, 76, 44]}
+{"vid": "VQSF7XYp36U", "task": "109972", "legal_range": [73, 74, 76]}
+{"vid": "II6fTu9K06I", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "Q9BOMi_Kynk", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "_M5wluD9gGM", "task": "109972", "legal_range": [74, 74, 75, 76, 75, 76, 75, 76, 75, 76]}
+{"vid": "ne8br3wldR0", "task": "109972", "legal_range": [44, 74, 73, 74, 75, 76]}
+{"vid": "BMeV_gH7U-E", "task": "109972", "legal_range": [73, 75, 76]}
+{"vid": "QAKsFGaZ-O0", "task": "109972", "legal_range": [75, 76, 76, 76]}
+{"vid": "IvtTl750DpU", "task": "109972", "legal_range": [73, 74, 44, 76, 44, 76]}
+{"vid": "enJCMSmaauM", "task": "109972", "legal_range": [73, 74, 44, 75, 75, 76]}
+{"vid": "kis71dRYwxc", "task": "109972", "legal_range": [74, 75, 44, 76]}
+{"vid": "w1wEgXoo_RE", "task": "109972", "legal_range": [73, 74, 73, 73, 75, 76, 76]}
+{"vid": "PYxACUQr2_Y", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "QchggBUY3zE", "task": "109972", "legal_range": [73, 74, 75, 76, 76]}
+{"vid": "gWcuEXyNZzM", "task": "109972", "legal_range": [75, 76]}
+{"vid": "QV-l6hkuGtA", "task": "109972", "legal_range": [44, 76, 44, 76, 44, 76, 76]}
+{"vid": "GBQ3qZQDYI8", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "CnjualseLaQ", "task": "109972", "legal_range": [75]}
+{"vid": "wB7qA9iIIy0", "task": "109972", "legal_range": [74, 76, 44, 76, 76, 76, 75, 76]}
+{"vid": "t1lvwl7SBHk", "task": "109972", "legal_range": [75, 76, 76]}
+{"vid": "kj1txcRRDcU", "task": "109972", "legal_range": [73, 74, 76, 76]}
+{"vid": "w0PmMtDhEYg", "task": "109972", "legal_range": [44, 76]}
+{"vid": "pbGuVYb8f-8", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "yOdBVdSpH68", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "O8_u1iPkiUs", "task": "109972", "legal_range": [73, 74, 75, 76, 76, 76, 44, 76, 76]}
+{"vid": "F6SWWF4mzo0", "task": "109972", "legal_range": [76]}
+{"vid": "-g0GJfuEFko", "task": "109972", "legal_range": [75, 76, 76]}
+{"vid": "9uddKYGPEkg", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "OXWVzxBFG_E", "task": "109972", "legal_range": [75, 76, 76]}
+{"vid": "4lbOyaO0Nik", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "lJxdpjpgL8s", "task": "109972", "legal_range": [44, 75]}
+{"vid": "l-xFF0qDgTM", "task": "109972", "legal_range": [75, 76]}
+{"vid": "2Vd4i71klEw", "task": "109972", "legal_range": [74, 75, 76, 76, 76]}
+{"vid": "Y-Gc3njacak", "task": "109972", "legal_range": [75, 76, 75, 76, 76, 75, 76, 76]}
+{"vid": "dND4vwit3e0", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "EffLHNA_KFI", "task": "109972", "legal_range": [73, 75, 44, 76]}
+{"vid": "hhKcPXFJG2Y", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "tGv5OdcuAQM", "task": "109972", "legal_range": [44, 76, 76, 76, 76, 73, 74, 73, 74, 76]}
+{"vid": "RM-OopQo4DM", "task": "109972", "legal_range": [76, 76, 75, 76, 44, 44]}
+{"vid": "8J0DS6to_1U", "task": "109972", "legal_range": [75, 73, 76]}
+{"vid": "u31j0ImLrxc", "task": "109972", "legal_range": [75, 76]}
+{"vid": "945LG7vHwVI", "task": "109972", "legal_range": [75, 76]}
+{"vid": "ucnK62wBUL8", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "KB6HBcHREno", "task": "109972", "legal_range": [75, 76, 76, 76, 75, 76, 76]}
+{"vid": "RG2e-1GieZg", "task": "109972", "legal_range": [74, 76, 75, 76]}
+{"vid": "wXsRlbja_d8", "task": "109972", "legal_range": [73, 74, 75, 76, 44, 76]}
+{"vid": "0SeLqnnFqPw", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "lNGJ6r5QPEQ", "task": "109972", "legal_range": [73, 74, 75, 74, 75, 76]}
+{"vid": "7ryvdJPshvI", "task": "109972", "legal_range": [76, 44, 76, 76]}
+{"vid": "PCkCp0SbQ5A", "task": "109972", "legal_range": [74, 75, 76, 76, 76]}
+{"vid": "KUGnBqeg4PI", "task": "109972", "legal_range": [73, 74, 75, 73, 74, 75, 73, 74, 75, 76, 76]}
+{"vid": "AxNeRl5CD1U", "task": "109972", "legal_range": [73, 74, 76, 75, 76, 75, 76, 76]}
+{"vid": "f_AkUMkGQHI", "task": "109972", "legal_range": [75, 76]}
+{"vid": "IBwBvFlhIaE", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "YVaLoZujH2Q", "task": "109972", "legal_range": [74, 75, 73, 74, 76, 75, 76]}
+{"vid": "J6XPDd9SZqU", "task": "109972", "legal_range": [73, 74, 75, 44, 76, 44, 76, 76, 75, 44, 76, 75, 44, 76]}
+{"vid": "8WPacJwck1Y", "task": "109972", "legal_range": [73, 74, 75, 44, 76]}
+{"vid": "fB0QS6Dsf7c", "task": "109972", "legal_range": [73, 75, 44, 76]}
+{"vid": "-VjEsxneriY", "task": "109972", "legal_range": [74, 75, 44, 76]}
+{"vid": "644CPtcNQMA", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "hoHcLQT1HnA", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "tGEIOZKTrOE", "task": "109972", "legal_range": [73, 44, 75, 76]}
+{"vid": "hH1ainnOy6c", "task": "109972", "legal_range": [74, 75, 44, 76]}
+{"vid": "rzCyQFCgVPs", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "nGXXLlRY77M", "task": "109972", "legal_range": [76, 75, 74, 75, 76]}
+{"vid": "pQSoBkZW2_o", "task": "109972", "legal_range": [75, 74, 44, 76]}
+{"vid": "D5H_tIkk0uQ", "task": "109972", "legal_range": [73, 74, 76, 44, 75, 44, 76]}
+{"vid": "vDnt9af-Jjc", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "vgt_VL8VxBE", "task": "109972", "legal_range": [75, 76, 44, 76]}
+{"vid": "1jqTfi145xQ", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "VBq8WFtb1uw", "task": "109972", "legal_range": [73, 75, 76]}
+{"vid": "acv7fT-sD9c", "task": "109972", "legal_range": [74, 75, 76, 76, 76]}
+{"vid": "O_9n91W4F-o", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "aksSoUHp_Tg", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "aMv5TaFy4p0", "task": "109972", "legal_range": [75, 76, 44, 76, 76, 44, 76]}
+{"vid": "NbzhXM8nEEw", "task": "109972", "legal_range": [74, 75, 76, 76]}
+{"vid": "YkNyFcMcUZQ", "task": "109972", "legal_range": [75, 76, 76]}
+{"vid": "ayWPyP5BPYY", "task": "109972", "legal_range": [73, 74, 75, 76, 44, 76]}
+{"vid": "fkJVun3NveM", "task": "109972", "legal_range": [75, 76, 44, 44, 75]}
+{"vid": "_kDX8pWHbzY", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "T0FFSXs24vY", "task": "109972", "legal_range": [75, 76]}
+{"vid": "OFUo0kv-5uw", "task": "109972", "legal_range": [75]}
+{"vid": "cBirifhqHr4", "task": "109972", "legal_range": [74, 75, 76]}
+{"vid": "pKpDqO8JVvo", "task": "109972", "legal_range": [44, 76]}
+{"vid": "cRFjhVBMmLg", "task": "109972", "legal_range": [74, 75, 76, 75, 76]}
+{"vid": "0ow9oSqegkI", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "FybNom-70l4", "task": "109972", "legal_range": [75, 44, 76]}
+{"vid": "V8K-vLG-Ygg", "task": "109972", "legal_range": [75, 76]}
+{"vid": "Lgjf3EazBgQ", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "1onpc-ILudY", "task": "109972", "legal_range": [75, 76]}
+{"vid": "VzDblwgXiSM", "task": "109972", "legal_range": [74]}
+{"vid": "1HKMAk3LPw4", "task": "109972", "legal_range": [73, 74, 75, 76]}
+{"vid": "bKpcIpirKOs", "task": "44789", "legal_range": [77, 78, 79, 80, 81]}
+{"vid": "cEGZ6vGWY40", "task": "44789", "legal_range": [79, 81]}
+{"vid": "1gCbuaBKikE", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82, 84]}
+{"vid": "oi_J4SZUlSo", "task": "44789", "legal_range": [79, 82, 83]}
+{"vid": "rnhceM8Bnis", "task": "44789", "legal_range": [82, 83, 84, 82, 83, 84, 77, 78, 79]}
+{"vid": "gBtwGSY6a7o", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82]}
+{"vid": "EL-lO-F5HZc", "task": "44789", "legal_range": [77, 77, 81, 82, 83, 84, 82, 83, 84, 82, 84]}
+{"vid": "1MyqMcFNZTg", "task": "44789", "legal_range": [77, 78, 79, 81, 82, 83, 84]}
+{"vid": "0x83li1Klkw", "task": "44789", "legal_range": [77, 78]}
+{"vid": "4H-xGLOKcB4", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82, 84]}
+{"vid": "ohgjQCzsybo", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82, 84]}
+{"vid": "rYWcL76WMRg", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84]}
+{"vid": "JB_vLaD8Cb4", "task": "44789", "legal_range": [77, 79, 80, 81]}
+{"vid": "ZVz2uoJLbJQ", "task": "44789", "legal_range": [82, 77, 82, 84]}
+{"vid": "heSUqSx_OfM", "task": "44789", "legal_range": [77, 78, 79, 82, 84, 80, 81]}
+{"vid": "FKG7bgo4biE", "task": "44789", "legal_range": [77, 78, 79, 81]}
+{"vid": "DRW_HXsy0sU", "task": "44789", "legal_range": [77, 82, 78, 79, 81]}
+{"vid": "jr3gakyVtg0", "task": "44789", "legal_range": [77, 78, 79, 81, 84, 82]}
+{"vid": "-ClkvKHXFrk", "task": "44789", "legal_range": [82, 77, 78, 79, 80, 84, 81, 82, 83, 84]}
+{"vid": "kPIekue0lsU", "task": "44789", "legal_range": [77, 78, 79, 80, 81]}
+{"vid": "53V083WDUo0", "task": "44789", "legal_range": [78, 79]}
+{"vid": "o-MjuV5uqfE", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82]}
+{"vid": "Iv0sktcLtww", "task": "44789", "legal_range": [82, 84, 77, 79, 81, 82, 84, 82, 84, 77, 79, 81]}
+{"vid": "XN8qd3FKQ4s", "task": "44789", "legal_range": [77, 78, 79, 80, 81]}
+{"vid": "3cl7Os0fetU", "task": "44789", "legal_range": [77, 79, 81]}
+{"vid": "at5YhWIf6CQ", "task": "44789", "legal_range": [78, 79, 82, 83, 84]}
+{"vid": "fi-W1xq0Z9I", "task": "44789", "legal_range": [79, 82, 83, 84, 84, 83, 84]}
+{"vid": "LVBcO3B0ENo", "task": "44789", "legal_range": [79, 81, 82, 83]}
+{"vid": "Iwy8eIn6z2A", "task": "44789", "legal_range": [77, 79]}
+{"vid": "yaH0WOFpx7A", "task": "44789", "legal_range": [77, 78, 79]}
+{"vid": "Nb_sdEv42wA", "task": "44789", "legal_range": [82, 83, 83, 84, 82, 84, 77, 79, 81]}
+{"vid": "7cHWwwCbXr4", "task": "44789", "legal_range": [78, 79, 82, 84]}
+{"vid": "G2uYcrdbXi8", "task": "44789", "legal_range": [78, 79, 82, 83, 84, 82, 84, 82, 84]}
+{"vid": "MQzoAXn_90U", "task": "44789", "legal_range": [79, 81]}
+{"vid": "s7fRwWV0fs8", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82, 83]}
+{"vid": "MiidziDcjeM", "task": "44789", "legal_range": [82, 83, 84, 82, 83, 77, 78, 79]}
+{"vid": "uePUThh2vhk", "task": "44789", "legal_range": [82, 83, 84, 82, 77, 78, 79, 82, 83, 84, 80, 81, 84]}
+{"vid": "KsTqT_kFrME", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 84, 82, 84]}
+{"vid": "IT9wR21WzRE", "task": "44789", "legal_range": [77, 79, 81, 82, 84, 82, 83, 84]}
+{"vid": "WgGh9z6tUps", "task": "44789", "legal_range": [77, 78, 79, 80, 81]}
+{"vid": "xc4zzy75UXg", "task": "44789", "legal_range": [82, 83, 84, 77, 83, 81, 84]}
+{"vid": "cX8RvflJRgE", "task": "44789", "legal_range": [79, 80, 84, 82, 83, 84]}
+{"vid": "O8A3VB5FXK8", "task": "44789", "legal_range": [77, 79, 81, 82, 83, 84]}
+{"vid": "sDwINhmjvYU", "task": "44789", "legal_range": [78, 79, 82, 83, 84, 81]}
+{"vid": "Zip-uygPGh0", "task": "44789", "legal_range": [77, 81, 78, 78, 79, 79, 81, 82, 83, 84]}
+{"vid": "rCWasue2tO4", "task": "44789", "legal_range": [77, 79, 81, 82, 83, 84, 82, 83, 84]}
+{"vid": "QD424sh0OB0", "task": "44789", "legal_range": [78, 79, 82, 83]}
+{"vid": "WUvBCrFDReI", "task": "44789", "legal_range": [77, 78, 79, 80, 82, 83, 84, 81, 82, 83, 77, 78, 79, 80, 82, 84, 84, 81]}
+{"vid": "OhMCCTCvkSQ", "task": "44789", "legal_range": [79]}
+{"vid": "RBQBRsmiU70", "task": "44789", "legal_range": [82, 77, 79]}
+{"vid": "jnshSRAIFW0", "task": "44789", "legal_range": [77, 79, 82, 79, 83, 84]}
+{"vid": "P8wroqrGZyY", "task": "44789", "legal_range": [77, 77, 81, 79, 80, 81, 82, 83, 84, 82, 83, 84, 82, 83, 84, 82, 83]}
+{"vid": "J9AYuCWzx8Y", "task": "44789", "legal_range": [77, 79, 81]}
+{"vid": "uDmUGdg40Hg", "task": "44789", "legal_range": [77, 79, 81, 82, 83, 84, 82, 83, 84, 82, 83, 84, 82, 83, 84, 79, 82, 83, 84, 82, 83, 81]}
+{"vid": "A0fiZCHz5ew", "task": "44789", "legal_range": [77, 77, 79, 79, 84, 81, 82, 84, 77, 79, 82, 83, 84, 82, 79]}
+{"vid": "UiV5geQumHI", "task": "44789", "legal_range": [77, 78, 79, 82, 83, 84, 82, 84, 80, 81]}
+{"vid": "90XGGyrgELs", "task": "44789", "legal_range": [79, 80, 81, 84, 82, 83, 84]}
+{"vid": "SmPAMOPgUl8", "task": "44789", "legal_range": [77, 78, 79]}
+{"vid": "9AQCa7YVdNY", "task": "44789", "legal_range": [78, 79, 80, 81, 82, 83, 84, 79, 84, 80, 81]}
+{"vid": "9HOG0Q39klQ", "task": "44789", "legal_range": [77, 79, 81]}
+{"vid": "9QAUyGGaR4c", "task": "44789", "legal_range": [82, 77, 78, 79, 84, 82, 84, 80, 81]}
+{"vid": "AJPBNci2g5Q", "task": "44789", "legal_range": [77, 78, 79, 80, 81]}
+{"vid": "YHOoOzXYgKo", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 84, 82, 83, 84, 82, 83, 84]}
+{"vid": "lpiT7_w5NdA", "task": "44789", "legal_range": [82, 83, 84, 78, 79, 82, 84, 80, 81]}
+{"vid": "-fcNL2fvQEM", "task": "44789", "legal_range": [82, 83, 84, 77, 79, 81, 82, 83, 84]}
+{"vid": "1WtAtNgw8Is", "task": "44789", "legal_range": [77, 79, 81]}
+{"vid": "FatUpX-Y0bk", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 84, 83]}
+{"vid": "h1W63xANe0I", "task": "44789", "legal_range": [77, 79, 81, 82, 84]}
+{"vid": "teH0ZCO2oXY", "task": "44789", "legal_range": [82, 77, 78, 79, 82, 84]}
+{"vid": "Np2j94JE9nA", "task": "44789", "legal_range": [77, 78, 79, 79, 81, 79, 79, 81]}
+{"vid": "X0W5Ydl2eVs", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 82, 82]}
+{"vid": "I5k6APXUE6w", "task": "44789", "legal_range": [77, 78, 79]}
+{"vid": "HdgdDqM-wpk", "task": "44789", "legal_range": [77, 83, 78, 79, 80, 84, 82, 83, 81, 82, 83, 84]}
+{"vid": "VuPALAnHjRM", "task": "44789", "legal_range": [77, 78, 79, 81, 79, 77, 79, 77, 81, 77, 79, 84, 82, 77, 79, 78, 79, 81, 79, 77, 79, 77, 82, 82, 84]}
+{"vid": "F1iWxpRkUV0", "task": "44789", "legal_range": [82, 83, 84, 82, 84, 82, 83, 84, 82, 83, 84, 82, 84, 82, 84, 77, 79, 81, 82, 83, 84, 82, 84]}
+{"vid": "2mAuoS-QIYc", "task": "44789", "legal_range": [77, 78, 79, 82, 83, 84]}
+{"vid": "aqFHGUlQivE", "task": "44789", "legal_range": [82, 83, 84, 82, 83, 84, 77, 78, 79, 80, 81, 82, 83, 84, 82, 84, 77, 81]}
+{"vid": "cOOuBN5D_rY", "task": "44789", "legal_range": [82, 83, 77, 78, 79, 84, 82, 83, 84]}
+{"vid": "LAlsA6J4dO8", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84]}
+{"vid": "c9LuqWgmu6Q", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84]}
+{"vid": "uD47VccZob4", "task": "44789", "legal_range": [77, 79, 82, 79, 81]}
+{"vid": "cEfCdKFhxVM", "task": "44789", "legal_range": [77, 78, 80, 81, 82, 84]}
+{"vid": "WQcR5HzxMWY", "task": "44789", "legal_range": [77, 77, 81, 78, 79, 81]}
+{"vid": "4382UFRQDb0", "task": "44789", "legal_range": [77, 79, 81, 82, 83, 84, 82, 83, 84, 82, 83, 84, 82, 83]}
+{"vid": "Zjj7trgKYNo", "task": "44789", "legal_range": [77, 79, 82, 83, 84, 82, 83, 84]}
+{"vid": "MUZBvGDsCDI", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84]}
+{"vid": "TvS1LkCqoSE", "task": "44789", "legal_range": [77, 78, 79, 82, 84]}
+{"vid": "SBbGX5zGHEA", "task": "44789", "legal_range": [77, 79]}
+{"vid": "zkQPUy9ocHw", "task": "44789", "legal_range": [77, 78, 79, 80, 82, 83, 84, 82, 84]}
+{"vid": "R0lQR2QZwjg", "task": "44789", "legal_range": [77, 78, 79, 82, 83, 84, 79, 83, 84, 80, 81]}
+{"vid": "4v6QtCIRhFE", "task": "44789", "legal_range": [79, 82]}
+{"vid": "vGLCper0Kik", "task": "44789", "legal_range": [77, 78, 79, 80, 81, 82, 83, 84, 77, 78, 79, 80, 81, 82, 83, 84]}
+{"vid": "AtM9aQCS4-I", "task": "44789", "legal_range": [79, 79, 81, 77, 79]}
+{"vid": "IR8_79y2Edc", "task": "40567", "legal_range": [85, 86, 87, 89, 89, 93, 92, 93]}
+{"vid": "TB7-xZUDv8g", "task": "40567", "legal_range": [88, 88, 88, 89, 90, 93]}
+{"vid": "OuiHraJO0mk", "task": "40567", "legal_range": [85, 87, 86, 85, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "zlyrv-h97z8", "task": "40567", "legal_range": [66, 85, 85, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 66, 85, 85, 85, 86, 86, 87, 88, 89, 90, 91, 92, 93, 94]}
+{"vid": "ydT9sLyhL1k", "task": "40567", "legal_range": [85, 87, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "ed3WLNutScE", "task": "40567", "legal_range": [86, 86, 87, 86, 88, 88, 86, 88, 89, 90, 91, 91, 93, 92, 93, 93, 93, 93, 93, 93]}
+{"vid": "V0nrZadIQxA", "task": "40567", "legal_range": [88, 89, 90, 91, 93]}
+{"vid": "joBmbh0AGSQ", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93, 85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "FzqjoFAXA5I", "task": "40567", "legal_range": [89]}
+{"vid": "1aZ6bF8f6Fk", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "PAG4g1nFlNg", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 93, 92, 93]}
+{"vid": "INMUrGdA_RA", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 87, 91, 92, 93, 94, 66, 85, 86, 87, 88, 89, 90, 87, 91, 92, 93, 94]}
+{"vid": "Tn-Xh5ldkXw", "task": "40567", "legal_range": [66, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "bQilMjXciTg", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 93, 92, 93]}
+{"vid": "XViKtv5yd0M", "task": "40567", "legal_range": [88, 91, 93, 92]}
+{"vid": "Xh22CPTRqis", "task": "40567", "legal_range": [85, 87, 88, 89, 85, 90, 91, 93, 92, 85, 87, 88, 89, 85, 90, 91, 92]}
+{"vid": "o5Mf7UUdf5Y", "task": "40567", "legal_range": [86, 89, 90]}
+{"vid": "O6UjkyccfVM", "task": "40567", "legal_range": [85, 86, 87, 89, 90, 91, 92, 93]}
+{"vid": "ZAevbmSy6kw", "task": "40567", "legal_range": [86, 87, 88, 89, 90]}
+{"vid": "w2NQeR0RxoM", "task": "40567", "legal_range": [87, 88, 89, 90, 91, 92, 94]}
+{"vid": "Qig0E9lluZA", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "jjPL9HDg-fs", "task": "40567", "legal_range": [85, 85, 86, 66, 87, 88, 89, 93, 92, 93]}
+{"vid": "UdrJVNL19FU", "task": "40567", "legal_range": [85, 86, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "lGyfpSfU_T0", "task": "40567", "legal_range": [66, 87, 88, 89, 90, 91, 93, 66, 87, 88, 89, 90, 91, 93]}
+{"vid": "4RdBRkq3wy0", "task": "40567", "legal_range": [85, 85, 86, 66, 87, 88, 93, 92, 93]}
+{"vid": "BVucvYCLjcc", "task": "40567", "legal_range": [85, 85, 86]}
+{"vid": "woUdHiRWKMg", "task": "40567", "legal_range": [66, 85, 87, 86, 88, 89, 90, 91, 93, 92, 94]}
+{"vid": "PwXYQ9E7YqA", "task": "40567", "legal_range": [85, 66, 86, 87, 88, 90, 91, 92, 93, 92]}
+{"vid": "8KGhu21xszg", "task": "40567", "legal_range": [86, 87, 88, 89, 91, 91, 93]}
+{"vid": "KIKkmKf6mOA", "task": "40567", "legal_range": [85, 87, 86, 87, 88, 89, 90, 91, 91, 92, 93]}
+{"vid": "350jCX0uffs", "task": "40567", "legal_range": [86, 87, 88, 89, 85, 90, 91, 92, 93]}
+{"vid": "Q1ZOstti8Tg", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "8hl0HMNvtkU", "task": "40567", "legal_range": [85, 87, 88, 89, 90, 91, 93, 92]}
+{"vid": "pK3vZljnAgY", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 93, 92, 93]}
+{"vid": "J0yIfEkihpY", "task": "40567", "legal_range": [86, 87, 88, 88, 90, 91, 92, 93]}
+{"vid": "S15qByu-pNE", "task": "40567", "legal_range": [85, 85, 86, 87, 88, 89, 90, 91, 93, 92, 94]}
+{"vid": "17Z9jQeteAA", "task": "40567", "legal_range": [85, 85, 86, 66, 87, 88, 89, 91, 92, 93]}
+{"vid": "lCHgkAPQh1M", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 93, 92, 93]}
+{"vid": "sA2-KnjzRg8", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93, 92]}
+{"vid": "b6n8FoLr59g", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "15nl0YLF8FU", "task": "40567", "legal_range": [85, 85, 86, 87, 88, 88, 89, 90, 91, 92, 93, 94]}
+{"vid": "goqPhR4gW4Y", "task": "40567", "legal_range": [86, 87, 88, 89, 90, 91, 93, 92]}
+{"vid": "U_rt9MJ0ric", "task": "40567", "legal_range": [86, 87, 88, 89, 90, 91, 92, 93, 86, 87, 87, 89, 90, 91, 91]}
+{"vid": "6JUvHsQ1PbM", "task": "40567", "legal_range": [87, 86, 88, 91, 92, 93, 86, 87, 88, 91, 91, 92, 93]}
+{"vid": "H4wUlSvjK2U", "task": "40567", "legal_range": [86, 88, 89, 90, 93, 66, 88, 89, 90, 93]}
+{"vid": "D8MxN2YeZtk", "task": "40567", "legal_range": [85, 86, 87, 88, 86, 89, 90, 91, 93, 92, 94]}
+{"vid": "a_6-07ryG2c", "task": "40567", "legal_range": [66, 85, 86, 87, 89, 90, 91, 92, 93, 94]}
+{"vid": "3gSyHyrFN2Y", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93, 92]}
+{"vid": "0TiNZJum-bk", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "uyt9_ppLlxE", "task": "40567", "legal_range": [85, 87, 86, 88, 90, 91, 93, 91, 92]}
+{"vid": "qMl8ZSS-LRU", "task": "40567", "legal_range": [86, 86, 87, 88, 89, 90, 91]}
+{"vid": "K32brOX-wag", "task": "40567", "legal_range": [66, 86, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "EdNdiSMepng", "task": "40567", "legal_range": [85, 86, 86, 86, 87, 86, 89, 90, 91, 93, 92, 93]}
+{"vid": "ZlkzohXBxWE", "task": "40567", "legal_range": [66, 85, 86, 87, 89, 90, 91, 92, 93]}
+{"vid": "Bq5To-ZH160", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "PwdCYqPvjlQ", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 91, 93, 94]}
+{"vid": "bzdFGoaMWe8", "task": "40567", "legal_range": [85, 86, 66, 87, 88, 89, 93, 92, 93]}
+{"vid": "BmbIoOLbswA", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]}
+{"vid": "lIzN6nm0p70", "task": "40567", "legal_range": [86, 88, 89, 88, 91, 90, 91, 91, 93]}
+{"vid": "q-zvR4ibs8Q", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 90, 91, 92, 93, 92, 94]}
+{"vid": "zspSsRGjLTw", "task": "40567", "legal_range": [85, 87, 86, 88, 89, 90, 91, 93, 92]}
+{"vid": "ouO1r6BbtQ4", "task": "40567", "legal_range": [66, 66, 85, 85, 86, 86, 86, 87, 86, 88, 89, 90, 91, 93, 92, 93, 92]}
+{"vid": "JqT3GtgfLHg", "task": "40567", "legal_range": [85, 86, 66, 87, 87, 88, 89, 91, 92, 93]}
+{"vid": "gp-6vQg5Lls", "task": "40567", "legal_range": [87, 88, 90, 91, 93, 92, 87, 88, 90, 91, 93, 92]}
+{"vid": "LReec2a4XeQ", "task": "40567", "legal_range": [66, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]}
+{"vid": "oHg9T0bFiKU", "task": "40567", "legal_range": [85, 86, 87, 88, 89, 93, 92, 93, 85, 86, 87, 88, 89, 90, 91, 92, 93]}
+{"vid": "F0DHHy_-PTk", "task": "40567", "legal_range": [85, 87, 86, 87, 89, 85, 91, 92, 93]}
+{"vid": "Rf0SoFgHtXY", "task": "40567", "legal_range": [66, 66, 85, 85, 86, 87, 88, 88, 89, 90, 91, 91, 92, 93, 94]}
+{"vid": "X7ZxDU06fmc", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "W8a1m3TxXjE", "task": "77721", "legal_range": [3, 3, 3, 42, 4, 95]}
+{"vid": "-TcCWq3PY70", "task": "77721", "legal_range": [35, 3, 4, 42, 95]}
+{"vid": "9PTUZmGniZY", "task": "77721", "legal_range": [35, 42, 3, 95]}
+{"vid": "Nj8-26KyGY8", "task": "77721", "legal_range": [3, 35, 42, 4, 95]}
+{"vid": "OqJ7-y5bgS4", "task": "77721", "legal_range": [35, 3, 4, 42, 95]}
+{"vid": "hnUx5hhih3E", "task": "77721", "legal_range": [42, 42, 3, 95, 35, 4, 3, 95, 95]}
+{"vid": "KlMAs87Ydyc", "task": "77721", "legal_range": [35, 42, 3, 4, 95]}
+{"vid": "2EKYf9eL164", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "JHyYc3zFW_4", "task": "77721", "legal_range": [35, 42, 4, 3, 95]}
+{"vid": "A_92vt6NDko", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "OtYcw1QXKYs", "task": "77721", "legal_range": [42, 3, 35, 4, 95]}
+{"vid": "ebPAoK-UdL4", "task": "77721", "legal_range": [95, 35, 3, 42, 4, 95]}
+{"vid": "srmWrpQBoPI", "task": "77721", "legal_range": [35, 3, 4, 4, 42, 42, 95]}
+{"vid": "hhJZMAaugrY", "task": "77721", "legal_range": [35, 42, 4, 3, 95]}
+{"vid": "cActFheaw4w", "task": "77721", "legal_range": [42, 35, 3, 4, 95]}
+{"vid": "ML6RuO5No64", "task": "77721", "legal_range": [3, 35, 42, 95]}
+{"vid": "MB0EkSgLnhQ", "task": "77721", "legal_range": [42, 35, 4, 3, 4, 95]}
+{"vid": "oTT8Osk0YoI", "task": "77721", "legal_range": [35, 35, 3, 42, 4, 95]}
+{"vid": "RzxKlcxfE8A", "task": "77721", "legal_range": [3, 3, 42, 95]}
+{"vid": "uBKNs4NQ9Ic", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "fajXwKq_l4Y", "task": "77721", "legal_range": [35, 4, 3, 95]}
+{"vid": "u9bXINYVeag", "task": "77721", "legal_range": [3, 35, 42, 95]}
+{"vid": "s9WRi4blweo", "task": "77721", "legal_range": [42, 35, 4, 3, 4, 95]}
+{"vid": "VY_BjieXWto", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "oaHE_WoP1Ok", "task": "77721", "legal_range": [35, 42, 3, 4, 95]}
+{"vid": "0X-n6QaMEmI", "task": "77721", "legal_range": [3, 35, 42, 4, 95]}
+{"vid": "oMcZSGcT5nM", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "DdNYVQcg8F4", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "eGvCPqgITX4", "task": "77721", "legal_range": [3, 4, 42, 4, 95]}
+{"vid": "8EodRVgwR-s", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "iwhERhLJgsI", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "5Ws3txQmEBI", "task": "77721", "legal_range": [3, 42, 35, 4, 95]}
+{"vid": "72iJ6VNEaIQ", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "VXMO6HycHUk", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "PdmLpakp2yA", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "_MNawd-0aNU", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "W1CBYfUWmLc", "task": "77721", "legal_range": [3, 35, 42, 4, 4, 95]}
+{"vid": "sozJ-nLWhCE", "task": "77721", "legal_range": [42, 35, 4, 3, 4, 4, 42, 95, 35, 4, 95]}
+{"vid": "RZfQ4qzQM0g", "task": "77721", "legal_range": [42, 3, 35, 4]}
+{"vid": "48sIo5pJ39Q", "task": "77721", "legal_range": [42, 42, 3, 42, 95]}
+{"vid": "gsIMMm5DpZ4", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "DQE4X0gGnFs", "task": "77721", "legal_range": [42, 35, 4, 3]}
+{"vid": "VKsgrJCjoB4", "task": "77721", "legal_range": [35, 42, 4, 3, 95]}
+{"vid": "wvT8Abrvx6o", "task": "77721", "legal_range": [42, 35, 3, 3, 4, 95]}
+{"vid": "aOEzNAUUdT4", "task": "77721", "legal_range": [35, 42, 95, 3]}
+{"vid": "Plu5-InyKfc", "task": "77721", "legal_range": [35, 42, 4, 4, 3, 4, 95]}
+{"vid": "Uqs58Mt0pNU", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "-Spp9YEHLss", "task": "77721", "legal_range": [3, 35, 42, 4, 95]}
+{"vid": "TuEBuUUGyDk", "task": "77721", "legal_range": [3, 35, 42, 4, 3, 4, 95]}
+{"vid": "jVylgfOspJ8", "task": "77721", "legal_range": [3, 35, 42, 4, 95]}
+{"vid": "eQv2l0LBCM0", "task": "77721", "legal_range": [3, 35, 4, 42, 95]}
+{"vid": "ePb9RcTNlwo", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "K2nsKDgayKY", "task": "77721", "legal_range": [3, 3, 35, 4, 42, 4, 95]}
+{"vid": "-JA9UaWoGDM", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "NRM0_69k11w", "task": "77721", "legal_range": [95, 95]}
+{"vid": "O3d45Xbrz0w", "task": "77721", "legal_range": [35, 3, 4, 4, 42, 95]}
+{"vid": "jo4G8Sdrc4Q", "task": "77721", "legal_range": [3, 4, 42, 95]}
+{"vid": "wD4Z07KZVbE", "task": "77721", "legal_range": [42, 35, 3, 4, 95, 95]}
+{"vid": "hHYByb_xcBI", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "lDlfjzcGL_c", "task": "77721", "legal_range": [35, 3, 4, 4, 42, 4, 95]}
+{"vid": "nC0q_ssCeqU", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "KmNHNXwXtgI", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "8bQP3uoMGac", "task": "77721", "legal_range": [42, 3, 4, 95]}
+{"vid": "WVdIej08hF8", "task": "77721", "legal_range": [35, 4, 42, 95]}
+{"vid": "AIcdq28yfG4", "task": "77721", "legal_range": [42, 35, 4, 3, 4, 95]}
+{"vid": "Dqn4X9GhsYc", "task": "77721", "legal_range": [35, 42, 4, 3, 3, 95]}
+{"vid": "PvslOokPgLE", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "K19hnT2jxgY", "task": "77721", "legal_range": [3, 35, 4, 4, 95]}
+{"vid": "OCiFqvYI3GA", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "kuWCrixDsDo", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "1N4Q83KPiMo", "task": "77721", "legal_range": [3, 35, 3, 42, 95, 3]}
+{"vid": "LFbRpoyDnzE", "task": "77721", "legal_range": [42, 35, 4, 3, 95]}
+{"vid": "X5KazFc1Mqk", "task": "77721", "legal_range": [35, 42, 4, 3, 4, 95]}
+{"vid": "mlNQrj6Le0I", "task": "77721", "legal_range": [42, 35, 4, 3, 4, 95]}
+{"vid": "ovAhBUHfXKw", "task": "77721", "legal_range": [3, 4, 95]}
+{"vid": "ANU7UOO-7kE", "task": "77721", "legal_range": [3, 35, 42, 95]}
+{"vid": "5m6hoADJZKI", "task": "77721", "legal_range": [3, 42, 95]}
+{"vid": "72gYzGWjdmw", "task": "77721", "legal_range": [35, 3, 4, 42, 95]}
+{"vid": "V7LrAzEWdAw", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "fEJ4l8qxd1o", "task": "77721", "legal_range": [42, 35, 95, 3, 4]}
+{"vid": "qjn-Y7zPpbM", "task": "77721", "legal_range": [42, 3, 35, 4, 95]}
+{"vid": "aU-w0Ag3kZg", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "NNpQt_OIWqI", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "0D81vNOZE6w", "task": "77721", "legal_range": [42, 3, 42, 4, 95]}
+{"vid": "lyxvMk0dNC0", "task": "77721", "legal_range": [35, 42, 4, 3, 4, 95]}
+{"vid": "wjxVCootXpQ", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "lClU92Tgg88", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "W0t96jD_u8U", "task": "77721", "legal_range": [95, 35, 4, 42, 95]}
+{"vid": "phNyFp4ipe0", "task": "77721", "legal_range": [42, 3, 95]}
+{"vid": "xAx3jYOgOMU", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "LZXkdayGMBQ", "task": "77721", "legal_range": [42, 35, 3, 4, 95]}
+{"vid": "qzlu4Gc6rbI", "task": "77721", "legal_range": [35, 42, 4, 3, 4, 95]}
+{"vid": "SNcsgQFUXAQ", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "ytiM_0tqoOs", "task": "77721", "legal_range": [3, 35, 4, 42, 4, 95]}
+{"vid": "kTS8u5t9eLU", "task": "77721", "legal_range": [3, 35, 3, 4, 35, 4, 42, 95]}
+{"vid": "lxnL9zg6u2Q", "task": "77721", "legal_range": [35, 42, 4, 3, 4, 95]}
+{"vid": "hCE0NRscGas", "task": "77721", "legal_range": [3, 3, 42, 95, 3, 42, 95]}
+{"vid": "MVYoc82wWsY", "task": "77721", "legal_range": [35, 42, 3, 4]}
+{"vid": "bHpsSPzle2o", "task": "77721", "legal_range": [3, 3, 3, 35, 4, 35, 4, 42, 95]}
+{"vid": "1Vfde8rCO-w", "task": "77721", "legal_range": [3, 35, 4, 42, 4, 42, 4, 95]}
+{"vid": "zMjIO6O90xk", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "RA3ZxZwPC34", "task": "77721", "legal_range": [35, 42, 4, 3, 4, 4, 95]}
+{"vid": "rEsNeR_e1FM", "task": "77721", "legal_range": [35, 3, 42, 95]}
+{"vid": "BoYGrrOn4jU", "task": "77721", "legal_range": [42, 3, 4, 95]}
+{"vid": "viTt8yPSBUA", "task": "77721", "legal_range": [42, 3]}
+{"vid": "lmwRnK9QDk8", "task": "77721", "legal_range": [95, 3, 42, 4]}
+{"vid": "0Kou_wqTUcc", "task": "77721", "legal_range": [42, 35, 3, 42, 95]}
+{"vid": "Jlc3hAm9zT4", "task": "77721", "legal_range": [42, 4, 3, 4, 95]}
+{"vid": "5Ar5q2VLaHI", "task": "77721", "legal_range": [35, 3, 4, 42, 4, 95]}
+{"vid": "hNoClhnnjns", "task": "77721", "legal_range": [3, 42, 4]}
+{"vid": "VcGBRy6fn6M", "task": "77721", "legal_range": [42, 35, 42, 4, 3, 4, 95]}
+{"vid": "Xq4_bbGLLO0", "task": "77721", "legal_range": [35, 4, 3, 42, 95]}
+{"vid": "K7XszLKoZaQ", "task": "77721", "legal_range": [42, 3, 95]}
+{"vid": "PZh3Jkel3Ds", "task": "77721", "legal_range": [3, 42, 35, 4, 95]}
+{"vid": "XCqLDGk7bwc", "task": "77721", "legal_range": [35, 42, 3, 95]}
+{"vid": "yC8w7So5Ot4", "task": "77721", "legal_range": [3, 35, 42, 95]}
+{"vid": "neaOh85FJ_c", "task": "77721", "legal_range": [4, 4, 4, 4, 3, 3, 42, 95]}
+{"vid": "Vpz1ZX_rcwo", "task": "77721", "legal_range": [35, 3, 3, 4, 42, 95]}
+{"vid": "-LIjGCwNhPg", "task": "77721", "legal_range": [4, 3, 35, 42, 95]}
+{"vid": "tjznoTLcZrc", "task": "77721", "legal_range": [35, 42, 4, 3, 95]}
+{"vid": "KnTdX53Zzyw", "task": "77721", "legal_range": [4, 3, 3, 42, 95, 35, 42, 4, 3, 95]}
+{"vid": "PIjqZkGmxG0", "task": "77721", "legal_range": [3, 3, 42, 95]}
+{"vid": "bjv5eIh0YFE", "task": "77721", "legal_range": [42, 3, 95]}
+{"vid": "2pnNoPx-Pt8", "task": "77721", "legal_range": [35, 4, 3, 95]}
+{"vid": "DekWJUelDUs", "task": "77721", "legal_range": [35, 3, 42, 4, 95]}
+{"vid": "GasUDZrpDgE", "task": "77721", "legal_range": [35, 3, 4, 42, 4, 95]}
+{"vid": "q3OY7ncQ1KU", "task": "77721", "legal_range": [35, 42, 4, 95]}
+{"vid": "8SYfMiTG7m0", "task": "87706", "legal_range": [34, 36, 36, 96, 36, 97, 36, 98, 36, 96, 36, 36, 36, 36, 98, 36, 97, 36, 100, 101, 99, 101, 99, 101]}
+{"vid": "bHYBRpaoIec", "task": "87706", "legal_range": [96, 35, 97, 36, 34, 36, 98, 35, 35, 36, 99, 101, 99, 101]}
+{"vid": "Gy3MURE_2Jw", "task": "87706", "legal_range": [96, 34, 36, 96, 35, 36, 97, 100, 98, 35]}
+{"vid": "fbLR_b3tFC0", "task": "87706", "legal_range": [36, 35, 36, 36, 99, 100, 101, 99, 99, 100, 101]}
+{"vid": "rz7wvhC55hI", "task": "87706", "legal_range": [36, 100, 101, 99, 35, 101]}
+{"vid": "Y5raqjVvl40", "task": "87706", "legal_range": [100, 97, 101, 99, 99, 101]}
+{"vid": "CaPaDAIvnrY", "task": "87706", "legal_range": [36, 98, 98, 101]}
+{"vid": "_pWW4Jig8Tc", "task": "87706", "legal_range": [97, 96, 34, 35, 36, 96, 36, 96, 36, 96, 36, 36, 98, 101, 99, 101]}
+{"vid": "yjKlvU03lLM", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 34, 36, 36, 98, 35, 101, 99]}
+{"vid": "F56rtGvAWvI", "task": "87706", "legal_range": [36, 98, 100, 99, 101, 99, 101, 99, 99, 101, 99, 35, 99, 100, 101]}
+{"vid": "_Mv4Y5x2UBc", "task": "87706", "legal_range": [35, 36, 36, 36, 36, 96, 36, 98, 35, 36, 99, 101, 99, 101, 99, 101]}
+{"vid": "CCRQ0vsWBJo", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 34, 36, 36, 36, 98, 100, 35, 36, 35, 36, 99, 101]}
+{"vid": "NEqgu1L8La0", "task": "87706", "legal_range": [34, 36, 35, 96, 36, 98, 100, 35, 36, 99, 101]}
+{"vid": "LYhvw4M2IXo", "task": "87706", "legal_range": [36, 98, 98, 36, 36, 101, 99]}
+{"vid": "LmLkPBut8nI", "task": "87706", "legal_range": [34, 36, 35, 36, 36, 96, 36, 97, 36, 98, 100, 35, 36, 99, 101, 99, 99, 99, 101]}
+{"vid": "xJnqDOr-Wv8", "task": "87706", "legal_range": [36, 97, 35, 36, 36, 96, 36, 35, 36, 99, 99, 101]}
+{"vid": "Fyvnx0gl2NA", "task": "87706", "legal_range": [96, 34, 36, 98, 100, 35, 36, 35, 36, 99, 101, 99, 101, 99, 101]}
+{"vid": "lGfZRSjmpDg", "task": "87706", "legal_range": [100, 35, 101, 36, 35, 99, 99, 99]}
+{"vid": "nNmBEyQxIWc", "task": "87706", "legal_range": [35, 96, 35, 36, 97, 36, 98, 35, 36, 101, 99]}
+{"vid": "9cwjGiDStLE", "task": "87706", "legal_range": [100, 97, 36, 36, 34, 96, 36, 100, 35, 98, 101, 99]}
+{"vid": "fOhVNzZzGLw", "task": "87706", "legal_range": [35, 36, 96, 35, 97, 36, 98, 36, 99, 101]}
+{"vid": "2IbsZqlhuDs", "task": "87706", "legal_range": [97, 35, 36, 34, 36, 36, 96, 36, 36, 96, 36, 98, 36, 35, 36, 36, 98, 100, 101]}
+{"vid": "wL9Bf8Kak9A", "task": "87706", "legal_range": [36, 36, 35, 99, 101, 99]}
+{"vid": "shSDaDi0xuo", "task": "87706", "legal_range": [99, 100, 99, 100, 99, 101]}
+{"vid": "W5o50rt35ZQ", "task": "87706", "legal_range": [100, 35, 96, 35, 36, 97, 36, 98, 101, 99]}
+{"vid": "jN6kowC-w0o", "task": "87706", "legal_range": [35, 36, 36, 96, 36, 97, 98, 36, 99, 101, 99, 99, 101, 99, 99, 99, 101, 99]}
+{"vid": "lxP5Osz0DnY", "task": "87706", "legal_range": [34, 35, 36, 96, 36, 36, 98, 100, 35, 36, 99, 101]}
+{"vid": "_S_Ts4ywGgQ", "task": "87706", "legal_range": [34, 36, 35, 36, 96, 36, 100, 35, 101]}
+{"vid": "aKru7H2ukC4", "task": "87706", "legal_range": [36, 98, 36, 35, 99, 99, 100, 101]}
+{"vid": "5C1tueHMdl4", "task": "87706", "legal_range": [34, 36, 35, 98, 34, 35, 36, 36, 36, 98, 100, 36, 97, 36, 36, 99, 101, 101]}
+{"vid": "IOqJwH7SNMo", "task": "87706", "legal_range": [96, 35, 34, 97, 36, 98, 97, 36, 35, 36, 35, 101, 99, 96, 35, 36, 98, 99, 100]}
+{"vid": "GEEON0Pb4GQ", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 34, 36, 98, 35, 100, 35, 101, 99, 99, 101]}
+{"vid": "4YoKs6cmjps", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 36, 36, 98, 99, 101, 35]}
+{"vid": "R3W-IQJ2Mpk", "task": "87706", "legal_range": [34, 35, 97, 36, 96, 98, 101, 99, 35]}
+{"vid": "aM1ML9aTVns", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 36, 98, 101, 99]}
+{"vid": "P7lvypHDdGM", "task": "87706", "legal_range": [36, 98, 35, 36, 97, 96, 36, 99, 101]}
+{"vid": "QU2sE3n_OG8", "task": "87706", "legal_range": [100, 35, 36, 35, 36, 97, 36, 34, 36, 36, 98, 101, 99, 99, 101]}
+{"vid": "m6i9FVgkc0c", "task": "87706", "legal_range": [100, 36, 35, 36, 99, 99, 100, 101, 101]}
+{"vid": "UKDkbnoqLmk", "task": "87706", "legal_range": [35, 97, 36, 96, 36, 34, 100, 98, 35]}
+{"vid": "Fyy5t-tL0xA", "task": "87706", "legal_range": [34, 35, 96, 97, 36, 98, 36, 99, 101, 35]}
+{"vid": "JBpurJxhkiI", "task": "87706", "legal_range": [96, 36, 34, 35, 97, 36, 36, 100, 98, 101, 99, 35, 36, 99, 100]}
+{"vid": "OgM0LGaKcHY", "task": "87706", "legal_range": [100, 96, 36, 35, 36, 34, 36, 96, 36, 98, 35, 36, 99, 101]}
+{"vid": "xF9T3AkqLic", "task": "87706", "legal_range": [100, 35, 34, 36, 96, 35, 97, 36, 36, 98, 34, 36, 101, 99, 99, 101, 99]}
+{"vid": "RI0SDhRtapU", "task": "87706", "legal_range": [34, 36, 35, 36, 36, 96, 36, 96, 98, 100, 99, 101, 99, 101, 100, 101]}
+{"vid": "owADJsdbAPk", "task": "87706", "legal_range": [100, 35, 36, 96, 35, 35, 36, 36, 98, 101, 99]}
+{"vid": "O9HGpensIR8", "task": "87706", "legal_range": [35, 36, 36, 36, 96, 36, 98, 36, 96, 35, 36, 36, 36, 97, 36, 100, 101, 36, 36, 99, 101, 36, 101]}
+{"vid": "omJEFf26ZwM", "task": "87706", "legal_range": [97, 36, 36, 98, 100, 101, 100, 101, 100, 101, 98, 101]}
+{"vid": "UEY9G5Zl2_c", "task": "87706", "legal_range": [96, 35, 36, 97, 36, 36, 36, 98, 100, 35, 36, 101, 36, 35]}
+{"vid": "zSK9C3x7Pi8", "task": "87706", "legal_range": [99, 101, 99, 101]}
+{"vid": "2DBvWJmg7Sk", "task": "87706", "legal_range": [34, 35, 96, 36, 36, 98, 36, 100, 35, 36, 36, 36, 36, 98, 101]}
+{"vid": "lXVkCft-dVU", "task": "87706", "legal_range": [34, 36, 36, 98, 35, 36, 36, 99, 99]}
+{"vid": "UENlwVbPoac", "task": "87706", "legal_range": [36, 35, 36, 96, 36, 34, 36, 34, 36, 96, 36, 36, 96, 36, 98, 36, 99, 99, 99, 99, 99, 100, 101]}
+{"vid": "_rQO_sHmkJ4", "task": "87706", "legal_range": [36, 36, 36, 35, 36, 35, 36, 96, 96, 98, 99, 100, 35, 101]}
+{"vid": "xasQbivHHWQ", "task": "87706", "legal_range": [34, 35, 36, 97, 36, 96, 36, 36, 36, 36, 98, 99, 101, 35]}
+{"vid": "JZhL8hu6pyg", "task": "87706", "legal_range": [34, 35, 36, 36, 96, 97, 96, 98, 100, 35, 36, 99, 101]}
+{"vid": "PeCA5gMa3dc", "task": "87706", "legal_range": [34, 35, 36, 35, 36, 97, 98, 36, 99, 99, 101, 99]}
+{"vid": "72_5fhx_yl0", "task": "87706", "legal_range": [34, 36, 35, 36, 36, 96, 36, 96, 36, 97, 98, 36, 99, 101, 99, 99, 101]}
+{"vid": "8cIEq6fpENs", "task": "87706", "legal_range": [97, 35, 36, 96, 36, 98, 35, 96, 36, 99, 101]}
+{"vid": "W5VrDQ3q1yk", "task": "87706", "legal_range": [34, 36, 35, 36, 96, 36, 36, 36, 98, 100, 35, 99, 101, 99, 99, 99, 101]}
+{"vid": "acMP2DOpWeA", "task": "91515", "legal_range": [96, 35, 36, 34, 36, 44, 36, 36, 102, 103, 104]}
+{"vid": "VJuerYdP7XA", "task": "91515", "legal_range": [96, 35, 36, 34, 44, 36, 102, 103]}
+{"vid": "CCX7AH3lapc", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 36, 102, 102, 103, 104]}
+{"vid": "YQtnB14lHE4", "task": "91515", "legal_range": [96, 44, 36, 34, 102]}
+{"vid": "25JG9sxa1Fs", "task": "91515", "legal_range": [34, 102, 103, 104]}
+{"vid": "GCqVVmfyDR4", "task": "91515", "legal_range": [96, 44, 34, 36, 36, 102, 103, 104]}
+{"vid": "9MR2BAskqws", "task": "91515", "legal_range": [34, 96, 44, 36, 102, 103, 34, 96, 44, 36, 102, 103]}
+{"vid": "gZSa2LF-Bgc", "task": "91515", "legal_range": [44, 35, 36, 36, 102, 103, 44, 35, 36, 36, 102, 102, 103]}
+{"vid": "Xz5N4hOlTgU", "task": "91515", "legal_range": [96, 35, 44, 36, 44, 36, 102, 103, 103, 104, 102, 103, 104]}
+{"vid": "xZGNqhd7EAk", "task": "91515", "legal_range": [35, 36, 34, 36, 44, 36, 36, 36, 36, 102, 103, 103]}
+{"vid": "LYUGRDBtdBQ", "task": "91515", "legal_range": [96, 35, 96, 44, 36, 36, 36, 36, 102, 103, 104]}
+{"vid": "pbj2S4v_0wM", "task": "91515", "legal_range": [96, 35, 36, 34, 44, 36, 102, 103, 104]}
+{"vid": "tHvpD-fy2c0", "task": "91515", "legal_range": [96, 44, 34, 34, 36, 44, 36, 96, 36, 96, 36, 102, 103, 35, 34, 36, 44, 36, 96, 36, 96, 36, 102, 103]}
+{"vid": "FLd00Bx4tOk", "task": "91515", "legal_range": [96, 36, 34, 44, 36, 36, 36, 103, 103, 104, 102, 103, 104]}
+{"vid": "1HK-p8abRq8", "task": "91515", "legal_range": [102, 103, 96, 34, 44, 36, 96, 36, 102, 103, 104, 35]}
+{"vid": "5Y4YkCkgShc", "task": "91515", "legal_range": [96, 36, 34, 35, 44, 36, 44, 36, 102, 103, 104]}
+{"vid": "Iq1Sn9vERcU", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 102, 103, 102, 102, 102, 103, 104, 103, 102, 103, 44, 34, 36, 96, 36, 102, 103, 104]}
+{"vid": "lyAbrqvASYA", "task": "91515", "legal_range": [102, 34, 36, 96, 35, 36, 36, 102, 103, 102, 104, 102, 102]}
+{"vid": "AplvbVjmntI", "task": "91515", "legal_range": [34, 44, 36, 35, 36, 36, 102, 103, 104]}
+{"vid": "pZtr47VfkSc", "task": "91515", "legal_range": [44, 36, 96, 35, 34, 44, 34, 36, 102, 103, 104]}
+{"vid": "vl8rZXq7gK8", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 102, 103, 104, 102, 104]}
+{"vid": "AUZHZ3PH6vM", "task": "91515", "legal_range": [44, 34, 35, 36, 36, 36, 102, 103]}
+{"vid": "ghWjh4Fz6H4", "task": "91515", "legal_range": [34, 35, 44, 36, 102, 104, 34, 35, 44, 36, 44, 102, 104]}
+{"vid": "YZ_FQ2goqF8", "task": "91515", "legal_range": [96, 35, 36, 34, 44, 36, 102, 103, 104, 36, 102, 104]}
+{"vid": "ssi7ms11X8E", "task": "91515", "legal_range": [34, 44, 102, 104]}
+{"vid": "bOJQE4xSfqU", "task": "91515", "legal_range": [96, 35, 44, 34, 36, 34, 34, 36, 102, 103, 104]}
+{"vid": "7TQha2iRUmI", "task": "91515", "legal_range": [44, 96, 34, 44, 36, 36, 102, 103, 104, 35]}
+{"vid": "h7D_4wCbmgY", "task": "91515", "legal_range": [34, 35, 34, 36, 36, 44, 36, 36, 102, 103, 104, 102, 44]}
+{"vid": "d6OjOLtrxuI", "task": "91515", "legal_range": [96, 34, 44, 36, 44, 36, 36, 102, 103, 104]}
+{"vid": "96ePpBIYucw", "task": "91515", "legal_range": [34, 44, 36, 96, 36, 36, 44, 36, 36, 102, 103, 36, 102, 34, 44, 36, 96, 36, 36, 44, 36, 36, 102, 103, 36, 102]}
+{"vid": "hlWktQ_sHcY", "task": "91515", "legal_range": [34, 36, 35, 96, 36, 36, 102, 103, 104]}
+{"vid": "hOmMuIy4Jus", "task": "91515", "legal_range": [36, 44, 36, 96, 36, 102, 36, 44, 36, 96, 36, 34, 36, 34, 102]}
+{"vid": "r4VSQuNE6D4", "task": "91515", "legal_range": [96, 36, 36, 102, 103, 104, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103, 102, 103]}
+{"vid": "dxLRuX4eag0", "task": "91515", "legal_range": [34, 36, 36, 44, 35, 36, 36, 102, 103]}
+{"vid": "9cjaojbspug", "task": "91515", "legal_range": [96, 36, 36, 35, 36, 102, 103, 104]}
+{"vid": "NjAtxfaLwCk", "task": "91515", "legal_range": [35, 36, 34, 36, 44, 102, 103, 104]}
+{"vid": "i2kqpaPDTGQ", "task": "91515", "legal_range": [96, 35, 36, 34, 36, 44, 36, 102, 103, 104]}
+{"vid": "uLV9OW0LTPc", "task": "91515", "legal_range": [96, 35, 36, 34, 34, 44, 36, 36, 36, 102, 103, 104, 35]}
+{"vid": "BTbTLxvk3xU", "task": "91515", "legal_range": [96, 35, 34, 44, 36, 36, 102, 103, 104]}
+{"vid": "MMykQ8PhSw0", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 102, 103, 104, 96, 34, 44, 36, 44, 36, 102, 103, 104]}
+{"vid": "mrZ4iZxCdFk", "task": "91515", "legal_range": [96, 34, 36, 44, 102, 103, 104, 102, 104]}
+{"vid": "Ljj3yhmMt1s", "task": "91515", "legal_range": [96, 35, 34, 44, 36, 102, 103, 104]}
+{"vid": "_Ek1NK1bedE", "task": "91515", "legal_range": [35, 36, 96, 35, 36, 34, 34, 36, 102, 103]}
+{"vid": "Z1ajYx0UIxo", "task": "91515", "legal_range": [35, 36, 34, 36, 44, 36, 36, 36, 102, 103, 102, 103]}
+{"vid": "dE-6xorSlvc", "task": "91515", "legal_range": [34, 44, 96, 36, 102, 103, 104, 102, 103]}
+{"vid": "Yk49tkzTSlc", "task": "91515", "legal_range": [34, 36, 36, 102, 103, 104]}
+{"vid": "u3Ko4YultDY", "task": "91515", "legal_range": [44, 96, 102, 102, 104]}
+{"vid": "oksqDooy6Ls", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 102, 103, 102, 103, 103, 104, 96, 34, 36, 44, 36, 44, 36, 36, 102, 103, 102, 103, 103, 104, 35]}
+{"vid": "wQEpLRJFPCg", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 102, 103]}
+{"vid": "p49bc9KlM2s", "task": "91515", "legal_range": [34, 44, 36, 36, 96, 36, 102, 103, 104]}
+{"vid": "RXnAE9LTyfU", "task": "91515", "legal_range": [34, 35, 36, 44, 96, 36, 102, 103, 104]}
+{"vid": "hl2eAXY6Kwo", "task": "91515", "legal_range": [34, 36, 44, 36, 96, 36, 102, 103, 104]}
+{"vid": "btMuMDS6XWw", "task": "91515", "legal_range": [96, 96, 44, 36, 102, 102, 103, 103, 102, 104, 104]}
+{"vid": "I9xrNNyyLXc", "task": "91515", "legal_range": [36, 102, 102, 103, 104]}
+{"vid": "nEoSBL25RO4", "task": "91515", "legal_range": [35, 36, 44, 34, 36, 102, 103, 104, 102, 103, 104]}
+{"vid": "2iHBRpS980s", "task": "91515", "legal_range": [96, 35, 36, 44, 36, 34, 36, 36, 102, 104]}
+{"vid": "5aRcm-3i4gE", "task": "91515", "legal_range": [96, 36, 96, 36, 36, 102, 103, 103]}
+{"vid": "mJ2izyhvmjA", "task": "91515", "legal_range": [96, 35, 36, 34, 44, 36, 36, 36, 102, 103, 104, 102, 103, 104]}
+{"vid": "ziJGhpSwNlc", "task": "91515", "legal_range": [102, 103, 96, 36, 96, 44, 34, 36, 44, 34, 36, 102, 103]}
+{"vid": "5yk55yPrTXQ", "task": "91515", "legal_range": [96, 34, 36, 102, 103, 104, 102, 103, 104, 102, 103, 104, 102, 103, 104, 102, 103, 104, 103]}
+{"vid": "4KcwBkU6Wqw", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 102]}
+{"vid": "pPYHEnnN08s", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 102, 103]}
+{"vid": "yrlwaXARPNg", "task": "91515", "legal_range": [96, 36, 34, 36, 44, 36, 36, 102, 103, 104, 96, 36, 34, 36, 44, 36, 36, 102, 103, 104]}
+{"vid": "Wxc6xEmLJqs", "task": "91515", "legal_range": [44, 36, 102, 103, 103]}
+{"vid": "d3Bus1Me_B4", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 44, 36, 36]}
+{"vid": "bLaN0M84bqI", "task": "91515", "legal_range": [96, 36, 34, 36, 102, 103, 104, 102, 103, 104]}
+{"vid": "jIZ408lTeiU", "task": "91515", "legal_range": [96, 35, 36, 36, 34, 44, 36, 102, 102, 103, 104]}
+{"vid": "Bqwh7ZC2wU0", "task": "91515", "legal_range": [96, 34, 44, 36, 102, 103]}
+{"vid": "v_Sa0GYhvxM", "task": "91515", "legal_range": [102, 34, 36, 96, 35, 44, 36, 102, 103, 104, 102, 103, 104, 34, 36, 96, 35, 44, 36, 102, 103, 103, 104, 102, 103, 103, 104]}
+{"vid": "N1T1uNmSnOk", "task": "91515", "legal_range": [96, 35, 36, 44, 96, 36, 36, 36, 102, 103, 103, 103, 104, 102, 103, 102, 102, 104, 96, 35, 36, 36, 44, 96, 36, 36, 36, 102, 103, 104, 102, 103, 104, 102, 102, 102, 104]}
+{"vid": "Cc6qyEtRtbo", "task": "91515", "legal_range": [96, 36, 102, 103, 104, 103, 102, 103, 104]}
+{"vid": "0m9PdgJuxh8", "task": "91515", "legal_range": [96, 35, 44, 34, 36, 36, 36, 34, 36, 34, 36, 102, 103, 103, 35]}
+{"vid": "WOXX4ZVVH4k", "task": "91515", "legal_range": [34, 96, 34, 44, 36, 44, 102, 103, 104, 102, 103, 104]}
+{"vid": "_z8SXJBlgS8", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 36, 102, 103, 104]}
+{"vid": "SssUVWl1JhY", "task": "91515", "legal_range": [96, 34, 36, 102, 103, 104, 102, 104]}
+{"vid": "up9hshktXTw", "task": "91515", "legal_range": [34, 36, 102, 103, 104]}
+{"vid": "4lBePHIXpms", "task": "91515", "legal_range": [96, 35, 96, 35, 34, 44, 36, 102, 103, 104, 103, 102, 104]}
+{"vid": "Cqh-KKlauMI", "task": "91515", "legal_range": [96, 34, 36, 35, 36, 35, 36, 34, 35, 36, 44, 36, 96, 36, 34, 36, 102, 103, 104, 36, 96, 34, 36, 35, 35, 34, 35, 36, 44, 36, 96, 36, 34, 102, 103, 104]}
+{"vid": "w63jquzndCU", "task": "91515", "legal_range": [96, 35, 34, 36, 44, 36, 102, 102, 103, 102, 102]}
+{"vid": "ohtt32MUo4w", "task": "91515", "legal_range": [34, 102, 103, 104]}
+{"vid": "dHAiCKnFCJM", "task": "91515", "legal_range": [96, 44, 34, 36, 36, 102, 103, 104]}
+{"vid": "VxiKzOfDQjI", "task": "91515", "legal_range": [96, 36, 102, 102, 103, 104, 102]}
+{"vid": "YC4o4EY2QUs", "task": "91515", "legal_range": [44, 36, 34, 36, 35, 44, 44, 36, 102, 103, 103, 104]}
+{"vid": "uqTGR1f2hEo", "task": "91515", "legal_range": [34, 36, 102, 103, 104, 102, 103, 34, 36, 102, 103, 104, 102, 103]}
+{"vid": "zrEkj2rgr14", "task": "91515", "legal_range": [96, 35, 44, 36, 102, 103]}
+{"vid": "k-nyu2R8nJs", "task": "91515", "legal_range": [96, 34, 36, 102, 103, 104]}
+{"vid": "Cj9ZDx0N3xQ", "task": "91515", "legal_range": [96, 34, 44, 36, 35, 102, 103, 104, 96, 34, 44, 36, 44, 36, 102, 103, 104]}
+{"vid": "a8_z1yqFWj0", "task": "91515", "legal_range": [96, 34, 44, 36, 36, 35, 36, 36, 102, 103]}
+{"vid": "cIrsp7xC0Ck", "task": "91515", "legal_range": [36, 34, 36, 96, 36, 36, 102, 103, 104]}
+{"vid": "-jpKcF65LPE", "task": "91515", "legal_range": [44, 96, 34, 36, 102, 103, 104]}
+{"vid": "1D2ODXSMis8", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 36, 102, 103, 104, 96, 35, 36, 44, 34, 36, 102, 103, 104]}
+{"vid": "Jnh8Lj0hDho", "task": "91515", "legal_range": [96, 34, 36, 44, 102, 103, 104, 103, 103, 96, 34, 36, 44, 102, 103, 104, 103, 103]}
+{"vid": "LuZXa72mEsg", "task": "91515", "legal_range": [96, 35, 36, 34, 36, 44, 36, 102, 103, 35, 36, 36, 44, 44, 36, 102, 103]}
+{"vid": "2iWUUcW08ac", "task": "91515", "legal_range": [96, 35, 34, 36, 44, 36, 35, 96, 102, 103, 104, 102, 103, 96, 35, 34, 36, 44, 36, 35, 36, 102, 103, 104, 102, 103]}
+{"vid": "KUDnfzXsB3w", "task": "91515", "legal_range": [34, 96, 36, 36, 102, 103, 104, 103, 103, 104, 102, 103, 104, 103, 104]}
+{"vid": "0yUBEPkikJE", "task": "91515", "legal_range": [36, 36, 36, 102, 103, 104]}
+{"vid": "9rTVuc26eFk", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 44, 102, 103, 104]}
+{"vid": "pI0e021xYwQ", "task": "91515", "legal_range": [96, 34, 44]}
+{"vid": "vBPzrIxF7jU", "task": "91515", "legal_range": [96, 35, 34, 44, 36, 36, 36, 36, 102, 103, 104]}
+{"vid": "peG8tlKjiw0", "task": "91515", "legal_range": [36, 36, 36, 102, 103, 104]}
+{"vid": "Yh3aI7eaPSk", "task": "91515", "legal_range": [102, 103, 104]}
+{"vid": "UUXEuLedYr8", "task": "91515", "legal_range": [36, 102, 103, 104]}
+{"vid": "Qf2E1pEiaXM", "task": "91515", "legal_range": [96, 35, 36, 44, 36, 44, 34, 36, 102, 103]}
+{"vid": "LBuL5UIRTMc", "task": "91515", "legal_range": [96, 36, 34, 36, 44, 36, 36, 96, 102, 103, 104]}
+{"vid": "jy8358mzTpA", "task": "91515", "legal_range": [34, 36, 36, 102, 103, 104]}
+{"vid": "sA1geL_qHSk", "task": "91515", "legal_range": [34, 44, 36, 96, 36, 36, 102, 103]}
+{"vid": "3AqajKGG9uE", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 102, 103, 104]}
+{"vid": "U81pt9cbAnA", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 102, 103, 104, 35, 104, 103, 96, 34, 36, 44, 103, 102, 103, 104, 104, 103, 35]}
+{"vid": "xnAqYuVwkjU", "task": "91515", "legal_range": [96, 35, 34, 44, 36, 36, 102, 103, 104]}
+{"vid": "lZ0zN7BiQl8", "task": "91515", "legal_range": [96, 35, 36, 34, 44, 36, 102, 103, 96, 35, 36, 34, 44, 36, 102, 103, 104]}
+{"vid": "AtBFvCwEPTc", "task": "91515", "legal_range": [44, 34, 36, 96, 35, 36, 36, 36, 36, 102, 103, 104, 102, 104]}
+{"vid": "ejq2ZsHgwFk", "task": "91515", "legal_range": [96, 35, 34, 36, 44, 36, 102, 103, 104]}
+{"vid": "vCU1Xwi6ego", "task": "91515", "legal_range": [96, 36, 36, 102, 103, 104]}
+{"vid": "rZfIQu9Q2Vg", "task": "91515", "legal_range": [36, 44, 36, 36, 34, 36, 102, 103, 104, 96, 36, 44, 36, 36, 36, 34, 36, 102, 103, 104]}
+{"vid": "pAlHOA0LMFc", "task": "91515", "legal_range": [96, 35, 34, 36, 102, 103, 104]}
+{"vid": "pQ3q_6fc_Zg", "task": "91515", "legal_range": [96, 35, 34, 44, 36, 36, 102, 103, 104, 102, 103, 104]}
+{"vid": "00EXA31EVO8", "task": "91515", "legal_range": [34, 35, 44, 96, 36, 102, 103, 104, 103, 96]}
+{"vid": "t7gBwQgUgvU", "task": "91515", "legal_range": [44, 36, 102, 103, 104]}
+{"vid": "JzSpcN2MAwY", "task": "91515", "legal_range": [96, 35, 36, 44, 34, 36, 34, 36, 36, 34, 36, 102, 104]}
+{"vid": "RC-4NSdtzV4", "task": "91515", "legal_range": [96, 44, 35, 36, 102, 103]}
+{"vid": "JR2RsEv-xjA", "task": "91515", "legal_range": [102, 103, 102, 103, 102, 104]}
+{"vid": "g8IK1bEaaUo", "task": "91515", "legal_range": [35, 36, 36, 36, 44, 34, 36, 102, 103, 103, 104, 102, 36]}
+{"vid": "tjIVUPZIv9U", "task": "91515", "legal_range": [96, 34, 36, 44, 36, 44, 36, 102, 103, 104, 102, 104, 102, 104, 103]}
+{"vid": "xpprJmz88m8", "task": "91515", "legal_range": [96, 44, 34, 36, 102, 103]}

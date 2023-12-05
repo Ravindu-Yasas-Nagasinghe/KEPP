@@ -1,0 +1,1 @@
+Select mode (train_minmax or train_out_n or validate or visualize or seq_view): 
