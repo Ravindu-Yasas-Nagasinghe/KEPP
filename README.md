@@ -37,7 +37,7 @@ cd {root}/dataset/NIV
 bash download.sh
 ```
 ## Train Step model
-1. First generate the training and testing dataset json files. You can modify the dataset, train steps, horizon(prediction length), json files savepath etc. in `args.py`
+1. First generate the training and testing dataset json files. You can modify the dataset, train steps, horizon(prediction length), json files savepath etc. in `args.py`. Set the `--json_path_train`, and `--json_path_val` in `args.py` as the dataset json file paths.
 ```shell
 cd {root}/step
 python loading_data.py 
@@ -54,7 +54,15 @@ Dimensions for different datasets are listed below:
 ```shell
 python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate
 ```
+The trained models will be saved in {root}/step/save_max.
+
 3. Generate first and last action predictions for train and test dataset.
+* Modify the checkpoint path(L329) as the evaluated model(in save_max) in inference.py.
+* Modify the `--json_path_val` , `--steps_path` ,  and `--step_model_output` arguments in `args.py` to generate step predicted dataset json file paths for train and test datasets seperately. Run following command for train and test datasets seperately by modifying as afore mentioned.
+
+```shell
+python inference.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate > output.txt
+```
 ## Generate paths from procedure knowlege graph
 ## Train plan model
 1. Modify the `json_path_train` and `json_path_val` arguments of `args.py` in plan model as the outputs generated from procedure knowlwdge graph for train and test data respectively.
