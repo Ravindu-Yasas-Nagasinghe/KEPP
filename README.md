@@ -64,6 +64,21 @@ The trained models will be saved in {root}/step/save_max.
 python inference.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate > output.txt
 ```
 ## Generate paths from procedure knowlege graph
+1. Train the graph for the relavent dataset (Not compulsory)
+```shell
+cd {root}/PKG
+python graph_creation.py
+Select mode "train_out_n" 
+```
+Trained graphs for CrossTask, COIN, NIV datasets are available on `cd {root}/PKG/graphs`.
+2. Obtain PKG conditions for train and test datasets.
+* Modify line 540 of `graph_creation.py` as the output of step model (`--step_model_output`).
+* Modify line 568 of `graph_creation.py` to set the output path for the generated procedure knowlwdge graph conditioned train and test dataset json files. 
+* run the following for both train and test dataset files generated from the step model by modifying `graph_creation.py` file as afore mentioned.
+```shell
+python graph_creation.py
+Select mode "validate"
+```
 ## Train plan model
 1. Modify the `json_path_train` and `json_path_val` arguments of `args.py` in plan model as the outputs generated from procedure knowlwdge graph for train and test data respectively.
 
