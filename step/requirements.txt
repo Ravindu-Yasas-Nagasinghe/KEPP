@@ -1,4 +1,0 @@
-einops
-tensorboard
-tensorboardX
-torch

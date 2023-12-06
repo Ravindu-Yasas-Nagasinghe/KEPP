@@ -115,23 +115,23 @@ def get_args(description='whl'):
                         help='training_steps_per_epoch')
     parser.add_argument('--root',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/datasets/PDPP/CrossTask_assets',
+                        default='/l/users/ravindu.nagasinghe/KEPP/datasets/CrossTask_assets',
                         help='root path of dataset crosstask')
     parser.add_argument('--json_path_train',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/train_data_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/data_lists/train_data_list.json',
                         help='path of the generated json file for train')
     parser.add_argument('--json_path_val',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/test_data_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/data_lists/test_data_list.json', #modify for train set /l/users/ravindu.nagasinghe/KEPP/step/data_lists/train_data_list.json
                         help='path of the generated json file for val')
     parser.add_argument('--steps_path',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/KEPP/step/test_list_steps.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/test_list_steps.json', # modify for train set '/l/users/ravindu.nagasinghe/KEPP/step/train_list_steps.json'
                         help='the path for predicted steps only')
     parser.add_argument('--step_model_output',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/test_data_step_model.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/test_data_step_model.json', # modify for train set '/l/users/ravindu.nagasinghe/KEPP/step/train_data_step_model.json'
                         help='the path for predicted steps final output')
 
     parser.add_argument('--epochs', default=120, type=int, metavar='N',
