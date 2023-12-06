@@ -39,6 +39,7 @@ bash download.sh
 ## Train Step model
 1. First generate the training and testing dataset json files. You can modify the dataset, train steps, horizon(prediction length), json files savepath etc. in `args.py`
 ```shell
+cd {root}/step
 python loading_data.py 
 ```
 Dimensions for different datasets are listed below:
@@ -56,6 +57,11 @@ python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 -
 3. Generate first and last action predictions for train and test dataset.
 ## Generate paths from procedure knowlege graph
 ## Train plan model
+1. Modify the `json_path_train` and `json_path_val` arguments of `args.py` in plan model as the outputs generated from procedure knowlwdge graph for train and test data respectively.
+```shell
+cd {root}/plan
+python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate
+```
 ## Inference
 
 For Metrics
