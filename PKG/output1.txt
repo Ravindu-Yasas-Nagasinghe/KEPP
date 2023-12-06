@@ -1,1 +1,0 @@
-Select mode (train_minmax or train_out_n or validate or visualize or seq_view): Enter max_path length and number of sequences required Enter start, end action numbers

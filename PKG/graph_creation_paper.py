@@ -198,14 +198,13 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
 
     if not graph.has_node(start_node) or not graph.has_node(end_node):
         return []  # Skip if start or end node is not in the graph
-
-    #all_paths = list(nx.all_simple_paths(graph, start_node, end_node, cutoff=max_path_length))
+    
     # Get all paths, including loops.
     all_paths = get_all_paths(graph, start_node, end_node,max_path_length)
     all_paths_with_weights = []
     weight_sequences = []
     for path in all_paths:
-          ############################remove if we want to generate sequences with varying lengths
+        if len(path)==max_path_length:
 
             #weight = sum(graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1))          #For method 0  (default weightage)
             #weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]
@@ -216,12 +215,14 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
             #weight_sequence = calculate_weight_sequence_method_two(graph, path)   #for method 2 
             #weight = sum(weight_sequence)
 
-        weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]      #for method 3
-        weight = np.prod(weight_sequence)
+            weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]      #for method 3
+            weight = np.prod(weight_sequence)
 
 
-        all_paths_with_weights.append((path, weight))
-        weight_sequences.append((path, weight_sequence, weight))  # Append the weight sequence
+            all_paths_with_weights.append((path, weight))
+            weight_sequences.append((path, weight_sequence, weight))  # Append the weight sequence
+        else:
+            continue
 
     sorted_paths = sorted(all_paths_with_weights, key=lambda x: x[1], reverse=True)
     weight_sequences_paths = sorted(weight_sequences, key=lambda x: x[2], reverse=True)
@@ -560,9 +561,7 @@ if __name__ == "__main__":
                 #testing_sequence.append(result_list)
         with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/333333333333333test_data_list_PKG2_final.json', 'w') as outfile:
             json.dump(data, outfile)
-        #print(video_sequences)
-        #print(testing_sequence)
-        #validate_graph(videos, testing_sequence)
+
     elif mode == 'visualize':
         with open(graph_save_path, 'rb') as graph_file:
             graph = pickle.load(graph_file)

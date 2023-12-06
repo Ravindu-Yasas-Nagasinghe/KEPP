@@ -206,7 +206,7 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
     all_paths_with_weights = []
     weight_sequences = []
     for path in all_paths:
-          ############################remove if we want to generate sequences with varying lengths
+        if len(path)==max_path_length:
 
             #weight = sum(graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1))          #For method 0  (default weightage)
             #weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]
@@ -217,12 +217,14 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
             #weight_sequence = calculate_weight_sequence_method_two(graph, path)   #for method 2 
             #weight = sum(weight_sequence)
 
-        weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]      #for method 3
-        weight = np.prod(weight_sequence)
+            weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]      #for method 3
+            weight = np.prod(weight_sequence)
 
 
-        all_paths_with_weights.append((path, weight))
-        weight_sequences.append((path, weight_sequence, weight))  # Append the weight sequence
+            all_paths_with_weights.append((path, weight))
+            weight_sequences.append((path, weight_sequence, weight))  # Append the weight sequence
+        else:
+            continue
 
     sorted_paths = sorted(all_paths_with_weights, key=lambda x: x[1], reverse=True)
     weight_sequences_paths = sorted(weight_sequences, key=lambda x: x[2], reverse=True)
@@ -423,18 +425,6 @@ def visualize_image(direct_connections):
         y = random.randint(50, 950)  # Random Y-coordinate between 50 and 550
         node_positions[node] = (x, y)
 
-        #i=i+1
-
-        #if i % 10 == 0:  # Check if 10 nodes have been processed
-        #    y += 100  # Increment x by 100 after every 10 nodes
-        #x += 100  # Increase y after every loop run
-    '''
-    for i in range(105):
-        # Assuming you want x and y coordinates to increment by 100 for each entry
-        x = ((i) // 11) * 100  # 5 entries per row, increment x every 5 entries
-        y = ((i) % 11) * 100   # 5 entries per row, increment y within each row
-        node_positions[i] = (x, y)
-    '''
     # Create a blank image
     image_width = 1000
     image_height = 1000
@@ -456,13 +446,6 @@ def visualize_image(direct_connections):
         from_pos = node_positions[from_node]
         to_pos = node_positions[to_node]
 
-        # Draw the edge
-        #cv2.line(image, from_pos, to_pos, (0, 0, 0), 2)  # Black line
-        
-
-        #control1, control2 = calculate_control_points(from_pos, to_pos)
-        #cv2.polylines(image, [np.array([from_pos, control1, control2, to_pos], np.int32)], False, (255, 0, 0), 1)
-
         # Draw the edge from "From Node" to "To Node"
         is_reverse = from_pos[0] >= to_pos[0]
 
@@ -471,9 +454,6 @@ def visualize_image(direct_connections):
             cv2.arrowedLine(image, from_pos, to_pos, (0, 150, 0), 2, tipLength=0.01)  # Arrowed line
         else:
             cv2.arrowedLine(image, from_pos, to_pos, (255, 0, 0), 2, tipLength=0.02, shift=0, line_type=cv2.LINE_8)  # Arrowed line for reverse direction
-
-        # Draw the edge from "To Node" to "From Node" with a different color (e.g., blue)
-        #cv2.arrowedLine(image, to_pos, from_pos, (0, 0, 255), 2, tipLength=0.1)  # Arrowed line (blue)
 
         # Calculate text position for weight
         text_x = (from_pos[0] + to_pos[0]) // 2
