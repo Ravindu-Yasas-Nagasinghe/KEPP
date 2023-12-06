@@ -33,12 +33,10 @@ class PlanningDataset(Dataset):
             if is_val:
                 cross_task_data_name = args.json_path_val
                 print('cross task data name val', cross_task_data_name)
-                    # "/data1/wanghanlin/diffusion_planning/jsons_crosstask105/sliding_window_cross_task_data_{}_{}_new_task_id_73_with_event_class.json".format(is_val, self.max_traj_len)
+                    
             else:
                 cross_task_data_name = args.json_path_train
                 print('cross task data name train', cross_task_data_name)
-                    # "/data1/wanghanlin/diffusion_planning/jsons_crosstask105/sliding_window_cross_task_data_{}_{}_new_task_id_73.json".format(
-                    # is_val, self.max_traj_len)
 
             if os.path.exists(cross_task_data_name):
                 with open(cross_task_data_name, 'r') as f:
@@ -49,12 +47,10 @@ class PlanningDataset(Dataset):
         elif args.dataset == 'coin':
             if is_val:
                 coin_data_name = args.json_path_val
-                    # "/data1/wanghanlin/diffusion_planning/jsons_coin/sliding_window_cross_task_data_{}_{}_new_task_id_73_with_event_class.json".format(
-                    # is_val, self.max_traj_len)
+
             else:
                 coin_data_name = args.json_path_train
-                    # "/data1/wanghanlin/diffusion_planning/jsons_coin/sliding_window_cross_task_data_{}_{}_new_task_id_73.json".format(
-                    # is_val, self.max_traj_len)
+
             if os.path.exists(coin_data_name):
                 with open(coin_data_name, 'r') as f:
                     self.json_data = json.load(f)
@@ -64,12 +60,10 @@ class PlanningDataset(Dataset):
         elif args.dataset == 'NIV':
             if is_val:
                 niv_data_name = args.json_path_val
-                    # "/data1/wanghanlin/diffusion_planning/jsons_niv/sliding_window_cross_task_data_{}_{}_new_task_id_73_with_event_class.json".format(
-                    # is_val, self.max_traj_len)
+
             else:
                 niv_data_name = args.json_path_train
-                    # "/data1/wanghanlin/diffusion_planning/jsons_niv/sliding_window_cross_task_data_{}_{}_new_task_id_73.json".format(
-                    # is_val, self.max_traj_len)
+
             if os.path.exists(niv_data_name):
                 with open(niv_data_name, 'r') as f:
                     self.json_data = json.load(f)
@@ -123,10 +117,10 @@ class PlanningDataset(Dataset):
         #image_end = images[end_idx - 2:end_idx + M - 2]
         
         if end_idx >= len(images)-1:
-            #print('if : ' , end_idx ,len(images) )
+
             image_end = images[end_idx - 2:end_idx + M - 2]
         else:
-            #print('else : ' , end_idx ,len(images) )
+
             image_end = images[end_idx - 1:end_idx + M - 1]     #########################Modified to load data similar to other papers #####################################
         
         image_end_cat = image_end[0]
@@ -139,9 +133,7 @@ class PlanningDataset(Dataset):
         folder_id = self.vid_names[index]
 
         graph_path = folder_id['graph_action_path']
-        LLM_path = folder_id['graph_action_path']   ############################################################## Modify this into LLM_action_path once LLM trainng is done#############################
-        if len(LLM_path)!=2:
-            print('FoundErrrrrrr', LLM_path)
+        LLM_path = folder_id['graph_action_path']   ############################################################## Modify this into LLM_action_path if LLM_actions_are_available#############################
 
 
         if self.args.dataset == 'crosstask':
@@ -159,9 +151,6 @@ class PlanningDataset(Dataset):
         # Get the shape of each array
         shapes = [arr.shape for arr in images]
 
-        # Print the shapes
-        #for shape in shapes:
-        #    print(shape)
         frames = torch.tensor(np.array(images))
         labels_tensor = torch.tensor(labels_matrix, dtype=torch.long)
 

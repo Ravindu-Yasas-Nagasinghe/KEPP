@@ -19,7 +19,7 @@ from utils.args import get_args
 from action_dictionary import action_dictionary
 from utils.one_hot import LLMLabelOnehot
 from utils.one_hot import PKGLabelOnehot
-#from action_dict_coin import dictionary_actions
+
 
 def map_numbers_to_values(input_list, mapping_dict):
     result = []
@@ -99,77 +99,43 @@ def test(vid_names, val_loader, model, args):
         i = i+1
       
     for i_batch, sample_batch in enumerate(val_loader):
-        file_path_action_list = "/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/save_max/output_list.txt"
         # compute output
         global_img_tensors = sample_batch[0].cuda().contiguous()
-        #print('image tensor' , global_img_tensors)
-        #print('image tensor size' , global_img_tensors.shape)
+
         video_label = sample_batch[1].cuda()
         LLM_label = sample_batch[2].cuda()
         PKG_label = sample_batch[3].cuda()
         batch_size_current, T = video_label.size()
-        print('batch size', batch_size_current)
-        print('T =', T)
+
         llm_label_onehot = LLMLabelOnehot(batch_size_current, T, args.num_seq_LLM,[2/3, 1/3])
         pkg_label_onehot = PKGLabelOnehot(batch_size_current, T, args.num_seq_PKG,[2/3, 1/3])
 
-        #task_class = sample_batch[2].view(-1).cuda()
-        #print('video label', video_label)
-        #print('shape video label' , video_label.shape)
-        #print('task class',  task_class)
-        #print('shape task_class' , task_class.shape)
         cond = {}
 
         with torch.no_grad():
-            cond[0] = global_img_tensors[:, 0, :].float()  # starting frames . My opininon
-            cond[T - 1] = global_img_tensors[:, -1, :].float() #ending frames . My opininon
+            cond[0] = global_img_tensors[:, 0, :].float() 
+            cond[T - 1] = global_img_tensors[:, -1, :].float() 
             
             LLM_label_onehot = llm_label_onehot(LLM_label)
 
             PKG_label_onehot = pkg_label_onehot(PKG_label)
             
-            '''
-            LLM_label_onehot = torch.zeros((LLM_label.size(0), args.class_dim_llama))
-            # [bs*T, ac_dim]
-            ind = torch.arange(0, len(LLM_label))
-            LLM_label_onehot[ind, LLM_label] = 1.
-            LLM_label_onehot = LLM_label_onehot.reshape(batch_size_current, T, -1).cuda()
-            #img_tensors[:, :, args.class_dim_graph : args.class_dim_graph + args.class_dim_llama] = LLM_label_onehot
 
-            PKG_label_onehot = torch.zeros((PKG_label.size(0), args.class_dim_graph))
-            # [bs*T, ac_dim]
-            ind = torch.arange(0, len(PKG_label))
-            PKG_label_onehot[ind, PKG_label] = 1.
-            PKG_label_onehot = PKG_label_onehot.reshape(batch_size_current, T, -1).cuda()
-            #img_tensors[:, :, : args.class_dim_graph] = PKG_label_onehot
-            '''
-            
             cond['LLM_action_path'] = LLM_label_onehot
             cond['PKG_action_path'] = PKG_label_onehot
-            #print('cond 0', cond[0].shape)
-            #print('cond T-1', cond[T-1].shape)
+
             video_label_reshaped = video_label.view(-1)
-            print('video label reshaped:' ,video_label_reshaped.shape)
+
             output = model(cond, if_jump=True)
 
             actions_pred = output.contiguous()
             actions_pred = actions_pred[:, :, args.class_dim_graph + args.class_dim_llama:args.class_dim_graph + args.class_dim_llama + args.action_dim].contiguous()
-            print('shape actions pred:', actions_pred.shape) #dim  = [256, 3, 105]
-            argmax_index = torch.argmax(actions_pred, dim = -1) # To find the predicted action numbers for all the action steps iin the batch. Dimension = [128, 3]. 
-            #Predicted action number is the maximum in the action dimension. There are 105 possible action across 18 classes in the CrossTask dataset.
-            index_list.append(argmax_index)
-            print('index list length:', len(index_list))
-            print('argmax actions pred length:', argmax_index.shape)  #dim  = [128, 3]
-            #print('argmax actions pred:', argmax_index)
-            tensor_list_action_sequence = argmax_index.tolist()
-            #print(tensor_list_action_sequence)
-            output_list_action_sequence = map_numbers_to_values(tensor_list_action_sequence, action_dictionary)
-            #print(output_list_action_sequence)
-            print('length action sequence', len(output_list_action_sequence))  # length = 4583
 
-            with open(file_path_action_list, "a") as file:
-                for item in output_list_action_sequence:
-                    file.write(str(item)+"\n")
+            argmax_index = torch.argmax(actions_pred, dim = -1) 
+            index_list.append(argmax_index)
+
+            tensor_list_action_sequence = argmax_index.tolist()
+            output_list_action_sequence = map_numbers_to_values(tensor_list_action_sequence, action_dictionary)
 
             
             index_differing = i_batch
@@ -184,7 +150,6 @@ def test(vid_names, val_loader, model, args):
                         'predicted_list': argmax_index[i].tolist(),
                         'predicted_sequence': output_list_action_sequence[i],
                         'vid': vid_names[index_vid_sim]['vid'],
-                        'task':vid_names[index_vid_sim]['task_id'],
                         'legal_range':vid_names[index_vid_sim]['legal_range'],
                         'PKG_sequence': vid_names[index_vid_sim]['graph_action_path']
                     }
@@ -200,7 +165,6 @@ def test(vid_names, val_loader, model, args):
                         'predicted_list': argmax_index[i].tolist(),
                         'predicted_sequence': output_list_action_sequence[i],
                         'vid': vid_names[index_vid]['vid'],
-                        'task':vid_names[index_vid]['task_id'],
                         'legal_range':vid_names[index_vid]['legal_range'],
                         'PKG_sequence': vid_names[index_vid]['graph_action_path']
                     }
@@ -214,7 +178,6 @@ def test(vid_names, val_loader, model, args):
                         'predicted_list': argmax_index[i].tolist(),
                         'predicted_sequence': output_list_action_sequence[i],
                         'vid': vid_names[index_vid_sim]['vid'],
-                        'task':vid_names[index_vid_sim]['task_id'],
                         'legal_range':vid_names[index_vid_sim]['legal_range'],
                         'PKG_sequence': vid_names[index_vid_sim]['graph_action_path']
                     }
@@ -233,20 +196,20 @@ def test(vid_names, val_loader, model, args):
     for index, sublist_data in differing_sublists.items():
         print(f"Index: {index}", '||', f"i_batch: {sublist_data['i_batch']}", '||',  f"Video Label List: {sublist_data['video_label_list']}", '||',  
               f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||',  f"PKG_sequence: {sublist_data['PKG_sequence']}", '||', f"Vid: {sublist_data['vid']}", 
-              '||', f"task {sublist_data['task']}", '||', f"Legal range: {sublist_data['legal_range']}")
+              '||', f"Legal range: {sublist_data['legal_range']}")
         print()
     print('Length of the failure cases : ' , len(differing_sublists) )
     print('similar.............................................................................................')
     for index, sublist_data in similar_sublists.items():
         print(f"Index: {index}", '||', f"i_batch: {sublist_data['i_batch']}", '||',  f"Video Label List: {sublist_data['video_label_list']}", '||',  
               f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||',  f"PKG_sequence: {sublist_data['PKG_sequence']}", '||', f"Vid: {sublist_data['vid']}", 
-              '||', f"task {sublist_data['task']}", '||', f"Legal range: {sublist_data['legal_range']}")
+              '||', f"Legal range: {sublist_data['legal_range']}")
         print()
     print('All lists.............................................................................................')
     for index, sublist_data in all_sublists.items():
         print(f"Index: {index}", '||', f"i_batch: {sublist_data['i_batch']}", '||',  f"Video Label List: {sublist_data['video_label_list']}", '||',  
               f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||',  f"PKG_sequence: {sublist_data['PKG_sequence']}", '||', f"Vid: {sublist_data['vid']}", 
-              '||', f"task {sublist_data['task']}", '||', f"Legal range: {sublist_data['legal_range']}")
+              '||', f"Legal range: {sublist_data['legal_range']}")
         print()
     return torch.tensor(acc_top1.avg), \
            torch.tensor(trajectory_success_rate_meter.avg), \
@@ -316,26 +279,8 @@ def main_worker(gpu, ngpus_per_node, args):
     )
     
     vid_names = test_dataset.vid_names
-    '''
-    vid_name_path  = '/home/ravindu.nagasinghe/GithubCodes/PDPP/PDPP/vid_names.txt'
-    # Initialize an empty list to store the data
-    vid_names = []
 
-    # Open the file for reading
-    with open(vid_name_path, 'r') as file:
 
-        
-            # Convert the read string into a Python list (assuming the file contains a list)
-        try:
-            vid_names = json.load(file)
-        except json.JSONDecodeError:
-            print("Error decoding JSON data from the file.")
-    '''
-
-    #print('################################################')
-    #print(vid_names)
-    #print('################################################')
-    
     if args.distributed:
         test_sampler = torch.utils.data.distributed.DistributedSampler(test_dataset)
         test_sampler.shuffle = False
@@ -391,7 +336,7 @@ def main_worker(gpu, ngpus_per_node, args):
         model.ema_model = torch.nn.DataParallel(model.ema_model).cuda()
 
     if args.resume:
-        checkpoint_path = "/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/save_max/epoch0030_0.pth.tar"
+        checkpoint_path = ""
         if checkpoint_path:
             print("=> loading checkpoint '{}'".format(checkpoint_path), args)
             checkpoint = torch.load(checkpoint_path, map_location='cuda:{}'.format(args.rank))

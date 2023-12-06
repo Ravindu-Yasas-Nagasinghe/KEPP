@@ -122,10 +122,6 @@ def main_worker(gpu, ngpus_per_node, args):
         dim=256,
         dim_mults=(1, 2, 4), )
 
-    # for param in temporal_model.named_parameters():
-    #     if 'time_mlp' not in param[0]:
-    #         param[1].requires_grad = False
-
     diffusion_model = diffusion.GaussianDiffusion(
         temporal_model, args.horizon, args.observation_dim, args.action_dim, args.class_dim_llama, args.class_dim_graph, args.n_diffusion_steps,
         loss_type='Weighted_MSE', clip_denoised=True, )
@@ -188,10 +184,7 @@ def main_worker(gpu, ngpus_per_node, args):
             
 
         else:
-            # log("=> loading checkpoint '{}' to initialize".format(checkpoint_path), args)
-            # checkpoint = torch.load(checkpoint_path, map_location='cuda:{}'.format(args.rank))
-            # model.model.load_state_dict(checkpoint["model"], strict=False)
-            # model.ema_model.load_state_dict(checkpoint["ema"], strict=False)
+
             time_pre = time.strftime("%Y%m%d%H%M%S", time.localtime())
             logname = args.log_root + '_' + time_pre + '_' + args.dataset
             tb_logdir = os.path.join(args.log_root, logname)

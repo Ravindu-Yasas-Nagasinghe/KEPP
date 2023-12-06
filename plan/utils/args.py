@@ -89,7 +89,7 @@ def get_args(description='whl'):
                         help='')
     parser.add_argument('--horizon',
                         type=int,
-                        default=4, #test with 6 for better view of failure cases
+                        default=4,
                         help='')
     parser.add_argument('--dataset',
                         type=str,
@@ -99,7 +99,6 @@ def get_args(description='whl'):
     parser.add_argument('--action_dim',
                         type=int,
                         default=105,
-                        #default=778,
                         help='')
     parser.add_argument('--observation_dim',
                         type=int,
@@ -131,16 +130,15 @@ def get_args(description='whl'):
                         help='training_steps_per_epoch')
     parser.add_argument('--root',
                         type=str,
-                        #default='/l/users/ravindu.nagasinghe/datasets/PDPP/COIN',
-                        default='/l/users/ravindu.nagasinghe/datasets/PDPP/CrossTask_assets',
+                        default='/l/users/ravindu.nagasinghe/KEPP/datasets/PDPP/CrossTask_assets',
                         help='root path of dataset crosstask')
     parser.add_argument('--json_path_train',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/outputs/train_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/plan/data_lists/train_list.json',
                         help='path of the generated json file for train')
     parser.add_argument('--json_path_val',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/outputs/test_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/plan/data_lists/test_list.json',
                         help='path of the generated json file for val')
 
     parser.add_argument('--epochs', default=120, type=int, metavar='N',

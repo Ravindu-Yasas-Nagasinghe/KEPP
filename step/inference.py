@@ -326,7 +326,7 @@ def main_worker(gpu, ngpus_per_node, args):
         model.ema_model = torch.nn.DataParallel(model.ema_model).cuda()
 
     if args.resume:
-        checkpoint_path = "/l/users/ravindu.nagasinghe/New_STEP/PDPP/save_max/epoch0035_0.pth.tar"
+        checkpoint_path = ""
         if checkpoint_path:
             print("=> loading checkpoint '{}'".format(checkpoint_path), args)
             checkpoint = torch.load(checkpoint_path, map_location='cuda:{}'.format(args.rank))
