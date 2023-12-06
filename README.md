@@ -37,6 +37,23 @@ cd {root}/dataset/NIV
 bash download.sh
 ```
 ## Train Step model
+1. First generate the training and testing dataset json files. You can modify the dataset, train steps, horizon(prediction length), json files savepath etc. in `args.py`
+```shell
+python loading_data.py 
+```
+Dimensions for different datasets are listed below:
+
+| Dataset	| observation_dim |	action_dim	| class_dim |
+|----| ----| ----| ----| 
+| CrossTask	| 1536(how) 9600(base) | 105	| 18 | 
+| COIN 	| 1536	| 778	| 180 | 
+| NIV	| 1536	| 48	| 5 | 
+
+2. Train the step model
+```shell
+python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate
+```
+3. Generate first and last action predictions for train and test dataset.
 ## Generate paths from procedure knowlege graph
 ## Train plan model
 ## Inference
