@@ -71,6 +71,7 @@ python graph_creation.py
 Select mode "train_out_n" 
 ```
 Trained graphs for CrossTask, COIN, NIV datasets are available on `cd {root}/PKG/graphs`.
+
 2. Obtain PKG conditions for train and test datasets.
 * Modify line 540 of `graph_creation.py` as the output of step model (`--step_model_output`).
 * Modify line 568 of `graph_creation.py` to set the output path for the generated procedure knowlwdge graph conditioned train and test dataset json files. 
