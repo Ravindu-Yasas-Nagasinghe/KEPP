@@ -65,7 +65,7 @@ python inference.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_
 ```
 ## Generate paths from procedure knowlege graph
 ## Train plan model
-1. Modify the `json_path_train` and `json_path_val` arguments of `args.py` in plan model as the outputs generated from procedure knowlwdge graph for train and test data respectively.
+1. Modify the `json_path_train` and `json_path_val` arguments of `args.py` in plan model as the outputs generated from procedure knowlwdge graph for train and test data respectively. Modify the parameter `--num_seq_PKG` in `args.py` to match the generated amount of PKG conditions. (Modify `--num_seq_LLM` to the same number as well if LLM conditions are not used seperately.)
 ```shell
 cd {root}/plan
 python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate
@@ -73,7 +73,7 @@ python main_distributed.py --multiprocessing-distributed --num_thread_reader=8 -
 ## Inference
 
 For Metrics
-​Modify the max checkpoint path(L394) as the evaluated model in inference.py and run:
+​Modify the max checkpoint path(L339) as the evaluated model in inference.py and run:
 ```shell
 python inference.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate > output.txt
 ```
