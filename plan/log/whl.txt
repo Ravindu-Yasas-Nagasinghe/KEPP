@@ -1,0 +1,217 @@
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0005.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0005.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/final/PDPP/checkpoint/whl/epoch0005.pth.tar' (epoch 5)0
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+=> no checkpoint found at 'True'
+=> no checkpoint found at 'True'
+Starting training loop for rank: 2, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+Starting training loop for rank: 3, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/MAIN_codes/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+Starting training loop for rank: 1, total batch size: 256
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loading checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/l/users/ravindu.nagasinghe/T4How/multiple_plans/PDPP/checkpoint/whl/epoch0004.pth.tar' (epoch 4)0
+Starting training loop for rank: 0, total batch size: 256
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 1, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
