@@ -40,3 +40,15 @@ bash download.sh
 ## Generate paths from procedure knowlege graph
 ## Train plan model
 ## Inference
+
+For Metrics
+​Modify the max checkpoint path(L394) as the evaluated model in inference.py and run:
+```shell
+python inference.py --multiprocessing-distributed --num_thread_reader=8 --cudnn_benchmark=1 --pin_memory --checkpoint_dir=whl --resume --batch_size=256 --batch_size_val=256 --evaluate > output.txt
+```
+Results of given checkpoints:
+
+SR	mAcc	MIoU
+Crosstask_T=4	21.02	56.08	64.15
+COIN_T=4	 15.63	39.53	53.27
+NIV_T=4	22.71	41.59	91.49
