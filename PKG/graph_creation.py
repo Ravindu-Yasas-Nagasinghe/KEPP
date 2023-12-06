@@ -70,20 +70,6 @@ def train_graph_output_edge_normalize(video_sequences):
     logging.basicConfig(filename='training.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
     logging.info("Graph training completed.")
 
-    # Step 3: Validate the function with input and output nodes
-    start_node = 2
-    end_node = 4
-    n = 3  #numbere of paths required
-    top_paths = find_top_n_paths(graph, start_node, end_node, n, 6)
-
-
-
-    print(f"Highest weight paths from {start_node} to {end_node} are:")
-    for i, (path, weight) in enumerate(top_paths, 1):
-        print(f"[Path {i}] Weight: {weight}, Path: {path}")
-    print(top_paths[0])
-
-
 def train_graph_min_max_normalize(video_sequences):
     # Step 1: Load the graph if it exists; otherwise, create a new graph
     if os.path.exists(graph_save_path):
@@ -287,10 +273,10 @@ def validate_graph_final(testing_sequences, graph_):
     path_Set.append([item[0] for item in paths])
 
     if (len(path_Set[0])==0):
-        path_Set[0] = [[start,start, end, end]]    ###zero pad if path does not exist in knowledge graph
+        path_Set[0] = [[start,start, end, end], [start, start, end, end]]    ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     if (len(path_Set[0])==1):
-        path_Set[0] = [path_Set[0], path_Set[0]]  ###zero pad if path does not exist in knowledge graph
+        path_Set[0] = [path_Set[0][0], path_Set[0][0]]  ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     return path_Set
 

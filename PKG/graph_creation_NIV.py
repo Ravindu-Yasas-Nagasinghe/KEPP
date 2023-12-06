@@ -25,10 +25,6 @@ def get_all_paths(graph, start_node, end_node, cutoff):
     for neighbor in graph.neighbors(node):
       #if neighbor not in path:
       _dfs(neighbor, path + [node], cutoff)
-    
-    # Add a condition to output paths that loop back to the end node.
-    #if node == end_node and path[-1] == end_node:
-    #  paths.append(path + [node])
 
   _dfs(start_node, [], cutoff)
   return paths
@@ -73,19 +69,6 @@ def train_graph_output_edge_normalize(video_sequences):
     logging.basicConfig(filename='training.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
     logging.info("Graph training completed.")
 
-    # Step 3: Validate the function with input and output nodes
-    start_node = 2
-    end_node = 4
-    n = 3  #numbere of paths required
-    top_paths = find_top_n_paths(graph, start_node, end_node, n, 6)
-
-
-
-    print(f"Highest weight paths from {start_node} to {end_node} are:")
-    for i, (path, weight) in enumerate(top_paths, 1):
-        print(f"[Path {i}] Weight: {weight}, Path: {path}")
-    print(top_paths[0])
-
 
 def train_graph_min_max_normalize(video_sequences):
     # Step 1: Load the graph if it exists; otherwise, create a new graph
@@ -126,19 +109,6 @@ def train_graph_min_max_normalize(video_sequences):
         # Step 4: Add logging
     logging.basicConfig(filename='training.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
     logging.info("Graph training completed.")
-
-    # Step 3: Validate the function with input and output nodes
-    start_node = 2
-    end_node = 4
-    n = 3  #numbere of paths required
-    top_paths = find_top_n_paths(graph, start_node, end_node, n, 4)
-
-
-
-    print(f"Highest weight paths from {start_node} to {end_node} are:")
-    for i, (path, weight) in enumerate(top_paths, 1):
-        print(f"[Path {i}] Weight: {weight}, Path: {path}")
-    print(top_paths[0])
 
 
 def calculate_weight_sequence_method_one(graph, path):
@@ -206,7 +176,7 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
     all_paths_with_weights = []
     weight_sequences = []
     for path in all_paths:
-        if len(path)==max_path_length:    ############################remove if we want to generate sequences with varying lengths
+        if len(path)==max_path_length:   
 
             #weight = sum(graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1))          #For method 0  (default weightage)
             #weight_sequence = [graph[path[i]][path[i + 1]]['weight'] for i in range(len(path) - 1)]
@@ -298,20 +268,17 @@ def validate_graph_final(testing_sequences, graph_):
     
     start = testing_sequences[0]
     end = testing_sequences[1]
-    paths = find_top_n_paths(graph_, start, end,n=2, max_path_length=3)
+    paths = find_top_n_paths(graph_, start, end,n=2, max_path_length=4)
         #if paths:
     path_Set.append([item[0] for item in paths])
     
     if (len(path_Set[0])==0):
-        path_Set[0] = [[start,start,end], [start, end, end]]  ###zero pad if path does not exist in knowledge graph
+        path_Set[0] = [[start,start,end, end], [start, start, end, end]]  ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     if (len(path_Set[0])==1):
         path_Set[0] = [path_Set[0][0], path_Set[0][0]]  ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     
-    #if (len(path_Set[0])==0):
-    #    path_Set[0] = [[start,start,start, end, end, end]]    ###zero pad if path does not exist in knowledge graph
-    #    print(path_Set)
     return path_Set
 
 def sequence_viewing(testing_sequences, max_path_length,n):
@@ -417,26 +384,13 @@ def visualize_image(direct_connections):
 
 # Create a dictionary to store node positions with random coordinates
     node_positions = {}
-    #i = 0
-    #x = 100
-    #y = 100
+
     for node in all_nodes:
         x = random.randint(50, 950)  # Random X-coordinate between 50 and 750
         y = random.randint(50, 950)  # Random Y-coordinate between 50 and 550
         node_positions[node] = (x, y)
 
-        #i=i+1
 
-        #if i % 10 == 0:  # Check if 10 nodes have been processed
-        #    y += 100  # Increment x by 100 after every 10 nodes
-        #x += 100  # Increase y after every loop run
-    '''
-    for i in range(105):
-        # Assuming you want x and y coordinates to increment by 100 for each entry
-        x = ((i) // 11) * 100  # 5 entries per row, increment x every 5 entries
-        y = ((i) % 11) * 100   # 5 entries per row, increment y within each row
-        node_positions[i] = (x, y)
-    '''
     # Create a blank image
     image_width = 1000
     image_height = 1000
@@ -458,24 +412,12 @@ def visualize_image(direct_connections):
         from_pos = node_positions[from_node]
         to_pos = node_positions[to_node]
 
-        # Draw the edge
-        #cv2.line(image, from_pos, to_pos, (0, 0, 0), 2)  # Black line
-        
-
-        #control1, control2 = calculate_control_points(from_pos, to_pos)
-        #cv2.polylines(image, [np.array([from_pos, control1, control2, to_pos], np.int32)], False, (255, 0, 0), 1)
-
-        # Draw the edge from "From Node" to "To Node"
         is_reverse = from_pos[0] >= to_pos[0]
 
-        #cv2.arrowedLine(image, from_pos, to_pos, (255, 0, 0), 2, tipLength=0.01)  # Arrowed line
         if not is_reverse:
             cv2.arrowedLine(image, from_pos, to_pos, (0, 150, 0), 2, tipLength=0.01)  # Arrowed line
         else:
             cv2.arrowedLine(image, from_pos, to_pos, (255, 0, 0), 2, tipLength=0.02, shift=0, line_type=cv2.LINE_8)  # Arrowed line for reverse direction
-
-        # Draw the edge from "To Node" to "From Node" with a different color (e.g., blue)
-        #cv2.arrowedLine(image, to_pos, from_pos, (0, 0, 255), 2, tipLength=0.1)  # Arrowed line (blue)
 
         # Calculate text position for weight
         text_x = (from_pos[0] + to_pos[0]) // 2
@@ -506,7 +448,7 @@ if __name__ == "__main__":
 
     mode = input("Select mode (train_minmax or train_out_n or validate or visualize or seq_view): ").lower()
     if mode == 'train_minmax':
-        with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/data/training_action_list.txt', 'r') as file:
+        with open('', 'r') as file:
             for line in file:
                 # Parse each line as a JSON object
                 sequence_data = json.loads(line)
@@ -520,10 +462,7 @@ if __name__ == "__main__":
         train_graph_min_max_normalize(video_sequences)
 
     elif mode == 'train_out_n':
-        #with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/data/training_action_list.txt', 'r') as file:
-        #with open('/l/users/ravindu.nagasinghe/MAIN_codes/CrossTask_base/temp/PDPP/training_action_list_Cross_base.txt', 'r') as file:
-        #with open('/l/users/ravindu.nagasinghe/MAIN_codes/NIV/step/PDPP/outputs/testing_action_list.txt', 'r') as file:
-        with open('/home/ravindu.nagasinghe/GithubCodes/COIN/step/PDPP/train_action_list_coin.txt', 'r') as file:
+        with open('', 'r') as file:
             for line in file:
                 # Parse each line as a JSON object
                 sequence_data = json.loads(line)
@@ -539,7 +478,7 @@ if __name__ == "__main__":
         testing_sequence =[]
         videos=[]
         vids =[]
-        with open('/l/users/ravindu.nagasinghe/MAIN_codes/NIV/step/PDPP/outputs/test_data_list_final.json', 'r') as file:
+        with open('', 'r') as file:
             data = json.load(file)
             with open(graph_save_path, 'rb') as graph_file:
                 graph_ = pickle.load(graph_file)
@@ -548,13 +487,11 @@ if __name__ == "__main__":
                 sequence_data = item['id']
                 legal_range = sequence_data['legal_range']
                 pred_list = sequence_data['pred_list']
-                # Store only the legal_range part
-                #video_sequences[vid] = legal_range
+
                 videos.append(legal_range)
                 #vids.append(vid)
 
-                #first_digit = legal_range[0][-1]
-                #last_digit = legal_range[-1][-1]
+
                 first_digit = pred_list[0]
                 last_digit = pred_list[-1]
 
@@ -566,11 +503,9 @@ if __name__ == "__main__":
                 sequence_data['graph_action_path'] = path[0]  #####for n>1
 
                 #testing_sequence.append(result_list)
-        with open('/l/users/ravindu.nagasinghe/MAIN_codes/NIV/step/PDPP/outputs/test_data_list_final_PKG.json', 'w') as outfile:
+        with open('', 'w') as outfile:
             json.dump(data, outfile)
-        #print(video_sequences)
-        #print(testing_sequence)
-        #validate_graph(videos, testing_sequence)
+
     elif mode == 'visualize':
         with open(graph_save_path, 'rb') as graph_file:
             graph = pickle.load(graph_file)
