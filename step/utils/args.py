@@ -89,7 +89,7 @@ def get_args(description='whl'):
                         help='')
     parser.add_argument('--horizon',
                         type=int,
-                        default=4, #test with 6 for better view of failure cases
+                        default=4, 
                         help='')
     parser.add_argument('--dataset',
                         type=str,
@@ -105,7 +105,6 @@ def get_args(description='whl'):
                         type=int,
                         default=1536,
                         help='')
-    #parser.add_argument('--class_dim',type=int,default=18, ####### modify according to the dataset.help='')
     parser.add_argument('--n_diffusion_steps',
                         type=int,
                         default=200,
@@ -120,13 +119,20 @@ def get_args(description='whl'):
                         help='root path of dataset crosstask')
     parser.add_argument('--json_path_train',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/New_STEP/PDPP/outputs/train_data_list.json',
-                        #default='/l/users/ravindu.nagasinghe/datasets/PDPP/COIN/train_data_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/train_data_list.json',
                         help='path of the generated json file for train')
     parser.add_argument('--json_path_val',
                         type=str,
-                        default='/l/users/ravindu.nagasinghe/New_STEP/PDPP/outputs/test_data_list.json',
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/test_data_list.json',
                         help='path of the generated json file for val')
+    parser.add_argument('--steps_path',
+                        type=str,
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/test_list_steps.json',
+                        help='the path for predicted steps only')
+    parser.add_argument('--step_model_output',
+                        type=str,
+                        default='/l/users/ravindu.nagasinghe/KEPP/step/outputs/test_data_step_model.json',
+                        help='the path for predicted steps final output')
 
     parser.add_argument('--epochs', default=120, type=int, metavar='N',
                         help='number of total epochs to run')

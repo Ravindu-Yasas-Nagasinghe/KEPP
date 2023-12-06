@@ -11,14 +11,12 @@ import torch.multiprocessing as mp
 import torch.utils.data
 import torch.utils.data.distributed
 import utils
-#from vid_names import vid_names
 from torch.distributed import ReduceOp
 from dataloader.data_load import PlanningDataset
 from model import diffusion, temporal
 from utils import *
 from utils.args import get_args
 from action_dictionary import action_dictionary
-#from action_dict_coin import dictionary_actions
 
 def map_numbers_to_values(input_list, mapping_dict):
     result = []
@@ -92,48 +90,24 @@ def test(vid_names, val_loader, model, args):
     differing_sublists = {}
     all_sublists = {}
     final_pred_list = []
-    file_final_list = "/l/users/ravindu.nagasinghe/New_STEP/PDPP/final_list_T4.txt"
+    file_final_list_test = args.steps_path
     i=1
-    for video_sequence in vid_names:
-        print('video', i , video_sequence)
-        i = i+1
-    #print(vid_names)  
+
     for i_batch, sample_batch in enumerate(val_loader):
-        file_path_action_list = "/l/users/ravindu.nagasinghe/New_STEP/PDPP/output_list_step.txt"
-        # compute output
-        #print('************************')
-        #print(sample_batch)
-        #print('************************')
 
         global_img_tensors = sample_batch[0].cuda().contiguous()
-        #print('image tensor' , global_img_tensors)
-        #print('image tensor size' , global_img_tensors.shape)
+
         video_label = sample_batch[1].cuda()
         batch_size_current, T = video_label.size()
         print('batch size', batch_size_current)
         print('T =', T)
-        #task_class = sample_batch[2].view(-1).cuda()
-        #print('video label', video_label)
-        print('shape video label' , video_label.shape)
-        #print('task class',  task_class)
-        #print('shape task_class' , task_class.shape)
+
         cond = {}
 
         with torch.no_grad():
-            cond[0] = global_img_tensors[:, 0, :].float()  # starting frames . My opininon
-            cond[T - 1] = global_img_tensors[:, -1, :].float() #ending frames . My opininon
-            '''
-            task_onehot = torch.zeros((task_class.size(0), args.class_dim))
-            # [bs*T, ac_dim]
-            ind = torch.arange(0, len(task_class))
-            task_onehot[ind, task_class] = 1.
-            task_onehot = task_onehot.cuda()
-            temp = task_onehot.unsqueeze(1)
-            task_class_ = temp.repeat(1, T, 1)  # [bs, T, args.class_dim]
-            cond['task'] = task_class_
-            '''
-            #print('cond 0', cond[0].shape)
-            #print('cond T-1', cond[T-1].shape)
+            cond[0] = global_img_tensors[:, 0, :].float() 
+            cond[T - 1] = global_img_tensors[:, -1, :].float() 
+
             video_label_reshaped = video_label.view(-1)
             print('video label reshaped:' ,video_label_reshaped.shape)
             output = model(cond, if_jump=True)
@@ -141,24 +115,18 @@ def test(vid_names, val_loader, model, args):
             actions_pred = output.contiguous()
             actions_pred = actions_pred[:, :, :args.action_dim].contiguous()
             print('shape actions pred:', actions_pred.shape) #dim  = [256, 3, 105]
-            argmax_index = torch.argmax(actions_pred, dim = -1) # To find the predicted action numbers for all the action steps iin the batch. Dimension = [128, 3]. 
-            #Predicted action number is the maximum in the action dimension. There are 105 possible action across 18 classes in the CrossTask dataset.
+            argmax_index = torch.argmax(actions_pred, dim = -1) 
             index_list.append(argmax_index)
             print('index list length:', len(index_list))
-            print('argmax actions pred length:', argmax_index.shape)  #dim  = [128, 3]
+            print('argmax actions pred length:', argmax_index.shape)  
             
-            #print('argmax actions pred:', argmax_index)
+
             tensor_list_action_sequence = argmax_index.tolist()
-            #print(tensor_list_action_sequence)
+
             output_list_action_sequence = map_numbers_to_values(tensor_list_action_sequence, action_dictionary)
-            #print(output_list_action_sequence)
-            print('length action sequence', len(output_list_action_sequence))  # length = 4583
 
-            with open(file_path_action_list, "a") as file:
-                for item in output_list_action_sequence:
-                    file.write(str(item)+"\n")
-
-            
+            print('length action sequence', len(output_list_action_sequence))  
+ 
             index_differing = i_batch
     
             for i in range(len(video_label)):
@@ -174,7 +142,6 @@ def test(vid_names, val_loader, model, args):
                         'predicted_list': argmax_index[i].tolist(),
                         'predicted_sequence': output_list_action_sequence[i],
                         'vid': vid_names[index_vid]['vid'],
-                        'task':vid_names[index_vid]['task_id'],
                         'legal_range':vid_names[index_vid]['legal_range']
                     }
 
@@ -187,7 +154,6 @@ def test(vid_names, val_loader, model, args):
                         'predicted_list': argmax_index[i].tolist(),
                         'predicted_sequence': output_list_action_sequence[i],
                         'vid': vid_names[index_vid_sim]['vid'],
-                        'task':vid_names[index_vid_sim]['task_id'],
                         'legal_range':vid_names[index_vid_sim]['legal_range'],
                         
                     }   
@@ -208,18 +174,18 @@ def test(vid_names, val_loader, model, args):
     for index, sublist_data in differing_sublists.items():
         print(f"Index: {index}", '||', f"i_batch: {sublist_data['i_batch']}", '||',  f"Video Label List: {sublist_data['video_label_list']}", '||',  
               f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||', f"Vid: {sublist_data['vid']}", 
-              '||', f"task {sublist_data['task']}", '||', f"Legal range: {sublist_data['legal_range']}")
+              '||', f"Legal range: {sublist_data['legal_range']}")
         print()
     print('Length of the failure cases : ' , len(differing_sublists) )
 
     print('All lists.............................................................................................')
     for index, sublist_data in all_sublists.items():
         print(f"Index: {index}", '||', f"i_batch: {sublist_data['i_batch']}", '||',  f"Video Label List: {sublist_data['video_label_list']}", '||',  
-              f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||', f"Vid: {sublist_data['vid']}", 
-              '||', f"task {sublist_data['task']}", '||', f"Legal range: {sublist_data['legal_range']}")
+              f"Predicted List: {sublist_data['predicted_list']}", '||', f"Predicted Sequence: {sublist_data['predicted_sequence']}", '||', f"Vid: {sublist_data['vid']}"
+              , '||', f"Legal range: {sublist_data['legal_range']}")
         print()
     
-    with open (file_final_list, 'w') as ou:
+    with open (file_final_list_test, 'w') as ou:
         json.dump(final_pred_list, ou)
     return torch.tensor(acc_top1.avg), \
            torch.tensor(trajectory_success_rate_meter.avg), \
@@ -257,6 +223,20 @@ def main():
     else:
         main_worker(args.gpu, ngpus_per_node, args)
     
+    #####Generate final step predictions
+    with open(args.json_path_val, 'r') as original_data_file:
+        original_data = json.load(original_data_file)
+
+    with open(args.steps_path, 'r') as large_list_file:
+        large_list = json.load(large_list_file)
+
+
+    for i, item in enumerate(original_data):
+        item["id"]["pred_list"] = large_list[i]
+
+    with open(args.step_model_output, 'w') as modified_data_file:
+        json.dump(original_data, modified_data_file)
+
 
 
 def main_worker(gpu, ngpus_per_node, args):
@@ -289,26 +269,7 @@ def main_worker(gpu, ngpus_per_node, args):
     )
     
     vid_names = test_dataset.vid_names
-    '''
-    vid_name_path  = '/home/ravindu.nagasinghe/GithubCodes/PDPP/PDPP/vid_names.txt'
-    # Initialize an empty list to store the data
-    vid_names = []
 
-    # Open the file for reading
-    with open(vid_name_path, 'r') as file:
-
-        
-            # Convert the read string into a Python list (assuming the file contains a list)
-        try:
-            vid_names = json.load(file)
-        except json.JSONDecodeError:
-            print("Error decoding JSON data from the file.")
-    '''
-
-    #print('################################################')
-    #print(vid_names)
-    #print('################################################')
-    
     if args.distributed:
         test_sampler = torch.utils.data.distributed.DistributedSampler(test_dataset)
         test_sampler.shuffle = False

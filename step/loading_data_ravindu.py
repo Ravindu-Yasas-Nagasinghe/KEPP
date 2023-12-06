@@ -13,7 +13,7 @@ import torch.utils.data
 import torch.utils.data.distributed
 from torch.distributed import ReduceOp
 import torch.nn.functional as F
-from dataloader.data_load_mlp import PlanningDataset
+from dataloader.train_test_data_load import PlanningDataset
 from model.helpers import get_lr_schedule_with_warmup, Logger
 import torch.nn as nn
 from utils import *
@@ -40,7 +40,7 @@ def main():
             is_val=True,
             model=None,
         )
-    print('finished')
+    print('test loaded')
 
 if __name__ == "__main__":
     main()
