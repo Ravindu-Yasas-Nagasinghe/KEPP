@@ -10,7 +10,7 @@ import numpy as np
 import random
 import cv2
 # Define the path to save/load the trained graph and checkpoints
-graph_save_path = '/home/ravindu.nagasinghe/GithubCodes/RaviPP/data/graphs/out_edge_N_graph/trained_graph.pkl'
+graph_save_path = '/l/users/ravindu.nagasinghe/KEPP/PKG/graphs/CrossTaskHow/out_edge_N_graph/trained_graph.pkl'
 
 def get_all_paths(graph, start_node, end_node, cutoff):
   paths = []
@@ -26,9 +26,6 @@ def get_all_paths(graph, start_node, end_node, cutoff):
       #if neighbor not in path:
       _dfs(neighbor, path + [node], cutoff)
     
-    # Add a condition to output paths that loop back to the end node.
-    #if node == end_node and path[-1] == end_node:
-    #  paths.append(path + [node])
 
   _dfs(start_node, [], cutoff)
   return paths
@@ -127,19 +124,6 @@ def train_graph_min_max_normalize(video_sequences):
     logging.basicConfig(filename='training.log', level=logging.INFO, format='%(asctime)s - %(levelname)s: %(message)s')
     logging.info("Graph training completed.")
 
-    # Step 3: Validate the function with input and output nodes
-    start_node = 2
-    end_node = 4
-    n = 3  #numbere of paths required
-    top_paths = find_top_n_paths(graph, start_node, end_node, n, 4)
-
-
-
-    print(f"Highest weight paths from {start_node} to {end_node} are:")
-    for i, (path, weight) in enumerate(top_paths, 1):
-        print(f"[Path {i}] Weight: {weight}, Path: {path}")
-    print(top_paths[0])
-
 
 def calculate_weight_sequence_method_one(graph, path):
     weight_sequence = []
@@ -199,7 +183,7 @@ def find_top_n_paths(graph, start_node, end_node, n, max_path_length):
     if not graph.has_node(start_node) or not graph.has_node(end_node):
         return []  # Skip if start or end node is not in the graph
 
-    #all_paths = list(nx.all_simple_paths(graph, start_node, end_node, cutoff=max_path_length))
+
     # Get all paths, including loops.
     all_paths = get_all_paths(graph, start_node, end_node,max_path_length)
 
@@ -274,7 +258,7 @@ def validate_graph(videos,testing_sequences):
     print('len path set:', len(path_Set))
     differing_sublists ={}
     for i in range(len(videos)):
-        #all_sublists_differ = all(not torch.equal(sublist, video_sequences[i]) for sublist in path_Set[i])
+        
         flag = False
         for sublist in path_Set[i]:
             flag = are_lists_similar(videos[i], sublist) 
@@ -298,19 +282,15 @@ def validate_graph_final(testing_sequences, graph_):
     
     start = testing_sequences[0]
     end = testing_sequences[1]
-    paths = find_top_n_paths(graph_, start, end,n=1, max_path_length=6)
+    paths = find_top_n_paths(graph_, start, end,n=2, max_path_length=4)
         #if paths:
     path_Set.append([item[0] for item in paths])
-    '''
+
     if (len(path_Set[0])==0):
-        path_Set[0] = [[start,start,start, end, end, end], [start,start,start, end, end, end]]  ###zero pad if path does not exist in knowledge graph
+        path_Set[0] = [[start,start, end, end]]    ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     if (len(path_Set[0])==1):
         path_Set[0] = [path_Set[0], path_Set[0]]  ###zero pad if path does not exist in knowledge graph
-        print(path_Set)
-    '''
-    if (len(path_Set[0])==0):
-        path_Set[0] = [[start,start,start, end, end, end]]    ###zero pad if path does not exist in knowledge graph
         print(path_Set)
     return path_Set
 
@@ -484,7 +464,7 @@ if __name__ == "__main__":
 
     mode = input("Select mode (train_minmax or train_out_n or validate or visualize or seq_view): ").lower()
     if mode == 'train_minmax':
-        with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/data/training_action_list.txt', 'r') as file:
+        with open('/l/users/ravindu.nagasinghe/KEPP/PKG/data/train_graph_lists/crossTask/training_action_list.txt', 'r') as file:
             for line in file:
                 # Parse each line as a JSON object
                 sequence_data = json.loads(line)
@@ -498,10 +478,7 @@ if __name__ == "__main__":
         train_graph_min_max_normalize(video_sequences)
 
     elif mode == 'train_out_n':
-        #with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/data/training_action_list.txt', 'r') as file:
-        #with open('/l/users/ravindu.nagasinghe/MAIN_codes/CrossTask_base/temp/PDPP/training_action_list_Cross_base.txt', 'r') as file:
-        #with open('/l/users/ravindu.nagasinghe/MAIN_codes/NIV/step/PDPP/outputs/testing_action_list.txt', 'r') as file:
-        with open('/home/ravindu.nagasinghe/GithubCodes/COIN/step/PDPP/train_action_list_coin.txt', 'r') as file:
+        with open('/l/users/ravindu.nagasinghe/KEPP/PKG/data/train_graph_lists/crossTask/training_action_list.txt', 'r') as file:
             for line in file:
                 # Parse each line as a JSON object
                 sequence_data = json.loads(line)
@@ -517,43 +494,35 @@ if __name__ == "__main__":
         testing_sequence =[]
         videos=[]
         vids =[]
-        with open('/home/ravindu.nagasinghe/GithubCodes/PDPP/PDPP/final_list_step_test_MODEL.json', 'r') as file:
+        with open('/l/users/ravindu.nagasinghe/KEPP/step/train_data_step_model.json', 'r') as file:
             data = json.load(file)
             with open(graph_save_path, 'rb') as graph_file:
                 graph_ = pickle.load(graph_file)
             for item in data:
-                # Parse each line as a JSON object
+
                 sequence_data = item['id']
                 vid = sequence_data['vid']
                 legal_range = sequence_data['legal_range']
                 pred_list = sequence_data['pred_list']
-                # Store only the legal_range part
-                #video_sequences[vid] = legal_range
-                videos.append(legal_range)
-                #vids.append(vid)
 
-                #first_digit = legal_range[0][-1]
-                #last_digit = legal_range[-1][-1]
+                videos.append(legal_range)
+
                 first_digit = pred_list[0]
                 last_digit = pred_list[-1]
 
-                # Create a list containing the first and last digits
                 result_list = [first_digit, last_digit]
                 path = validate_graph_final(result_list, graph_)
                 
-                sequence_data['graph_action_path'] = path[0][0]  #####for n=1
-                #sequence_data['graph_action_path'] = path[0]  #####for n>1
+                #sequence_data['graph_action_path'] = path[0][0]  #####for n=1
+                sequence_data['graph_action_path'] = path[0]  #####for n>1
 
-                #testing_sequence.append(result_list)
-        with open('/home/ravindu.nagasinghe/GithubCodes/RaviPP/final_list_step_test_MODEL_PKG.json', 'w') as outfile:
+        with open('/l/users/ravindu.nagasinghe/KEPP/plan/data_lists/train_list.json', 'w') as outfile:
             json.dump(data, outfile)
-        #print(video_sequences)
-        #print(testing_sequence)
-        #validate_graph(videos, testing_sequence)
+
     elif mode == 'visualize':
         with open(graph_save_path, 'rb') as graph_file:
             graph = pickle.load(graph_file)
-        # Input node
+
         input_node = int(input("Enter a value for input_node: "))  #  input node
         print('visualize connections to node ......', input_node, ' Which is ',action_dictionary.get(input_node+1, f'Action {input_node}'))
         # Find neighbors and their weights
