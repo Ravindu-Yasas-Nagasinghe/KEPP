@@ -1,0 +1,1 @@
+The checkpoint with maximum vaidationaccuract will be saved here. Use the path of the checkpoint as the input to the inference file.
