@@ -102,3 +102,5 @@ Results of given checkpoints:
 | Crosstask_T=4 |	21.02	| 56.08	| 64.15 |
 | COIN_T=4 | 15.63 | 39.53 |	53.27 |
 | NIV_T=4 |	22.71 |	41.59 |	91.49 |
+
+Checkpoint links will be uploaded soon
