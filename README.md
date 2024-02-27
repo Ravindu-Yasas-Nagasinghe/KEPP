@@ -103,4 +103,12 @@ Results of given checkpoints:
 | COIN_T=4 | 15.63 | 39.53 |	53.27 |
 | NIV_T=4 |	22.71 |	41.59 |	91.49 |
 
+Here we present the qualitative examples of our proposed method. Intermediate steps are padded in the step model because it only predicts the start and end actions.
+
+
+<p align="center">
+  <img src="![2](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP/assets/56619402/686ee6ab-3256-43bd-a9e7-d6ef1bec8044)" width="400" />
+  <img src="![1KEPP](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP/assets/56619402/28492179-d19d-4589-90c7-d1b773629750)" width="400" /> 
+</p>
+
 Checkpoint links will be uploaded soon
