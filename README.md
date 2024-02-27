@@ -1,5 +1,5 @@
 # KEPP
-[CVPR 2024 - Under Review] KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos
+[CVPR 2024] KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos
 
 This repository gives the official implementation of KEPP:Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos (CVPR 2024 - Under Review)
 
