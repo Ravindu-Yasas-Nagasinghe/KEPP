@@ -1,12 +1,32 @@
-# KEPP
-[CVPR 2024] KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos
+# KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos-CVPR 2024
+
+<!-- [![paper](https://img.shields.io/badge/arXiv-Paper-42FF33)](https://arxiv.org/abs/2306.08271) 
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://bimsarapathiraja.github.io/mccl-project-page/)  -->
 
 This repository gives the official implementation of KEPP:Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos (CVPR 2024)
 
 In our project, we explore the capability of an agent to construct a logical sequence of action steps, thereby assembling a strategic procedural plan. This plan is crucial for navigating from an initial visual observation to a target visual outcome, as depicted in real-life instructional videos. Existing works have attained partial success by extensively leveraging various sources of information available in the datasets, such as heavy intermediate visual observations, procedural names, or natural language step-by-step instructions, for features or supervision signals. However, the task remains formidable due to the implicit causal constraints in the sequencing of steps and the variability inherent in multiple feasible plans. To tackle these intricacies that previous efforts have overlooked, we propose to enhance the agent's capabilities by infusing it with procedural knowledge. This knowledge, sourced from training procedure plans and structured as a directed weighted graph, equips the agent to better navigate the complexities of step sequencing and its potential variations. We coin our approach KEPP, a novel Knowledge-Enhanced Procedure Planning system, which harnesses a probabilistic procedural knowledge graph extracted from training data, effectively acting as a comprehensive textbook for the training domain. Experimental evaluations across three widely-used datasets under settings of varying complexity reveal that KEPP attains superior, state-of-the-art results while requiring only minimal supervision. The main architexture of our model is as follows.
 
+<!-- ## Citation
+If you find our work useful. Please consider giving a star :star: and a citation.
+```bibtex
+@InProceedings{Pathiraja_2023_CVPR,
+        author    = {Pathiraja, Bimsara and Gunawardhana, Malitha and Khan, Muhammad Haris},
+        title     = {Multiclass Confidence and Localization Calibration for Object Detection},
+        booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+        month     = {June},
+        year      = {2023},
+        pages     = {19734-19743}
+``` -->
+
 ![kepp (2)_page-0001](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP/assets/56619402/ef7a12f5-bf7d-461d-a03b-4630ccd23751)
 
+### Contents  
+1) [Setup](#Setup) 
+2) [Data Preparation](#Data-Preparation)
+3) [Train Step model](#Train-Step-model)
+4) [Generate paths from procedure knowlege graph](#Generate-paths-from-procedure-knowlege-graph)
+5) [Inference](#Inference)
 ## Setup
 In a conda env with cuda available, run:
 ```shell
@@ -112,3 +132,11 @@ Here we present the qualitative examples of our proposed method. Intermediate st
 
 
 Checkpoint links will be uploaded soon
+
+
+
+### Contact
+In case of any query, create issue or contact ravindunagasinghe1998@gmail.com
+
+### Acknowledgement
+This codebase is built on <a href="https://github.com/MCG-NJU/PDPP?tab=readme-ov-file">PDPP</a>
