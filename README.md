@@ -134,7 +134,17 @@ Here we present the qualitative examples of our proposed method. Intermediate st
 Checkpoint links will be uploaded soon
 
 
-
+### Citation
+```shell
+@misc{nagasinghe2024use,
+      title={Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos}, 
+      author={Kumaranage Ravindu Yasas Nagasinghe and Honglu Zhou and Malitha Gunawardhana and Martin Renqiang Min and Daniel Harari and Muhammad Haris Khan},
+      year={2024},
+      eprint={2403.02782},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 ### Contact
 In case of any query, create issue or contact ravindunagasinghe1998@gmail.com
 
