@@ -1,7 +1,8 @@
 # KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos-CVPR 2024
 
-<!-- [![paper](https://img.shields.io/badge/arXiv-Paper-42FF33)](https://arxiv.org/abs/2306.08271) 
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://bimsarapathiraja.github.io/mccl-project-page/)  -->
+[![paper](https://img.shields.io/badge/arXiv-Paper-42FF33)](https://arxiv.org/abs/2403.02782) 
+[[Paper :page_with_curl:]](https://arxiv.org/abs/2403.02782)&nbsp;&nbsp;&nbsp;
+<!--[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://bimsarapathiraja.github.io/mccl-project-page/)  -->
 
 This repository gives the official implementation of KEPP:Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos (CVPR 2024)
 
