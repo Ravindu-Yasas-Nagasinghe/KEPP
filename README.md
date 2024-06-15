@@ -136,13 +136,13 @@ Checkpoint links will be uploaded soon
 
 ### Citation
 ```shell
-@misc{nagasinghe2024use,
-      title={Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos}, 
-      author={Kumaranage Ravindu Yasas Nagasinghe and Honglu Zhou and Malitha Gunawardhana and Martin Renqiang Min and Daniel Harari and Muhammad Haris Khan},
-      year={2024},
-      eprint={2403.02782},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Nagasinghe_2024_CVPR,
+    author    = {Nagasinghe, Kumaranage Ravindu Yasas and Zhou, Honglu and Gunawardhana, Malitha and Min, Martin Renqiang and Harari, Daniel and Khan, Muhammad Haris},
+    title     = {Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {18816-18826}
 }
 ```
 ### Contact
