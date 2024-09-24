@@ -149,4 +149,6 @@ Checkpoint links will be uploaded soon
 In case of any query, create issue or contact ravindunagasinghe1998@gmail.com
 
 ### Acknowledgement
-This codebase is built on <a href="https://github.com/MCG-NJU/PDPP?tab=readme-ov-file">PDPP</a>
+* This work was supported by joint MBZUAI-WIS grant P007. The authors are grateful for their generous support, which made this research possible.
+* This codebase is built on <a href="https://github.com/MCG-NJU/PDPP?tab=readme-ov-file">PDPP</a>
+
